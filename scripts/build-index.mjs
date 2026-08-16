@@ -8,10 +8,10 @@
 //   GITHUB_TOKEN=... node scripts/build-index.mjs --releases   # 5000 req/h
 //
 // --releases is what keeps the index honest without a PR per version bump:
-// entries with "github" and automatic_version_check get their newest
-// installable release recorded, picked the same way the launcher's
-// ModUpdate.pickZipAsset does (prefer <id>-<version>.zip, then <id>*.zip,
-// then any .zip) so the site and the game agree on what "latest" means.
+// entries with "github" and automatic_version_check get their highest eligible
+// semantic-version release recorded. Their release asset is also emitted as the
+// current direct download URL, so a first install and a later update resolve to
+// the same verified ZIP even if a client refreshes only part of the feed.
 
 import { copyFileSync, existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
 import { dirname, join, resolve } from 'node:path';
@@ -76,6 +76,9 @@ if (withReleases) {
     try {
       mod.latest = await latestRelease(mod);
       mod.update_check = mod.latest ? 'ok' : 'no installable release';
+      // Keep an initial index install on the same current asset as an update.
+      // The launcher still prefers `latest.zip` while its release check is OK.
+      if (mod.latest?.zip?.url) mod.downloadURL = mod.latest.zip.url;
     } catch (err) {
       mod.update_check = `error: ${err.message}`;
       console.error(`${mod.folder}: ${err.message}`);
@@ -163,8 +166,45 @@ function parseRelease(doc, modId) {
   };
 }
 
+function compareVersionDescending(a, b) {
+  const parse = (value) => {
+    const match = String(value || '').match(/^(\d+)\.(\d+)\.(\d+)(?:-([0-9A-Za-z.-]+))?(?:\+[0-9A-Za-z.-]+)?$/);
+    if (!match) return null;
+    return { core: [Number(match[1]), Number(match[2]), Number(match[3])], pre: match[4] ? match[4].split('.') : null };
+  };
+  const left = parse(a), right = parse(b);
+  if (!left || !right) return String(b).localeCompare(String(a));
+  for (let i = 0; i < left.core.length; i += 1) {
+    if (left.core[i] !== right.core[i]) return right.core[i] - left.core[i];
+  }
+  if (!left.pre && right.pre) return -1;
+  if (left.pre && !right.pre) return 1;
+  if (!left.pre && !right.pre) return 0;
+  const count = Math.max(left.pre.length, right.pre.length);
+  for (let i = 0; i < count; i += 1) {
+    const one = left.pre[i], two = right.pre[i];
+    if (one === undefined) return -1;
+    if (two === undefined) return 1;
+    if (one === two) continue;
+    const oneNumber = /^\d+$/.test(one), twoNumber = /^\d+$/.test(two);
+    if (oneNumber && twoNumber) return Number(two) - Number(one);
+    if (oneNumber) return -1;
+    if (twoNumber) return 1;
+    return two.localeCompare(one);
+  }
+  return 0;
+}
+
+function newestRelease(rows) {
+  return rows.sort((a, b) => {
+    const byVersion = compareVersionDescending(a.version, b.version);
+    if (byVersion !== 0) return byVersion;
+    return String(b.published_at || '').localeCompare(String(a.published_at || ''));
+  })[0] || null;
+}
+
 async function latestRelease(mod) {
-  const releases = await ghJson(`https://api.github.com/repos/${mod.github}/releases?per_page=30`);
+  const releases = await ghJson(`https://api.github.com/repos/${mod.github}/releases?per_page=100`);
   if (!Array.isArray(releases) || releases.length === 0) return null;
 
   if (mod.fixed_release_tag) {
@@ -172,5 +212,6 @@ async function latestRelease(mod) {
     return pinned ? parseRelease(pinned, mod.id) : null;
   }
   const parsed = releases.map((r) => parseRelease(r, mod.id)).filter(Boolean);
-  return parsed.find((r) => !r.prerelease) ?? parsed[0] ?? null;
+  const stable = parsed.filter((r) => !r.prerelease);
+  return newestRelease(stable.length > 0 ? stable : parsed);
 }

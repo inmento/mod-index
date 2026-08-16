@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-16T19:16:18.069Z",
+  "generated_at": "2026-08-16T19:30:10.932Z",
   "count": 4,
   "categories": [
     "GAMEPLAY",
@@ -60,7 +60,8 @@
           "size": 23785
         }
       },
-      "update_check": "ok"
+      "update_check": "ok",
+      "downloadURL": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.5/gym_leader_shuffle-1.0.5.zip"
     },
     {
       "folder": "inmento@item_randomizer",
@@ -104,7 +105,8 @@
           "size": 23822
         }
       },
-      "update_check": "ok"
+      "update_check": "ok",
+      "downloadURL": "https://github.com/inmento/Item-Randomizer/releases/download/1.0.9/item_randomizer-1.0.9.zip"
     },
     {
       "folder": "inmento@randomized_gym_challenge",
@@ -155,7 +157,8 @@
           "size": 36567
         }
       },
-      "update_check": "ok"
+      "update_check": "ok",
+      "downloadURL": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/1.0.5-alpha/randomized_gym_challenge-1.0.5.zip"
     },
     {
       "folder": "inmento@starter_picker",
@@ -203,7 +206,8 @@
           "size": 26688
         }
       },
-      "update_check": "ok"
+      "update_check": "ok",
+      "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.0.7/starter_picker-1.0.7.zip"
     }
   ]
 }
