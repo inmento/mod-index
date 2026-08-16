@@ -3,7 +3,7 @@
   "title": "Item Randomizer",
   "author": "inmento",
   "summary": "Persistent safe item randomization for map pickups, hidden finds, berries, gifts, eligible held items, and protected New Game PC items.",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "categories": ["GAMEPLAY", "QOL"],
   "tags": ["items", "randomizer", "weighted loot", "gold"],
   "repo": "https://github.com/inmento/Item-Randomizer",

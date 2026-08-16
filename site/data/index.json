@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-16T07:59:13.054Z",
+  "generated_at": "2026-08-16T08:31:34.597Z",
   "count": 4,
   "categories": [
     "GAMEPLAY",
@@ -23,7 +23,7 @@
       "title": "Gym Leader Shuffle",
       "author": "inmento",
       "summary": "Shuffle Kanto and Johto Gym Leaders while each physical gym keeps its badge, rewards, and intended level curve.",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "categories": [
         "GAMEPLAY"
       ],
@@ -49,15 +49,15 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@gym_leader_shuffle/description.md",
       "latest": {
-        "version": "1.0.1",
-        "tag": "1.0.1",
-        "name": "Gym Leader Shuffle 1.0.1",
+        "version": "1.0.2",
+        "tag": "1.0.2",
+        "name": "Gym Leader Shuffle 1.0.2 — Testing Action Quality-of-Life",
         "prerelease": false,
-        "published_at": "2026-08-16T06:18:12Z",
+        "published_at": "2026-08-16T08:30:34Z",
         "zip": {
-          "name": "gym_leader_shuffle-1.0.1.zip",
-          "url": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.1/gym_leader_shuffle-1.0.1.zip",
-          "size": 16955
+          "name": "gym_leader_shuffle-1.0.2.zip",
+          "url": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.2/gym_leader_shuffle-1.0.2.zip",
+          "size": 22103
         }
       },
       "update_check": "ok"
@@ -68,7 +68,7 @@
       "title": "Item Randomizer",
       "author": "inmento",
       "summary": "Persistent safe item randomization for map pickups, hidden finds, berries, gifts, eligible held items, and protected New Game PC items.",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "categories": [
         "GAMEPLAY",
         "QOL"
@@ -92,15 +92,15 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@item_randomizer/description.md",
       "latest": {
-        "version": "1.0.4",
-        "tag": "1.0.4",
-        "name": "Item Randomizer 1.0.4",
+        "version": "1.0.5",
+        "tag": "1.0.5",
+        "name": "Item Randomizer 1.0.5 — Gen 1 PC Seeding Hotfix",
         "prerelease": false,
-        "published_at": "2026-08-16T06:18:10Z",
+        "published_at": "2026-08-16T08:30:32Z",
         "zip": {
-          "name": "item_randomizer-1.0.4.zip",
-          "url": "https://github.com/inmento/Item-Randomizer/releases/download/1.0.4/item_randomizer-1.0.4.zip",
-          "size": 13705
+          "name": "item_randomizer-1.0.5.zip",
+          "url": "https://github.com/inmento/Item-Randomizer/releases/download/1.0.5/item_randomizer-1.0.5.zip",
+          "size": 18042
         }
       },
       "update_check": "ok"
@@ -163,7 +163,7 @@
       "title": "Starter Picker",
       "author": "inmento",
       "summary": "Choose player starters by ball position in Gen 1 and Gold while preserving rival counter-picks and player-only DV options.",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "categories": [
         "GAMEPLAY",
         "QOL"
@@ -191,15 +191,15 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@starter_picker/description.md",
       "latest": {
-        "version": "1.0.3",
-        "tag": "1.0.3",
-        "name": "Starter Picker 1.0.3",
+        "version": "1.0.4",
+        "tag": "1.0.4",
+        "name": "Starter Picker 1.0.4 — New Game Settings Reset",
         "prerelease": false,
-        "published_at": "2026-08-16T06:18:13Z",
+        "published_at": "2026-08-16T08:30:36Z",
         "zip": {
-          "name": "starter_picker-1.0.3.zip",
-          "url": "https://github.com/inmento/Starter-Picker/releases/download/1.0.3/starter_picker-1.0.3.zip",
-          "size": 13875
+          "name": "starter_picker-1.0.4.zip",
+          "url": "https://github.com/inmento/Starter-Picker/releases/download/1.0.4/starter_picker-1.0.4.zip",
+          "size": 21698
         }
       },
       "update_check": "ok"
