@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-16T09:14:23.313Z",
+  "generated_at": "2026-08-16T09:24:43.177Z",
   "count": 4,
   "categories": [
     "GAMEPLAY",
@@ -23,7 +23,7 @@
       "title": "Gym Leader Shuffle",
       "author": "inmento",
       "summary": "Shuffle Kanto and Johto Gym Leaders while each physical gym keeps its badge, rewards, and intended level curve.",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "categories": [
         "GAMEPLAY"
       ],
@@ -49,15 +49,15 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@gym_leader_shuffle/description.md",
       "latest": {
-        "version": "1.0.2",
-        "tag": "1.0.2",
-        "name": "Gym Leader Shuffle 1.0.2 — Testing Action Quality-of-Life",
+        "version": "1.0.3",
+        "tag": "1.0.3",
+        "name": "1.0.3 — Gym Text Quality-of-Life",
         "prerelease": false,
-        "published_at": "2026-08-16T08:30:34Z",
+        "published_at": "2026-08-16T09:24:21Z",
         "zip": {
-          "name": "gym_leader_shuffle-1.0.2.zip",
-          "url": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.2/gym_leader_shuffle-1.0.2.zip",
-          "size": 22103
+          "name": "gym_leader_shuffle-1.0.3.zip",
+          "url": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.3/gym_leader_shuffle-1.0.3.zip",
+          "size": 23963
         }
       },
       "update_check": "ok"
