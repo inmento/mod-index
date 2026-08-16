@@ -1,12 +1,12 @@
 # Starter Picker
 
-Starter Picker lets players configure the Pokémon in each original starter-ball position while preserving the game’s intended rival counter-pick relationship. It supports all 151 Gen 1 species and all 251 Gold species.
+Starter Picker lets players configure the Pokémon in each original starter-ball position while preserving the game’s intended rival counter-pick relationship. It supports all 151 Gen 1 species and all 251 Gold species. Version 1.0.6 adds explicitly untested synchronization with active Gen 1 and Gold starter randomizer assignments.
 
 ## Features
 
 Gen 1 supports Oak’s Lab, player-only maximum DVs, and a dedicated in-game 151-species browser under **START > OPTIONS**. Gold supports Elm’s Lab, dynamic configured-species dialogue and presentation, player-only Preserve, Max, Random, and legal Shiny DV modes, plus named or weighted starter held-item choices.
 
-The mod also recognizes supported Gen 1 and Gold Randomizer configurations so the player’s named ball selection remains authoritative. Rival DVs and held items are not changed by player-only settings.
+The mod recognizes supported Gen 1 and Gold Randomizer configurations and synchronizes the active assignments when they are available. A deliberate Starter Picker change afterward remains authoritative. The rival prefers a starter super-effective against the player’s final choice, avoids candidates the player defeats super-effectively when no direct weakness exists, and otherwise chooses randomly. Rival DVs and held items are not changed by player-only settings.
 
 ## Install
 

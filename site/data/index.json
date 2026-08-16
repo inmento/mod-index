@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-16T09:24:55.509Z",
+  "generated_at": "2026-08-16T13:16:11.293Z",
   "count": 4,
   "categories": [
     "GAMEPLAY",
@@ -162,8 +162,8 @@
       "id": "starter_picker",
       "title": "Starter Picker",
       "author": "inmento",
-      "summary": "Choose player starters by ball position in Gen 1 and Gold while preserving rival counter-picks and player-only DV options.",
-      "version": "1.0.5",
+      "summary": "Choose player starters by ball position in Gen 1 and Gold, synchronize active randomizer assignments, and apply weakness-aware rival counter-picks with player-only DV options.",
+      "version": "1.0.6",
       "categories": [
         "GAMEPLAY",
         "QOL"
@@ -173,7 +173,8 @@
         "oak lab",
         "elm lab",
         "dvs",
-        "gold"
+        "gold",
+        "randomizer compatibility"
       ],
       "repo": "https://github.com/inmento/Starter-Picker",
       "github": "inmento/Starter-Picker",
@@ -191,15 +192,15 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@starter_picker/description.md",
       "latest": {
-        "version": "1.0.5",
-        "tag": "1.0.5",
-        "name": "1.0.5",
+        "version": "1.0.6",
+        "tag": "1.0.6",
+        "name": "Starter Picker 1.0.6",
         "prerelease": false,
-        "published_at": "2026-08-16T09:13:19Z",
+        "published_at": "2026-08-16T13:15:27Z",
         "zip": {
-          "name": "starter_picker-1.0.5.zip",
-          "url": "https://github.com/inmento/Starter-Picker/releases/download/1.0.5/starter_picker-1.0.5.zip",
-          "size": 22273
+          "name": "starter_picker-1.0.6.zip",
+          "url": "https://github.com/inmento/Starter-Picker/releases/download/1.0.6/starter_picker-1.0.6.zip",
+          "size": 21430
         }
       },
       "update_check": "ok"
