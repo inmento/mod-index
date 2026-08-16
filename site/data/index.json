@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-16T13:16:54.750Z",
+  "generated_at": "2026-08-16T13:37:21.478Z",
   "count": 4,
   "categories": [
     "GAMEPLAY",
@@ -67,14 +67,15 @@
       "id": "item_randomizer",
       "title": "Item Randomizer",
       "author": "inmento",
-      "summary": "Persistent safe item randomization for map pickups, hidden finds, berries, gifts, eligible held items, and protected New Game PC items.",
-      "version": "1.0.7",
+      "summary": "Persistent safe item randomization for map pickups, hidden finds, shops, berries, gifts, eligible held items, and protected New Game PC items in Gen 1 and Gold.",
+      "version": "1.0.8",
       "categories": [
         "GAMEPLAY",
         "QOL"
       ],
       "tags": [
         "items",
+        "shops",
         "randomizer",
         "weighted loot",
         "gold"
@@ -92,15 +93,15 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@item_randomizer/description.md",
       "latest": {
-        "version": "1.0.7",
-        "tag": "1.0.7",
-        "name": "1.0.7",
+        "version": "1.0.8",
+        "tag": "1.0.8",
+        "name": "Item Randomizer 1.0.8",
         "prerelease": false,
-        "published_at": "2026-08-16T09:13:22Z",
+        "published_at": "2026-08-16T13:36:57Z",
         "zip": {
-          "name": "item_randomizer-1.0.7.zip",
-          "url": "https://github.com/inmento/Item-Randomizer/releases/download/1.0.7/item_randomizer-1.0.7.zip",
-          "size": 19264
+          "name": "item_randomizer-1.0.8.zip",
+          "url": "https://github.com/inmento/Item-Randomizer/releases/download/1.0.8/item_randomizer-1.0.8.zip",
+          "size": 20581
         }
       },
       "update_check": "ok"
