@@ -3,7 +3,7 @@
   "title": "Starter Picker",
   "author": "inmento",
   "summary": "Choose player starters by ball position in Gen 1 and Gold while preserving rival counter-picks and player-only DV options.",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "categories": ["GAMEPLAY", "QOL"],
   "tags": ["starters", "oak lab", "elm lab", "dvs", "gold"],
   "repo": "https://github.com/inmento/Starter-Picker",

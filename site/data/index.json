@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-16T08:53:01.612Z",
+  "generated_at": "2026-08-16T09:14:08.355Z",
   "count": 4,
   "categories": [
     "GAMEPLAY",
@@ -68,7 +68,7 @@
       "title": "Item Randomizer",
       "author": "inmento",
       "summary": "Persistent safe item randomization for map pickups, hidden finds, berries, gifts, eligible held items, and protected New Game PC items.",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "categories": [
         "GAMEPLAY",
         "QOL"
@@ -92,15 +92,15 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@item_randomizer/description.md",
       "latest": {
-        "version": "1.0.6",
-        "tag": "1.0.6",
-        "name": "Item Randomizer 1.0.6 — Gen 1 Reroll Event Restoration",
+        "version": "1.0.7",
+        "tag": "1.0.7",
+        "name": "1.0.7",
         "prerelease": false,
-        "published_at": "2026-08-16T08:52:27Z",
+        "published_at": "2026-08-16T09:13:22Z",
         "zip": {
-          "name": "item_randomizer-1.0.6.zip",
-          "url": "https://github.com/inmento/Item-Randomizer/releases/download/1.0.6/item_randomizer-1.0.6.zip",
-          "size": 17802
+          "name": "item_randomizer-1.0.7.zip",
+          "url": "https://github.com/inmento/Item-Randomizer/releases/download/1.0.7/item_randomizer-1.0.7.zip",
+          "size": 19264
         }
       },
       "update_check": "ok"
@@ -163,7 +163,7 @@
       "title": "Starter Picker",
       "author": "inmento",
       "summary": "Choose player starters by ball position in Gen 1 and Gold while preserving rival counter-picks and player-only DV options.",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "categories": [
         "GAMEPLAY",
         "QOL"
@@ -191,15 +191,15 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@starter_picker/description.md",
       "latest": {
-        "version": "1.0.4",
-        "tag": "1.0.4",
-        "name": "Starter Picker 1.0.4 — New Game Settings Reset",
+        "version": "1.0.5",
+        "tag": "1.0.5",
+        "name": "1.0.5",
         "prerelease": false,
-        "published_at": "2026-08-16T08:30:36Z",
+        "published_at": "2026-08-16T09:13:19Z",
         "zip": {
-          "name": "starter_picker-1.0.4.zip",
-          "url": "https://github.com/inmento/Starter-Picker/releases/download/1.0.4/starter_picker-1.0.4.zip",
-          "size": 21698
+          "name": "starter_picker-1.0.5.zip",
+          "url": "https://github.com/inmento/Starter-Picker/releases/download/1.0.5/starter_picker-1.0.5.zip",
+          "size": 22273
         }
       },
       "update_check": "ok"
