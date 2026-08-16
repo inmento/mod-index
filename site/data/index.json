@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-16T19:14:43.280Z",
+  "generated_at": "2026-08-16T19:16:02.712Z",
   "count": 4,
   "categories": [
     "GAMEPLAY",
@@ -22,8 +22,8 @@
       "id": "gym_leader_shuffle",
       "title": "Gym Leader Shuffle",
       "author": "inmento",
-      "summary": "Standalone Kanto and Johto Gym Leader Shuffle; no randomizer or starter mod is required, and each physical gym keeps its badge, rewards, and intended level curve.",
-      "version": "1.0.4",
+      "summary": "Standalone Kanto and Johto Gym Leader Shuffle with optional Crystal 251 detection; no randomizer or starter mod is required, and each physical gym keeps its badge, rewards, and intended level curve.",
+      "version": "1.0.5",
       "categories": [
         "GAMEPLAY"
       ],
@@ -67,8 +67,8 @@
       "id": "item_randomizer",
       "title": "Item Randomizer",
       "author": "inmento",
-      "summary": "Persistent safe item randomization for map pickups, hidden finds, shops, berries, gifts, eligible held items, and protected New Game PC items in Gen 1 and Gold.",
-      "version": "1.0.8",
+      "summary": "Persistent Crystal 251-safe item randomization for map pickups, hidden finds, shops, berries, gifts, eligible held items, and protected New Game PC items in Gen 1 and Gold.",
+      "version": "1.0.9",
       "categories": [
         "GAMEPLAY",
         "QOL"
@@ -162,8 +162,8 @@
       "id": "starter_picker",
       "title": "Starter Picker",
       "author": "inmento",
-      "summary": "Choose player starters by ball position in Gen 1 and Gold, synchronize active randomizer assignments, and apply weakness-aware rival counter-picks with player-only DV options.",
-      "version": "1.0.6",
+      "summary": "Choose Gen 1 and Gold starters by ball position, preserve Crystal 251 data, synchronize supported randomizer assignments, and apply weakness-aware rival picks with player-only DV options.",
+      "version": "1.0.7",
       "categories": [
         "GAMEPLAY",
         "QOL"
