@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-16T07:09:00.332Z",
-  "count": 3,
+  "generated_at": "2026-08-16T07:24:37.667Z",
+  "count": 4,
   "categories": [
     "GAMEPLAY",
     "CONTENT",
@@ -101,6 +101,58 @@
           "name": "item_randomizer-1.0.4.zip",
           "url": "https://github.com/inmento/Item-Randomizer/releases/download/1.0.4/item_randomizer-1.0.4.zip",
           "size": 13705
+        }
+      },
+      "update_check": "ok"
+    },
+    {
+      "folder": "inmento@randomized_gym_challenge",
+      "id": "randomized_gym_challenge",
+      "title": "Randomized Gym Challenge",
+      "author": "inmento",
+      "summary": "Experimental configurable gym-battle generator with optional leader, team, level, type-theme, evolution-stage, moveset, and Gold held-item rules.",
+      "version": "0.1.0-alpha.1",
+      "categories": [
+        "GAMEPLAY",
+        "BALANCE"
+      ],
+      "tags": [
+        "gym leaders",
+        "randomizer",
+        "challenge mode",
+        "kanto",
+        "johto",
+        "wip"
+      ],
+      "repo": "https://github.com/inmento/Randomized-Gym-Challenge",
+      "github": "inmento/Randomized-Gym-Challenge",
+      "automatic_version_check": true,
+      "api": 2,
+      "games": [
+        "gen1",
+        "gen2"
+      ],
+      "profile": "content",
+      "affects_link": false,
+      "experimental": true,
+      "permissions": [
+        "engine_internals"
+      ],
+      "conflicts": [
+        "gym_leader_shuffle"
+      ],
+      "thumbnail": null,
+      "description_url": "data/mods/inmento@randomized_gym_challenge/description.md",
+      "latest": {
+        "version": "0.1.0-alpha.1",
+        "tag": "0.1.0-alpha.1",
+        "name": "Randomized Gym Challenge 0.1.0-alpha.1 (WIP)",
+        "prerelease": true,
+        "published_at": "2026-08-16T07:23:12Z",
+        "zip": {
+          "name": "Randomized-Gym-Challenge-0.1.0-alpha.1.zip",
+          "url": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/0.1.0-alpha.1/Randomized-Gym-Challenge-0.1.0-alpha.1.zip",
+          "size": 12178
         }
       },
       "update_check": "ok"

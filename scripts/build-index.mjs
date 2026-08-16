@@ -145,14 +145,18 @@ function pickZipAsset(assets, modId, version) {
 
 function parseRelease(doc, modId) {
   const version = String(doc.tag_name ?? '').replace(/^[vV]/, '');
-  const triple = /^\d+\.\d+\.\d+/.exec(version)?.[0];
-  if (!triple) return null; // the launcher refuses non-semver tags too
-  const zip = pickZipAsset(doc.assets, modId, triple);
+  // Preserve a complete semantic version, including a pre-release suffix.  A
+  // WIP tag such as 0.1.0-alpha.2 must not be collapsed to 0.1.0 or the feed
+  // cannot distinguish successive pre-release builds.
+  if (!/^\d+\.\d+\.\d+(?:-[0-9A-Za-z.-]+)?(?:\+[0-9A-Za-z.-]+)?$/.test(version)) {
+    return null;
+  }
+  const zip = pickZipAsset(doc.assets, modId, version);
   if (!zip) return null;
   return {
-    version: triple,
+    version,
     tag: doc.tag_name,
-    name: doc.name || triple,
+    name: doc.name || version,
     prerelease: doc.prerelease === true,
     published_at: doc.published_at,
     zip,
