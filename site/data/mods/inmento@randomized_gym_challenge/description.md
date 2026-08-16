@@ -6,9 +6,9 @@ All gameplay-changing options begin **off**. Players can independently enable ra
 
 Each building keeps its original badge, reward, and progression flow. With leader randomization enabled, the visiting leader supplies the battle presentation while the physical gym still owns completion rewards. Gen 1 gym trainers and statue labels now follow the visiting leader as well. Gold held-item generation excludes key items, HMs, non-tossable items, and no-effect held items.
 
-The alpha.3 pre-release also introduces an opt-in **Gym Challenge** flow. After naming the player, a Yes/No prompt can route a new run to the native starter lab, adjust the starter level for the first gym’s type matchup, then heal and route the player after each physical gym reward. Gold preserves the native first Hall of Fame and credits sequence before starting the Kanto gym phase on the next Continue boot.
+The `1.0.2-alpha` release also introduces an opt-in **Gym Challenge** flow. After naming the player, a Yes/No prompt can route a new run to the native starter lab, adjust the starter level for the first gym’s type matchup, then heal and route the player after each physical gym reward. Gold preserves the native first Hall of Fame and credits sequence before starting the Kanto gym phase on the next Continue boot.
 
-> This is an **explicitly untested pre-release experimental build**. Test it on a separate save and use the repository’s testing checklist when reporting issues.
+> This is an **explicitly untested experimental alpha build**. It is promoted from GitHub pre-release status so Gen 1 Recomp can detect updates during testing; it is not a stable release. Test it on a separate save and use the repository’s testing checklist when reporting issues.
 
 Do not enable this alongside **Gym Leader Shuffle**. Both mods alter gym-leader battle behavior, and the package declares a conflict to prevent the combination.
 
