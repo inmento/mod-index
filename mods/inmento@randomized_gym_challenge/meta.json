@@ -3,7 +3,7 @@
   "title": "Randomized Gym Challenge",
   "author": "inmento",
   "summary": "Experimental configurable gym-battle generator with optional leader, team, level, type-theme, evolution-stage, moveset, and Gold held-item rules.",
-  "version": "0.1.0-alpha.1",
+  "version": "0.1.0-alpha.2",
   "categories": ["GAMEPLAY", "BALANCE"],
   "tags": ["gym leaders", "randomizer", "challenge mode", "kanto", "johto", "wip"],
   "repo": "https://github.com/inmento/Randomized-Gym-Challenge",
