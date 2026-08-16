@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-16T19:10:46.298Z",
+  "generated_at": "2026-08-16T19:11:40.601Z",
   "count": 4,
   "categories": [
     "GAMEPLAY",
@@ -22,8 +22,8 @@
       "id": "gym_leader_shuffle",
       "title": "Gym Leader Shuffle",
       "author": "inmento",
-      "summary": "Standalone Kanto and Johto Gym Leader Shuffle with optional Crystal 251 detection; no randomizer or starter mod is required, and each physical gym keeps its badge, rewards, and intended level curve.",
-      "version": "1.0.5",
+      "summary": "Standalone Kanto and Johto Gym Leader Shuffle; no randomizer or starter mod is required, and each physical gym keeps its badge, rewards, and intended level curve.",
+      "version": "1.0.4",
       "categories": [
         "GAMEPLAY"
       ],
@@ -67,8 +67,8 @@
       "id": "item_randomizer",
       "title": "Item Randomizer",
       "author": "inmento",
-      "summary": "Persistent Crystal 251-safe item randomization for map pickups, hidden finds, shops, berries, gifts, eligible held items, and protected New Game PC items in Gen 1 and Gold.",
-      "version": "1.0.9",
+      "summary": "Persistent safe item randomization for map pickups, hidden finds, shops, berries, gifts, eligible held items, and protected New Game PC items in Gen 1 and Gold.",
+      "version": "1.0.8",
       "categories": [
         "GAMEPLAY",
         "QOL"
@@ -111,8 +111,8 @@
       "id": "randomized_gym_challenge",
       "title": "Randomized Gym Challenge",
       "author": "inmento",
-      "summary": "Experimental Crystal 251-safe configurable gym-battle generator with leader, team, level, type-theme, evolution-stage, moveset, Gold held-item, Gym Challenge, progress history, hints, presets, and weighted Gym Guide rewards.",
-      "version": "1.0.4-alpha",
+      "summary": "Experimental configurable gym-battle generator with optional leader, team, level, type-theme, evolution-stage, moveset, Gold held-item, opt-in Gym Challenge, and weighted Gym Guide reward rules.",
+      "version": "1.0.3-alpha",
       "categories": [
         "GAMEPLAY",
         "BALANCE"
@@ -163,8 +163,8 @@
       "id": "starter_picker",
       "title": "Starter Picker",
       "author": "inmento",
-      "summary": "Choose player starters by ball position in Gen 1 and Gold, preserve Crystal 251 data, synchronize active randomizer assignments, and apply weakness-aware rival counter-picks with player-only DV options.",
-      "version": "1.0.7",
+      "summary": "Choose player starters by ball position in Gen 1 and Gold, synchronize active randomizer assignments, and apply weakness-aware rival counter-picks with player-only DV options.",
+      "version": "1.0.6",
       "categories": [
         "GAMEPLAY",
         "QOL"
