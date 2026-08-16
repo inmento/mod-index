@@ -1,0 +1,15 @@
+{
+  "name": "inmento-gen1recomp-mod-index",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal release-tracking index for Inmento's Gen 1 Recomp mods",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "build": "node scripts/build-index.mjs",
+    "build:releases": "node scripts/build-index.mjs --releases"
+  }
+}

@@ -1,0 +1,47 @@
+name: Validate and refresh mod index
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "23 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-index-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out index
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Validate entries
+        run: node scripts/validate.mjs
+
+      - name: Refresh latest release metadata
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node scripts/build-index.mjs --releases
+
+      - name: Commit refreshed feed when needed
+        run: |
+          if git diff --quiet -- site/data; then
+            echo "Feed is already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data
+          git commit -m "Refresh mod release feed"
+          git push

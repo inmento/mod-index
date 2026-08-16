@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-16T07:08:21.492Z",
+  "count": 3,
+  "categories": [
+    "GAMEPLAY",
+    "CONTENT",
+    "BALANCE",
+    "ART",
+    "AUDIO",
+    "UI",
+    "QOL",
+    "TRANSLATION",
+    "TOTAL_CONVERSION",
+    "LIBRARY",
+    "TOOL",
+    "OTHER"
+  ],
+  "mods": [
+    {
+      "folder": "inmento@gym_leader_shuffle",
+      "id": "gym_leader_shuffle",
+      "title": "Gym Leader Shuffle",
+      "author": "inmento",
+      "summary": "Shuffle Kanto and Johto Gym Leaders while each physical gym keeps its badge, rewards, and intended level curve.",
+      "version": "1.0.1",
+      "categories": [
+        "GAMEPLAY"
+      ],
+      "tags": [
+        "gym leaders",
+        "shuffle",
+        "kanto",
+        "johto"
+      ],
+      "repo": "https://github.com/inmento/Gym-Leader-Shuffle",
+      "github": "inmento/Gym-Leader-Shuffle",
+      "automatic_version_check": true,
+      "api": 2,
+      "games": [
+        "gen1",
+        "gen2"
+      ],
+      "profile": "content",
+      "affects_link": false,
+      "permissions": [
+        "engine_internals"
+      ],
+      "thumbnail": null,
+      "description_url": "data/mods/inmento@gym_leader_shuffle/description.md",
+      "latest": {
+        "version": "1.0.1",
+        "tag": "1.0.1",
+        "name": "Gym Leader Shuffle 1.0.1",
+        "prerelease": false,
+        "published_at": "2026-08-16T06:18:12Z",
+        "zip": {
+          "name": "gym_leader_shuffle-1.0.1.zip",
+          "url": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.1/gym_leader_shuffle-1.0.1.zip",
+          "size": 16955
+        }
+      },
+      "update_check": "ok"
+    },
+    {
+      "folder": "inmento@item_randomizer",
+      "id": "item_randomizer",
+      "title": "Item Randomizer",
+      "author": "inmento",
+      "summary": "Persistent safe item randomization for map pickups, hidden finds, berries, gifts, eligible held items, and protected New Game PC items.",
+      "version": "1.0.4",
+      "categories": [
+        "GAMEPLAY",
+        "QOL"
+      ],
+      "tags": [
+        "items",
+        "randomizer",
+        "weighted loot",
+        "gold"
+      ],
+      "repo": "https://github.com/inmento/Item-Randomizer",
+      "github": "inmento/Item-Randomizer",
+      "automatic_version_check": true,
+      "api": 2,
+      "games": [
+        "gen1",
+        "gen2"
+      ],
+      "profile": "content",
+      "affects_link": false,
+      "thumbnail": null,
+      "description_url": "data/mods/inmento@item_randomizer/description.md",
+      "latest": {
+        "version": "1.0.4",
+        "tag": "1.0.4",
+        "name": "Item Randomizer 1.0.4",
+        "prerelease": false,
+        "published_at": "2026-08-16T06:18:10Z",
+        "zip": {
+          "name": "item_randomizer-1.0.4.zip",
+          "url": "https://github.com/inmento/Item-Randomizer/releases/download/1.0.4/item_randomizer-1.0.4.zip",
+          "size": 13705
+        }
+      },
+      "update_check": "ok"
+    },
+    {
+      "folder": "inmento@starter_picker",
+      "id": "starter_picker",
+      "title": "Starter Picker",
+      "author": "inmento",
+      "summary": "Choose player starters by ball position in Gen 1 and Gold while preserving rival counter-picks and player-only DV options.",
+      "version": "1.0.3",
+      "categories": [
+        "GAMEPLAY",
+        "QOL"
+      ],
+      "tags": [
+        "starters",
+        "oak lab",
+        "elm lab",
+        "dvs",
+        "gold"
+      ],
+      "repo": "https://github.com/inmento/Starter-Picker",
+      "github": "inmento/Starter-Picker",
+      "automatic_version_check": true,
+      "api": 2,
+      "games": [
+        "gen1",
+        "gen2"
+      ],
+      "profile": "content",
+      "affects_link": false,
+      "permissions": [
+        "engine_internals"
+      ],
+      "thumbnail": null,
+      "description_url": "data/mods/inmento@starter_picker/description.md",
+      "latest": {
+        "version": "1.0.3",
+        "tag": "1.0.3",
+        "name": "Starter Picker 1.0.3",
+        "prerelease": false,
+        "published_at": "2026-08-16T06:18:13Z",
+        "zip": {
+          "name": "starter_picker-1.0.3.zip",
+          "url": "https://github.com/inmento/Starter-Picker/releases/download/1.0.3/starter_picker-1.0.3.zip",
+          "size": 13875
+        }
+      },
+      "update_check": "ok"
+    }
+  ]
+}
