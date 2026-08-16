@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-16T19:33:17.841Z",
+  "generated_at": "2026-08-16T20:17:28.702Z",
   "count": 4,
   "categories": [
     "GAMEPLAY",
@@ -113,8 +113,8 @@
       "id": "randomized_gym_challenge",
       "title": "Randomized Gym Challenge",
       "author": "inmento",
-      "summary": "Configurable gym-battle generator with optional leader, team, level, type-theme, evolution-stage, moveset, Gold held-item, opt-in Gym Challenge, and weighted Gym Guide reward rules.",
-      "version": "1.0.5-alpha",
+      "summary": "Configurable gym-battle generator with milestone-gated Gym Challenge routing, optional leader, team, level, type-theme, evolution-stage, moveset, Gold held-item, and weighted Gym Guide reward rules.",
+      "version": "1.0.6-alpha",
       "categories": [
         "GAMEPLAY",
         "BALANCE"
@@ -146,19 +146,19 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@randomized_gym_challenge/description.md",
       "latest": {
-        "version": "1.0.5-alpha",
-        "tag": "1.0.5-alpha",
-        "name": "Randomized Gym Challenge 1.0.5-alpha — Installability Fix",
+        "version": "1.0.6-alpha",
+        "tag": "1.0.6-alpha",
+        "name": "Randomized Gym Challenge 1.0.6-alpha — Corrected Challenge Start",
         "prerelease": false,
-        "published_at": "2026-08-16T19:14:29Z",
+        "published_at": "2026-08-16T20:17:05Z",
         "zip": {
-          "name": "randomized_gym_challenge-1.0.5.zip",
-          "url": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/1.0.5-alpha/randomized_gym_challenge-1.0.5.zip",
-          "size": 36567
+          "name": "randomized_gym_challenge-1.0.6.zip",
+          "url": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/1.0.6-alpha/randomized_gym_challenge-1.0.6.zip",
+          "size": 36929
         }
       },
       "update_check": "ok",
-      "downloadURL": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/1.0.5-alpha/randomized_gym_challenge-1.0.5.zip"
+      "downloadURL": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/1.0.6-alpha/randomized_gym_challenge-1.0.6.zip"
     },
     {
       "folder": "inmento@starter_picker",
