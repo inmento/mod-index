@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-16T14:28:03.043Z",
+  "generated_at": "2026-08-16T14:28:18.234Z",
   "count": 4,
   "categories": [
     "GAMEPLAY",
@@ -48,8 +48,19 @@
       ],
       "thumbnail": null,
       "description_url": "data/mods/inmento@gym_leader_shuffle/description.md",
-      "latest": null,
-      "update_check": "pending"
+      "latest": {
+        "version": "1.0.3",
+        "tag": "1.0.3",
+        "name": "1.0.3 — Gym Text Quality-of-Life",
+        "prerelease": false,
+        "published_at": "2026-08-16T09:24:21Z",
+        "zip": {
+          "name": "gym_leader_shuffle-1.0.3.zip",
+          "url": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.3/gym_leader_shuffle-1.0.3.zip",
+          "size": 23963
+        }
+      },
+      "update_check": "ok"
     },
     {
       "folder": "inmento@item_randomizer",
@@ -81,8 +92,19 @@
       "affects_link": false,
       "thumbnail": null,
       "description_url": "data/mods/inmento@item_randomizer/description.md",
-      "latest": null,
-      "update_check": "pending"
+      "latest": {
+        "version": "1.0.8",
+        "tag": "1.0.8",
+        "name": "Item Randomizer 1.0.8",
+        "prerelease": false,
+        "published_at": "2026-08-16T13:36:57Z",
+        "zip": {
+          "name": "item_randomizer-1.0.8.zip",
+          "url": "https://github.com/inmento/Item-Randomizer/releases/download/1.0.8/item_randomizer-1.0.8.zip",
+          "size": 20581
+        }
+      },
+      "update_check": "ok"
     },
     {
       "folder": "inmento@randomized_gym_challenge",
@@ -122,8 +144,19 @@
       ],
       "thumbnail": null,
       "description_url": "data/mods/inmento@randomized_gym_challenge/description.md",
-      "latest": null,
-      "update_check": "pending"
+      "latest": {
+        "version": "0.1.0-alpha.3",
+        "tag": "0.1.0-alpha.3",
+        "name": "0.1.0-alpha.3 — Gym Challenge WIP",
+        "prerelease": true,
+        "published_at": "2026-08-16T14:25:44Z",
+        "zip": {
+          "name": "randomized_gym_challenge-0.1.0-alpha.3.zip",
+          "url": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/0.1.0-alpha.3/randomized_gym_challenge-0.1.0-alpha.3.zip",
+          "size": 31358
+        }
+      },
+      "update_check": "ok"
     },
     {
       "folder": "inmento@starter_picker",
@@ -159,8 +192,19 @@
       ],
       "thumbnail": null,
       "description_url": "data/mods/inmento@starter_picker/description.md",
-      "latest": null,
-      "update_check": "pending"
+      "latest": {
+        "version": "1.0.6",
+        "tag": "1.0.6",
+        "name": "Starter Picker 1.0.6",
+        "prerelease": false,
+        "published_at": "2026-08-16T13:15:27Z",
+        "zip": {
+          "name": "starter_picker-1.0.6.zip",
+          "url": "https://github.com/inmento/Starter-Picker/releases/download/1.0.6/starter_picker-1.0.6.zip",
+          "size": 21430
+        }
+      },
+      "update_check": "ok"
     }
   ]
 }
