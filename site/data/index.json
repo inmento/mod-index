@@ -113,8 +113,8 @@
       "id": "randomized_gym_challenge",
       "title": "Randomized Gym Challenge",
       "author": "inmento",
-      "summary": "Configurable gym-battle generator with Gym Challenge recovery, guarded routing diagnostics, start summaries, leader and team rules, Gold held items, and weighted Gym Guide rewards.",
-      "version": "1.1.0",
+      "summary": "Configurable gym-battle generator with Gold Continue-gated two-league progression, Gym Challenge recovery, guarded routing diagnostics, start summaries, leader and team rules, and Gold held items.",
+      "version": "1.1.1",
       "categories": [
         "GAMEPLAY",
         "BALANCE"
@@ -146,19 +146,19 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@randomized_gym_challenge/description.md",
       "latest": {
-        "version": "1.1.0",
-        "tag": "1.1.0",
-        "name": "Randomized Gym Challenge 1.1.0 — Release Hardening",
+        "version": "1.1.1",
+        "tag": "1.1.1",
+        "name": "Randomized Gym Challenge 1.1.1 — Gold Continue Checkpoint",
         "prerelease": false,
         "published_at": "2026-08-17T04:00:38Z",
         "zip": {
-          "name": "randomized_gym_challenge-1.1.0.zip",
-          "url": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/1.1.0/randomized_gym_challenge-1.1.0.zip",
-          "size": 38174
+          "name": "randomized_gym_challenge-1.1.1.zip",
+          "url": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/1.1.1/randomized_gym_challenge-1.1.1.zip",
+          "size": 38843
         }
       },
       "update_check": "ok",
-      "downloadURL": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/1.1.0/randomized_gym_challenge-1.1.0.zip"
+      "downloadURL": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/1.1.1/randomized_gym_challenge-1.1.1.zip"
     },
     {
       "folder": "inmento@starter_picker",
