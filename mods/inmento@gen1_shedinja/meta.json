@@ -1,0 +1,18 @@
+{
+  "id": "gen1_shedinja",
+  "title": "Gen 1 Shedinja",
+  "author": "inmento",
+  "summary": "Standalone Gen 1 expansion: Shedinja #152, transparent credited battle sprites, and a player-side Wonder Guard item. Incompatible with Pokédex and roster expansion mods.",
+  "version": "0.1.0",
+  "categories": ["GAMEPLAY", "CONTENT"],
+  "tags": ["shedinja", "species expansion", "wonder guard", "kanto", "gen 1"],
+  "repo": "https://github.com/inmento/Gen1-Shedinja",
+  "github": "inmento/Gen1-Shedinja",
+  "automatic_version_check": true,
+  "api": 2,
+  "game_version": ">=0.2.3 <1.0.0",
+  "games": ["gen1"],
+  "profile": "overhaul",
+  "affects_link": true,
+  "permissions": ["engine_internals"]
+}

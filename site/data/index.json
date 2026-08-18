@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-18T05:48:37.008Z",
-  "count": 5,
+  "generated_at": "2026-08-18T19:50:51.513Z",
+  "count": 6,
   "categories": [
     "GAMEPLAY",
     "CONTENT",
@@ -17,6 +17,54 @@
     "OTHER"
   ],
   "mods": [
+    {
+      "folder": "inmento@gen1_shedinja",
+      "id": "gen1_shedinja",
+      "title": "Gen 1 Shedinja",
+      "author": "inmento",
+      "summary": "Standalone Gen 1 expansion: Shedinja #152, transparent credited battle sprites, and a player-side Wonder Guard item. Incompatible with Pokédex and roster expansion mods.",
+      "version": "0.1.0",
+      "categories": [
+        "GAMEPLAY",
+        "CONTENT"
+      ],
+      "tags": [
+        "shedinja",
+        "species expansion",
+        "wonder guard",
+        "kanto",
+        "gen 1"
+      ],
+      "repo": "https://github.com/inmento/Gen1-Shedinja",
+      "github": "inmento/Gen1-Shedinja",
+      "automatic_version_check": true,
+      "api": 2,
+      "game_version": ">=0.2.3 <1.0.0",
+      "games": [
+        "gen1"
+      ],
+      "profile": "overhaul",
+      "affects_link": true,
+      "permissions": [
+        "engine_internals"
+      ],
+      "thumbnail": null,
+      "description_url": "data/mods/inmento@gen1_shedinja/description.md",
+      "latest": {
+        "version": "0.1.0",
+        "tag": "0.1.0",
+        "name": "Gen 1 Shedinja 0.1.0",
+        "prerelease": false,
+        "published_at": "2026-08-18T19:49:38Z",
+        "zip": {
+          "name": "gen1_shedinja-0.1.0.zip",
+          "url": "https://github.com/inmento/Gen1-Shedinja/releases/download/0.1.0/gen1_shedinja-0.1.0.zip",
+          "size": 12016
+        }
+      },
+      "update_check": "ok",
+      "downloadURL": "https://github.com/inmento/Gen1-Shedinja/releases/download/0.1.0/gen1_shedinja-0.1.0.zip"
+    },
     {
       "folder": "inmento@gym_leader_shuffle",
       "id": "gym_leader_shuffle",
@@ -210,7 +258,7 @@
         "zip": {
           "name": "sound_effect_replacer-0.3.2.zip",
           "url": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/v0.3.2/sound_effect_replacer-0.3.2.zip",
-          "size": 544619
+          "size": 447325
         }
       },
       "update_check": "ok",
