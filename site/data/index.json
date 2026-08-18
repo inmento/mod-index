@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-18T21:36:10.534Z",
+  "generated_at": "2026-08-18T22:11:20.351Z",
   "count": 6,
   "categories": [
     "GAMEPLAY",
@@ -23,7 +23,7 @@
       "title": "Gen 1 Shedinja",
       "author": "inmento",
       "summary": "Standalone Gen 1 expansion: Shedinja #152, transparent credited battle sprites, and a player-side Wonder Guard item. Incompatible with Pokédex and roster expansion mods.",
-      "version": "0.1.4",
+      "version": "0.1.5",
       "categories": [
         "GAMEPLAY",
         "CONTENT"
@@ -51,25 +51,25 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@gen1_shedinja/description.md",
       "latest": {
-        "version": "0.1.4",
-        "tag": "0.1.4",
-        "name": "0.1.4 — Index installation fix",
+        "version": "0.1.5",
+        "tag": "0.1.5",
+        "name": "0.1.5 — Loader entry-point repair",
         "prerelease": false,
-        "published_at": "2026-08-18T21:18:07Z",
+        "published_at": "2026-08-18T22:11:03Z",
         "published": "2026-08-18",
-        "downloads": 1,
+        "downloads": 0,
         "zip": {
-          "name": "gen1_shedinja-0.1.4.zip",
-          "url": "https://github.com/inmento/Gen1-Shedinja/releases/download/0.1.4/gen1_shedinja-0.1.4.zip",
-          "size": 13667,
-          "downloadCount": 1
+          "name": "gen1_shedinja-0.1.5.zip",
+          "url": "https://github.com/inmento/Gen1-Shedinja/releases/download/0.1.5/gen1_shedinja-0.1.5.zip",
+          "size": 13953,
+          "downloadCount": 0
         }
       },
       "update_check": "ok",
-      "downloads": 2,
+      "downloads": 3,
       "first_release": "2026-08-18",
       "last_release": "2026-08-18",
-      "downloadURL": "https://github.com/inmento/Gen1-Shedinja/releases/download/0.1.4/gen1_shedinja-0.1.4.zip"
+      "downloadURL": "https://github.com/inmento/Gen1-Shedinja/releases/download/0.1.5/gen1_shedinja-0.1.5.zip"
     },
     {
       "folder": "inmento@gym_leader_shuffle",
@@ -110,16 +110,16 @@
         "prerelease": false,
         "published_at": "2026-08-18T20:24:26Z",
         "published": "2026-08-18",
-        "downloads": 0,
+        "downloads": 1,
         "zip": {
           "name": "gym_leader_shuffle-1.0.7.zip",
           "url": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.7/gym_leader_shuffle-1.0.7.zip",
           "size": 17778,
-          "downloadCount": 0
+          "downloadCount": 1
         }
       },
       "update_check": "ok",
-      "downloads": 56,
+      "downloads": 57,
       "first_release": "2026-08-14",
       "last_release": "2026-08-18",
       "downloadURL": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.7/gym_leader_shuffle-1.0.7.zip"
@@ -165,16 +165,16 @@
         "prerelease": false,
         "published_at": "2026-08-18T20:24:23Z",
         "published": "2026-08-18",
-        "downloads": 1,
+        "downloads": 2,
         "zip": {
           "name": "item_randomizer-1.0.11.zip",
           "url": "https://github.com/inmento/Item-Randomizer/releases/download/1.0.11/item_randomizer-1.0.11.zip",
           "size": 18068,
-          "downloadCount": 1
+          "downloadCount": 2
         }
       },
       "update_check": "ok",
-      "downloads": 57,
+      "downloads": 58,
       "first_release": "2026-08-14",
       "last_release": "2026-08-18",
       "downloadURL": "https://github.com/inmento/Item-Randomizer/releases/download/1.0.11/item_randomizer-1.0.11.zip"
@@ -224,16 +224,16 @@
         "prerelease": false,
         "published_at": "2026-08-18T20:24:28Z",
         "published": "2026-08-18",
-        "downloads": 1,
+        "downloads": 2,
         "zip": {
           "name": "randomized_gym_challenge-1.1.3.zip",
           "url": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/1.1.3/randomized_gym_challenge-1.1.3.zip",
           "size": 22270,
-          "downloadCount": 1
+          "downloadCount": 2
         }
       },
       "update_check": "ok",
-      "downloads": 12,
+      "downloads": 13,
       "first_release": "2026-08-16",
       "last_release": "2026-08-18",
       "downloadURL": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/1.1.3/randomized_gym_challenge-1.1.3.zip"
@@ -280,16 +280,16 @@
         "prerelease": false,
         "published_at": "2026-08-18T21:05:58Z",
         "published": "2026-08-18",
-        "downloads": 0,
+        "downloads": 1,
         "zip": {
           "name": "sound_effect_replacer-0.3.3.zip",
           "url": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/0.3.3/sound_effect_replacer-0.3.3.zip",
           "size": 448494,
-          "downloadCount": 0
+          "downloadCount": 1
         }
       },
       "update_check": "ok",
-      "downloads": 1,
+      "downloads": 2,
       "first_release": "2026-08-18",
       "last_release": "2026-08-18",
       "downloadURL": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/0.3.3/sound_effect_replacer-0.3.3.zip"
@@ -336,16 +336,16 @@
         "prerelease": false,
         "published_at": "2026-08-18T21:33:48Z",
         "published": "2026-08-18",
-        "downloads": 0,
+        "downloads": 3,
         "zip": {
           "name": "starter_picker-1.0.10.zip",
           "url": "https://github.com/inmento/Starter-Picker/releases/download/1.0.10/starter_picker-1.0.10.zip",
           "size": 19926,
-          "downloadCount": 0
+          "downloadCount": 3
         }
       },
       "update_check": "ok",
-      "downloads": 138,
+      "downloads": 143,
       "first_release": "2026-08-14",
       "last_release": "2026-08-18",
       "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.0.10/starter_picker-1.0.10.zip"
