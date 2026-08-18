@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-17T05:53:32.276Z",
-  "count": 4,
+  "generated_at": "2026-08-18T03:54:18.631Z",
+  "count": 5,
   "categories": [
     "GAMEPLAY",
     "CONTENT",
@@ -23,7 +23,7 @@
       "title": "Gym Leader Shuffle",
       "author": "inmento",
       "summary": "Standalone Kanto and Johto Gym Leader Shuffle with optional Crystal 251 detection; no randomizer or starter mod is required, and each physical gym keeps its badge, rewards, and intended level curve.",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "categories": [
         "GAMEPLAY"
       ],
@@ -37,6 +37,7 @@
       "github": "inmento/Gym-Leader-Shuffle",
       "automatic_version_check": true,
       "api": 2,
+      "game_version": ">=0.1.99",
       "games": [
         "gen1",
         "gen2"
@@ -49,19 +50,19 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@gym_leader_shuffle/description.md",
       "latest": {
-        "version": "1.0.5",
-        "tag": "1.0.5",
-        "name": "Gym Leader Shuffle 1.0.5 — Crystal 251 Compatibility",
+        "version": "1.0.6",
+        "tag": "1.0.6",
+        "name": "Gym-Leader-Shuffle 1.0.6",
         "prerelease": false,
-        "published_at": "2026-08-16T19:08:44Z",
+        "published_at": "2026-08-18T03:52:14Z",
         "zip": {
-          "name": "gym_leader_shuffle-1.0.5.zip",
-          "url": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.5/gym_leader_shuffle-1.0.5.zip",
-          "size": 23785
+          "name": "gym_leader_shuffle-1.0.6.zip",
+          "url": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.6/gym_leader_shuffle-1.0.6.zip",
+          "size": 17881
         }
       },
       "update_check": "ok",
-      "downloadURL": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.5/gym_leader_shuffle-1.0.5.zip"
+      "downloadURL": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.6/gym_leader_shuffle-1.0.6.zip"
     },
     {
       "folder": "inmento@item_randomizer",
@@ -69,7 +70,7 @@
       "title": "Item Randomizer",
       "author": "inmento",
       "summary": "Persistent Crystal 251-safe item randomization for map pickups, hidden finds, shops, berries, gifts, eligible held items, and protected New Game PC items in Gen 1 and Gold.",
-      "version": "1.0.9",
+      "version": "1.0.10",
       "categories": [
         "GAMEPLAY",
         "QOL"
@@ -85,28 +86,32 @@
       "github": "inmento/Item-Randomizer",
       "automatic_version_check": true,
       "api": 2,
+      "game_version": ">=0.1.99",
       "games": [
         "gen1",
         "gen2"
       ],
       "profile": "content",
       "affects_link": false,
+      "permissions": [
+        "engine_internals"
+      ],
       "thumbnail": null,
       "description_url": "data/mods/inmento@item_randomizer/description.md",
       "latest": {
-        "version": "1.0.9",
-        "tag": "1.0.9",
-        "name": "Item Randomizer 1.0.9 — Crystal 251 Compatibility",
+        "version": "1.0.10",
+        "tag": "1.0.10",
+        "name": "Item-Randomizer 1.0.10",
         "prerelease": false,
-        "published_at": "2026-08-16T19:08:48Z",
+        "published_at": "2026-08-18T03:52:18Z",
         "zip": {
-          "name": "item_randomizer-1.0.9.zip",
-          "url": "https://github.com/inmento/Item-Randomizer/releases/download/1.0.9/item_randomizer-1.0.9.zip",
-          "size": 23822
+          "name": "item_randomizer-1.0.10.zip",
+          "url": "https://github.com/inmento/Item-Randomizer/releases/download/1.0.10/item_randomizer-1.0.10.zip",
+          "size": 18025
         }
       },
       "update_check": "ok",
-      "downloadURL": "https://github.com/inmento/Item-Randomizer/releases/download/1.0.9/item_randomizer-1.0.9.zip"
+      "downloadURL": "https://github.com/inmento/Item-Randomizer/releases/download/1.0.10/item_randomizer-1.0.10.zip"
     },
     {
       "folder": "inmento@randomized_gym_challenge",
@@ -114,7 +119,7 @@
       "title": "Randomized Gym Challenge",
       "author": "inmento",
       "summary": "Configurable gym-battle generator with Gold Continue-gated two-league progression, Gym Challenge recovery, guarded routing diagnostics, start summaries, leader and team rules, and Gold held items.",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "categories": [
         "GAMEPLAY",
         "BALANCE"
@@ -131,6 +136,7 @@
       "github": "inmento/Randomized-Gym-Challenge",
       "automatic_version_check": true,
       "api": 2,
+      "game_version": ">=0.1.99",
       "games": [
         "gen1",
         "gen2"
@@ -146,19 +152,69 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@randomized_gym_challenge/description.md",
       "latest": {
-        "version": "1.1.1",
-        "tag": "1.1.1",
-        "name": "Randomized Gym Challenge 1.1.1 — Gold Continue Checkpoint",
+        "version": "1.1.2",
+        "tag": "1.1.2",
+        "name": "Randomized-Gym-Challenge 1.1.2",
         "prerelease": false,
-        "published_at": "2026-08-17T04:10:23Z",
+        "published_at": "2026-08-18T03:52:27Z",
         "zip": {
-          "name": "randomized_gym_challenge-1.1.1.zip",
-          "url": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/1.1.1/randomized_gym_challenge-1.1.1.zip",
-          "size": 38843
+          "name": "randomized_gym_challenge-1.1.2.zip",
+          "url": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/1.1.2/randomized_gym_challenge-1.1.2.zip",
+          "size": 22159
         }
       },
       "update_check": "ok",
-      "downloadURL": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/1.1.1/randomized_gym_challenge-1.1.1.zip"
+      "downloadURL": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/1.1.2/randomized_gym_challenge-1.1.2.zip"
+    },
+    {
+      "folder": "inmento@sound_effect_replacer",
+      "id": "sound_effect_replacer",
+      "title": "Sound Effect Replacer",
+      "author": "inmento",
+      "summary": "Two-folder sound replacement for named effects, move sounds, cries, Yellow Pikachu voice clips, and both evolution moments in Red, Blue, Yellow, and Gold.",
+      "version": "0.3.1",
+      "categories": [
+        "AUDIO",
+        "QOL"
+      ],
+      "tags": [
+        "sound effects",
+        "audio",
+        "cries",
+        "moves",
+        "evolution",
+        "gold"
+      ],
+      "repo": "https://github.com/inmento/Sound-Effect-Replacer",
+      "github": "inmento/Sound-Effect-Replacer",
+      "automatic_version_check": true,
+      "api": 2,
+      "game_version": ">=0.1.99",
+      "games": [
+        "gen1",
+        "gen2"
+      ],
+      "profile": "content",
+      "affects_link": false,
+      "permissions": [
+        "engine_internals"
+      ],
+      "thumbnail": null,
+      "description_url": "data/mods/inmento@sound_effect_replacer/description.md",
+      "latest": {
+        "version": "0.3.1",
+        "tag": "v0.3.1",
+        "name": "Sound Effect Replacer 0.3.1",
+        "prerelease": false,
+        "published_at": "2026-08-18T02:57:27Z",
+        "zip": {
+          "name": "sound_effect_replacer-0.3.1.zip",
+          "url": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/v0.3.1/sound_effect_replacer-0.3.1.zip",
+          "size": 534062
+        }
+      },
+      "update_check": "ok",
+      "downloadURL": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/v0.3.1/sound_effect_replacer-0.3.1.zip"
     },
     {
       "folder": "inmento@starter_picker",
@@ -166,7 +222,7 @@
       "title": "Starter Picker",
       "author": "inmento",
       "summary": "Choose Gen 1 and Gold starters by ball position, preserve Crystal 251 data, synchronize supported randomizer assignments, and apply weakness-aware rival picks with player-only DV options.",
-      "version": "1.0.7",
+      "version": "1.0.8",
       "categories": [
         "GAMEPLAY",
         "QOL"
@@ -183,6 +239,7 @@
       "github": "inmento/Starter-Picker",
       "automatic_version_check": true,
       "api": 2,
+      "game_version": ">=0.1.99",
       "games": [
         "gen1",
         "gen2"
@@ -195,19 +252,19 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@starter_picker/description.md",
       "latest": {
-        "version": "1.0.7",
-        "tag": "1.0.7",
-        "name": "Starter Picker 1.0.7 — Crystal 251 Compatibility",
+        "version": "1.0.8",
+        "tag": "1.0.8",
+        "name": "Starter-Picker 1.0.8",
         "prerelease": false,
-        "published_at": "2026-08-16T19:08:52Z",
+        "published_at": "2026-08-18T03:52:22Z",
         "zip": {
-          "name": "starter_picker-1.0.7.zip",
-          "url": "https://github.com/inmento/Starter-Picker/releases/download/1.0.7/starter_picker-1.0.7.zip",
-          "size": 26688
+          "name": "starter_picker-1.0.8.zip",
+          "url": "https://github.com/inmento/Starter-Picker/releases/download/1.0.8/starter_picker-1.0.8.zip",
+          "size": 19359
         }
       },
       "update_check": "ok",
-      "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.0.7/starter_picker-1.0.7.zip"
+      "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.0.8/starter_picker-1.0.8.zip"
     }
   ]
 }
