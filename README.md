@@ -8,10 +8,12 @@ The layout, entry schema, generated feed, and release selection rules are compat
 
 | Mod | Current release | Source and downloads |
 |---|---:|---|
-| Gym Leader Shuffle | 1.0.5 | [Release page](https://github.com/inmento/Gym-Leader-Shuffle/releases) |
-| Item Randomizer | 1.0.9 | [Release page](https://github.com/inmento/Item-Randomizer/releases) |
-| Starter Picker | 1.0.7 | [Release page](https://github.com/inmento/Starter-Picker/releases) |
-| Randomized Gym Challenge | 1.1.0 | [Release page](https://github.com/inmento/Randomized-Gym-Challenge/releases) |
+| Gym Leader Shuffle | 1.0.7 | [Release page](https://github.com/inmento/Gym-Leader-Shuffle/releases) |
+| Item Randomizer | 1.0.11 | [Release page](https://github.com/inmento/Item-Randomizer/releases) |
+| Starter Picker | 1.0.9 | [Release page](https://github.com/inmento/Starter-Picker/releases) |
+| Randomized Gym Challenge | 1.1.3 | [Release page](https://github.com/inmento/Randomized-Gym-Challenge/releases) |
+| Sound Effect Replacer | 0.3.2 | [Release page](https://github.com/inmento/Sound-Effect-Replacer/releases) |
+| Gen 1 Shedinja | 0.1.2 | [Release page](https://github.com/inmento/Gen1-Shedinja/releases) |
 
 ## Machine-readable feed
 
