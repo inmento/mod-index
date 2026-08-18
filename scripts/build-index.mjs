@@ -74,8 +74,14 @@ if (withReleases) {
   for (const mod of mods) {
     if (mod.update_check !== 'pending') continue;
     try {
-      mod.latest = await latestRelease(mod);
+      const releaseData = await releaseFeedData(mod);
+      mod.latest = releaseData?.latest ?? null;
       mod.update_check = mod.latest ? 'ok' : 'no installable release';
+      if (releaseData) {
+        mod.downloads = releaseData.downloads;
+        mod.first_release = releaseData.first_release;
+        mod.last_release = releaseData.last_release;
+      }
       // Keep an initial index install on the same current asset as an update.
       // The launcher still prefers `latest.zip` while its release check is OK.
       if (mod.latest?.zip?.url) mod.downloadURL = mod.latest.zip.url;
@@ -138,7 +144,13 @@ function pickZipAsset(assets, modId, version) {
   for (const asset of assets) {
     const name = asset?.name;
     if (typeof name !== 'string' || !name.toLowerCase().endsWith('.zip')) continue;
-    const row = { name, url: asset.browser_download_url, size: asset.size };
+    const downloadCount = Number(asset.download_count);
+    const row = {
+      name,
+      url: asset.browser_download_url,
+      size: asset.size,
+      downloadCount: Number.isFinite(downloadCount) && downloadCount >= 0 ? downloadCount : 0,
+    };
     if (prefer && name === prefer) return row;
     if (modId && !idPrefixZip && name.toLowerCase().startsWith(modId.toLowerCase())) idPrefixZip = row;
     if (!anyZip) anyZip = row;
@@ -156,12 +168,20 @@ function parseRelease(doc, modId) {
   }
   const zip = pickZipAsset(doc.assets, modId, version);
   if (!zip) return null;
+  const downloads = Array.isArray(doc.assets)
+    ? doc.assets.reduce((total, asset) => {
+      const count = Number(asset?.download_count);
+      return total + (Number.isFinite(count) && count >= 0 ? count : 0);
+    }, 0)
+    : 0;
   return {
     version,
     tag: doc.tag_name,
     name: doc.name || version,
     prerelease: doc.prerelease === true,
     published_at: doc.published_at,
+    published: String(doc.published_at || doc.created_at || '').match(/^\d{4}-\d{2}-\d{2}/)?.[0] || null,
+    downloads,
     zip,
   };
 }
@@ -203,15 +223,29 @@ function newestRelease(rows) {
   })[0] || null;
 }
 
-async function latestRelease(mod) {
+async function releaseFeedData(mod) {
   const releases = await ghJson(`https://api.github.com/repos/${mod.github}/releases?per_page=100`);
   if (!Array.isArray(releases) || releases.length === 0) return null;
 
-  if (mod.fixed_release_tag) {
-    const pinned = releases.find((r) => r.tag_name === mod.fixed_release_tag);
-    return pinned ? parseRelease(pinned, mod.id) : null;
-  }
   const parsed = releases.map((r) => parseRelease(r, mod.id)).filter(Boolean);
-  const stable = parsed.filter((r) => !r.prerelease);
-  return newestRelease(stable.length > 0 ? stable : parsed);
+  if (parsed.length === 0) return null;
+
+  let latest = null;
+  if (mod.fixed_release_tag) {
+    latest = parsed.find((r) => r.tag === mod.fixed_release_tag) || null;
+  } else {
+    const stable = parsed.filter((r) => !r.prerelease);
+    latest = newestRelease(stable.length > 0 ? stable : parsed);
+  }
+  if (!latest) return null;
+
+  const dates = parsed.map((r) => r.published).filter(Boolean).sort();
+  return {
+    latest,
+    // Mirror the launcher: totals are all GitHub release-asset downloads for
+    // every installable release, rather than only the selected current ZIP.
+    downloads: parsed.reduce((total, release) => total + release.downloads, 0),
+    first_release: dates[0] || null,
+    last_release: dates.at(-1) || null,
+  };
 }
