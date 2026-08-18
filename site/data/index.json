@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-18T03:54:47.334Z",
+  "generated_at": "2026-08-18T05:48:37.008Z",
   "count": 5,
   "categories": [
     "GAMEPLAY",
@@ -202,19 +202,19 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@sound_effect_replacer/description.md",
       "latest": {
-        "version": "0.3.1",
-        "tag": "v0.3.1",
-        "name": "Sound Effect Replacer 0.3.1",
+        "version": "0.3.2",
+        "tag": "v0.3.2",
+        "name": "Sound Effect Replacer 0.3.2",
         "prerelease": false,
-        "published_at": "2026-08-18T02:57:27Z",
+        "published_at": "2026-08-18T05:47:22Z",
         "zip": {
-          "name": "sound_effect_replacer-0.3.1.zip",
-          "url": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/v0.3.1/sound_effect_replacer-0.3.1.zip",
-          "size": 534062
+          "name": "sound_effect_replacer-0.3.2.zip",
+          "url": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/v0.3.2/sound_effect_replacer-0.3.2.zip",
+          "size": 544619
         }
       },
       "update_check": "ok",
-      "downloadURL": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/v0.3.1/sound_effect_replacer-0.3.1.zip"
+      "downloadURL": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/v0.3.2/sound_effect_replacer-0.3.2.zip"
     },
     {
       "folder": "inmento@starter_picker",
