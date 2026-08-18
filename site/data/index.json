@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-18T21:07:12.847Z",
+  "generated_at": "2026-08-18T21:07:49.799Z",
   "count": 6,
   "categories": [
     "GAMEPLAY",
@@ -220,7 +220,7 @@
       "title": "Sound Effect Replacer",
       "author": "inmento",
       "summary": "Two-folder sound replacement for named effects, move sounds, cries, Yellow Pikachu voice clips, and both evolution moments in Red, Blue, Yellow, and Gold.",
-      "version": "0.3.1",
+      "version": "0.3.3",
       "categories": [
         "AUDIO",
         "QOL"
