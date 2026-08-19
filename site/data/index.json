@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-19T05:49:59.551Z",
+  "generated_at": "2026-08-19T18:35:24.870Z",
   "count": 6,
   "categories": [
     "GAMEPLAY",
@@ -17,60 +17,6 @@
     "OTHER"
   ],
   "mods": [
-    {
-      "folder": "inmento@gen1_shedinja",
-      "id": "gen1_shedinja",
-      "title": "Gen 1 Shedinja",
-      "author": "inmento",
-      "summary": "Standalone Gen 1 expansion: National Dex #292 Shedinja via internal slot 152, transparent credited sprites, and a player-side Wonder Guard item. Incompatible with roster expansions.",
-      "version": "0.1.6",
-      "categories": [
-        "GAMEPLAY",
-        "CONTENT"
-      ],
-      "tags": [
-        "shedinja",
-        "species expansion",
-        "wonder guard",
-        "kanto",
-        "gen 1"
-      ],
-      "repo": "https://github.com/inmento/Gen1-Shedinja",
-      "github": "inmento/Gen1-Shedinja",
-      "automatic_version_check": true,
-      "api": 2,
-      "game_version": ">=0.2.3 <1.0.0",
-      "games": [
-        "gen1"
-      ],
-      "profile": "overhaul",
-      "affects_link": true,
-      "permissions": [
-        "engine_internals"
-      ],
-      "thumbnail": null,
-      "description_url": "data/mods/inmento@gen1_shedinja/description.md",
-      "latest": {
-        "version": "0.1.6",
-        "tag": "0.1.6",
-        "name": "Gen 1 Shedinja 0.1.6",
-        "prerelease": false,
-        "published_at": "2026-08-19T01:06:24Z",
-        "published": "2026-08-19",
-        "downloads": 0,
-        "zip": {
-          "name": "gen1_shedinja-0.1.6.zip",
-          "url": "https://github.com/inmento/Gen1-Shedinja/releases/download/0.1.6/gen1_shedinja-0.1.6.zip",
-          "size": 14446,
-          "downloadCount": 0
-        }
-      },
-      "update_check": "ok",
-      "downloads": 4,
-      "first_release": "2026-08-18",
-      "last_release": "2026-08-19",
-      "downloadURL": "https://github.com/inmento/Gen1-Shedinja/releases/download/0.1.6/gen1_shedinja-0.1.6.zip"
-    },
     {
       "folder": "inmento@gym_leader_shuffle",
       "id": "gym_leader_shuffle",
@@ -110,16 +56,16 @@
         "prerelease": false,
         "published_at": "2026-08-19T01:06:26Z",
         "published": "2026-08-19",
-        "downloads": 2,
+        "downloads": 8,
         "zip": {
           "name": "gym_leader_shuffle-1.0.8.zip",
           "url": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.8/gym_leader_shuffle-1.0.8.zip",
           "size": 17859,
-          "downloadCount": 2
+          "downloadCount": 8
         }
       },
       "update_check": "ok",
-      "downloads": 60,
+      "downloads": 66,
       "first_release": "2026-08-14",
       "last_release": "2026-08-19",
       "downloadURL": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.8/gym_leader_shuffle-1.0.8.zip"
@@ -165,16 +111,16 @@
         "prerelease": false,
         "published_at": "2026-08-19T01:06:27Z",
         "published": "2026-08-19",
-        "downloads": 0,
+        "downloads": 3,
         "zip": {
           "name": "item_randomizer-1.0.12.zip",
           "url": "https://github.com/inmento/Item-Randomizer/releases/download/1.0.12/item_randomizer-1.0.12.zip",
           "size": 18150,
-          "downloadCount": 0
+          "downloadCount": 3
         }
       },
       "update_check": "ok",
-      "downloads": 59,
+      "downloads": 62,
       "first_release": "2026-08-14",
       "last_release": "2026-08-19",
       "downloadURL": "https://github.com/inmento/Item-Randomizer/releases/download/1.0.12/item_randomizer-1.0.12.zip"
@@ -237,6 +183,64 @@
       "first_release": "2026-08-16",
       "last_release": "2026-08-19",
       "downloadURL": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/1.1.4/randomized_gym_challenge-1.1.4.zip"
+    },
+    {
+      "folder": "inmento@gen1_shedinja",
+      "id": "gen1_shedinja",
+      "title": "Shedinja",
+      "author": "inmento",
+      "summary": "Standalone R/B/Y and Gold expansion: National Dex #292 Shedinja, generation-specific Wonder Guard, credited Gen 1/animated Gen 2 sprites, and Gold shiny palettes. Incompatible with roster expansions.",
+      "version": "0.1.7",
+      "categories": [
+        "GAMEPLAY",
+        "CONTENT"
+      ],
+      "tags": [
+        "shedinja",
+        "species expansion",
+        "wonder guard",
+        "kanto",
+        "johto",
+        "gen 1",
+        "gold",
+        "animated sprites"
+      ],
+      "repo": "https://github.com/inmento/Gen1-Shedinja",
+      "github": "inmento/Gen1-Shedinja",
+      "automatic_version_check": true,
+      "api": 2,
+      "game_version": ">=0.2.3 <1.0.0",
+      "games": [
+        "gen1",
+        "gen2"
+      ],
+      "profile": "overhaul",
+      "affects_link": true,
+      "permissions": [
+        "engine_internals"
+      ],
+      "thumbnail": null,
+      "description_url": "data/mods/inmento@gen1_shedinja/description.md",
+      "latest": {
+        "version": "0.1.7",
+        "tag": "0.1.7",
+        "name": "Shedinja 0.1.7",
+        "prerelease": false,
+        "published_at": "2026-08-19T18:32:47Z",
+        "published": "2026-08-19",
+        "downloads": 0,
+        "zip": {
+          "name": "gen1_shedinja-0.1.7.zip",
+          "url": "https://github.com/inmento/Gen1-Shedinja/releases/download/0.1.7/gen1_shedinja-0.1.7.zip",
+          "size": 24232,
+          "downloadCount": 0
+        }
+      },
+      "update_check": "ok",
+      "downloads": 5,
+      "first_release": "2026-08-18",
+      "last_release": "2026-08-19",
+      "downloadURL": "https://github.com/inmento/Gen1-Shedinja/releases/download/0.1.7/gen1_shedinja-0.1.7.zip"
     },
     {
       "folder": "inmento@sound_effect_replacer",
@@ -336,16 +340,16 @@
         "prerelease": false,
         "published_at": "2026-08-19T01:06:29Z",
         "published": "2026-08-19",
-        "downloads": 8,
+        "downloads": 14,
         "zip": {
           "name": "starter_picker-1.0.11.zip",
           "url": "https://github.com/inmento/Starter-Picker/releases/download/1.0.11/starter_picker-1.0.11.zip",
           "size": 20101,
-          "downloadCount": 8
+          "downloadCount": 14
         }
       },
       "update_check": "ok",
-      "downloads": 158,
+      "downloads": 164,
       "first_release": "2026-08-14",
       "last_release": "2026-08-19",
       "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.0.11/starter_picker-1.0.11.zip"
