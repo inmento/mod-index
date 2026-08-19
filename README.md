@@ -13,9 +13,8 @@ The layout, entry schema, generated feed, and release selection rules are compat
 | Starter Picker | 1.0.12 | [Release page](https://github.com/inmento/Starter-Picker/releases) |
 | Randomized Gym Challenge | 1.1.4 | [Release page](https://github.com/inmento/Randomized-Gym-Challenge/releases) |
 | Sound Effect Replacer | 0.3.3 | [Release page](https://github.com/inmento/Sound-Effect-Replacer/releases) |
-| Shedinja | 0.2.0 | [Release page](https://github.com/inmento/Gen1-Shedinja/releases) |
-| Shedinja Expanded Bridge | 0.1.2 | [Release page](https://github.com/inmento/Shedinja-Expanded-Bridge/releases) |
-| Shedinja Crystal 251 Bridge | 0.1.1 | [Release page](https://github.com/inmento/Shedinja-Crystal-251-Bridge/releases) |
+| Shedinja | 0.2.1 | [Release page](https://github.com/inmento/Gen1-Shedinja/releases) |
+| Shedinja Compatibility Bridge | 0.1.3 | [Release page](https://github.com/inmento/Shedinja-Expanded-Bridge/releases) |
 
 ## Machine-readable feed
 

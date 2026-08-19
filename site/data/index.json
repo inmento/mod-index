@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-19T21:39:02.028Z",
-  "count": 8,
+  "generated_at": "2026-08-19T21:58:30.775Z",
+  "count": 7,
   "categories": [
     "GAMEPLAY",
     "CONTENT",
@@ -56,16 +56,16 @@
         "prerelease": false,
         "published_at": "2026-08-19T01:06:26Z",
         "published": "2026-08-19",
-        "downloads": 8,
+        "downloads": 10,
         "zip": {
           "name": "gym_leader_shuffle-1.0.8.zip",
           "url": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.8/gym_leader_shuffle-1.0.8.zip",
           "size": 17859,
-          "downloadCount": 8
+          "downloadCount": 10
         }
       },
       "update_check": "ok",
-      "downloads": 66,
+      "downloads": 68,
       "first_release": "2026-08-14",
       "last_release": "2026-08-19",
       "downloadURL": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.8/gym_leader_shuffle-1.0.8.zip"
@@ -170,16 +170,16 @@
         "prerelease": false,
         "published_at": "2026-08-19T01:06:31Z",
         "published": "2026-08-19",
-        "downloads": 2,
+        "downloads": 3,
         "zip": {
           "name": "randomized_gym_challenge-1.1.4.zip",
           "url": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/1.1.4/randomized_gym_challenge-1.1.4.zip",
           "size": 22400,
-          "downloadCount": 2
+          "downloadCount": 3
         }
       },
       "update_check": "ok",
-      "downloads": 16,
+      "downloads": 17,
       "first_release": "2026-08-16",
       "last_release": "2026-08-19",
       "downloadURL": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/1.1.4/randomized_gym_challenge-1.1.4.zip"
@@ -189,8 +189,8 @@
       "id": "shedninja",
       "title": "Shedinja",
       "author": "inmento",
-      "summary": "R/B/Y and Gold Shedinja #292 with generation-specific Wonder Guard, credited art, party icons, and optional Crystal 251 or Expanded Species bridge paths.",
-      "version": "0.2.0",
+      "summary": "R/B/Y and Gold Shedinja #292 with generation-specific Wonder Guard, credited art, party icons, and one optional bridge for Crystal 251 or Expanded Species.",
+      "version": "0.2.1",
       "categories": [
         "GAMEPLAY",
         "CONTENT"
@@ -220,17 +220,17 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@shedninja/description.md",
       "latest": {
-        "version": "0.2.0",
-        "tag": "0.2.0",
-        "name": "Shedinja 0.2.0",
+        "version": "0.2.1",
+        "tag": "0.2.1",
+        "name": "Shedinja 0.2.1",
         "prerelease": false,
-        "published_at": "2026-08-19T21:34:54Z",
+        "published_at": "2026-08-19T21:55:43Z",
         "published": "2026-08-19",
         "downloads": 0,
         "zip": {
-          "name": "shedninja-0.2.0.zip",
-          "url": "https://github.com/inmento/Gen1-Shedinja/releases/download/0.2.0/shedninja-0.2.0.zip",
-          "size": 27584,
+          "name": "shedninja-0.2.1.zip",
+          "url": "https://github.com/inmento/Gen1-Shedinja/releases/download/0.2.1/shedninja-0.2.1.zip",
+          "size": 27769,
           "downloadCount": 0
         }
       },
@@ -238,15 +238,15 @@
       "downloads": 10,
       "first_release": "2026-08-18",
       "last_release": "2026-08-19",
-      "downloadURL": "https://github.com/inmento/Gen1-Shedinja/releases/download/0.2.0/shedninja-0.2.0.zip"
+      "downloadURL": "https://github.com/inmento/Gen1-Shedinja/releases/download/0.2.1/shedninja-0.2.1.zip"
     },
     {
-      "folder": "inmento@shedinja_crystal251_bridge",
-      "id": "shedinja_crystal251_bridge",
-      "title": "Shedinja Crystal 251 Bridge",
+      "folder": "inmento@shedinja_expanded_bridge",
+      "id": "shedinja_expanded_bridge",
+      "title": "Shedinja Compatibility Bridge",
       "author": "inmento",
-      "summary": "Gen 1 bridge for Shedinja and Crystal 251: reserves index 252, preserves National Dex #292, and supplies Crystal split-stat and genderless metadata.",
-      "version": "0.1.1",
+      "summary": "One optional Shedinja bridge: Crystal-safe index and runtime metadata with Crystal 251 in R/B/Y, or #292 framework repair with Expanded Species in Gold.",
+      "version": "0.1.3",
       "categories": [
         "CONTENT",
         "OTHER"
@@ -254,63 +254,6 @@
       "tags": [
         "shedinja",
         "crystal 251",
-        "gen1",
-        "species compatibility",
-        "pokedex"
-      ],
-      "repo": "https://github.com/inmento/Shedinja-Crystal-251-Bridge",
-      "github": "inmento/Shedinja-Crystal-251-Bridge",
-      "automatic_version_check": true,
-      "api": 2,
-      "game_version": ">=0.2.10 <1.0.0",
-      "games": [
-        "gen1"
-      ],
-      "profile": "content",
-      "affects_link": true,
-      "permissions": [
-        "engine_internals"
-      ],
-      "dependencies": [
-        "shedninja@>=0.2.0 <1.0.0",
-        "CRYSTAL_251@>=0.11.3 <1.0.0"
-      ],
-      "thumbnail": null,
-      "description_url": "data/mods/inmento@shedinja_crystal251_bridge/description.md",
-      "latest": {
-        "version": "0.1.1",
-        "tag": "0.1.1",
-        "name": "Shedinja Crystal 251 Bridge 0.1.1",
-        "prerelease": false,
-        "published_at": "2026-08-19T21:35:13Z",
-        "published": "2026-08-19",
-        "downloads": 0,
-        "zip": {
-          "name": "shedinja_crystal251_bridge-0.1.1.zip",
-          "url": "https://github.com/inmento/Shedinja-Crystal-251-Bridge/releases/download/0.1.1/shedinja_crystal251_bridge-0.1.1.zip",
-          "size": 4589,
-          "downloadCount": 0
-        }
-      },
-      "update_check": "ok",
-      "downloads": 0,
-      "first_release": "2026-08-19",
-      "last_release": "2026-08-19",
-      "downloadURL": "https://github.com/inmento/Shedinja-Crystal-251-Bridge/releases/download/0.1.1/shedinja_crystal251_bridge-0.1.1.zip"
-    },
-    {
-      "folder": "inmento@shedinja_expanded_bridge",
-      "id": "shedinja_expanded_bridge",
-      "title": "Shedinja Expanded Bridge",
-      "author": "inmento",
-      "summary": "Gold-only bridge for Shedinja and Expanded Species. Requires both; preserves Shedinja’s virtual and visible #292 identity plus Gold palette, icon, and Dex ordering.",
-      "version": "0.1.2",
-      "categories": [
-        "CONTENT",
-        "OTHER"
-      ],
-      "tags": [
-        "shedinja",
         "gold",
         "expanded species",
         "species compatibility",
@@ -320,8 +263,9 @@
       "github": "inmento/Shedinja-Expanded-Bridge",
       "automatic_version_check": true,
       "api": 2,
-      "game_version": ">=0.2.3 <1.0.0",
+      "game_version": ">=0.2.10 <1.0.0",
       "games": [
+        "gen1",
         "gen2"
       ],
       "profile": "content",
@@ -330,31 +274,30 @@
         "engine_internals"
       ],
       "dependencies": [
-        "expanded_species@>=0.6.5 <1.0.0",
-        "shedninja@>=0.2.0 <1.0.0"
+        "shedninja@>=0.2.1 <1.0.0"
       ],
       "thumbnail": null,
       "description_url": "data/mods/inmento@shedinja_expanded_bridge/description.md",
       "latest": {
-        "version": "0.1.2",
-        "tag": "0.1.2",
-        "name": "Shedinja Expanded Bridge 0.1.2",
+        "version": "0.1.3",
+        "tag": "0.1.3",
+        "name": "Shedinja Compatibility Bridge 0.1.3",
         "prerelease": false,
-        "published_at": "2026-08-19T21:35:03Z",
+        "published_at": "2026-08-19T21:56:10Z",
         "published": "2026-08-19",
         "downloads": 0,
         "zip": {
-          "name": "shedinja_expanded_bridge-0.1.2.zip",
-          "url": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.1.2/shedinja_expanded_bridge-0.1.2.zip",
-          "size": 4971,
+          "name": "shedinja_expanded_bridge-0.1.3.zip",
+          "url": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.1.3/shedinja_expanded_bridge-0.1.3.zip",
+          "size": 5970,
           "downloadCount": 0
         }
       },
       "update_check": "ok",
-      "downloads": 0,
+      "downloads": 1,
       "first_release": "2026-08-19",
       "last_release": "2026-08-19",
-      "downloadURL": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.1.2/shedinja_expanded_bridge-0.1.2.zip"
+      "downloadURL": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.1.3/shedinja_expanded_bridge-0.1.3.zip"
     },
     {
       "folder": "inmento@sound_effect_replacer",
@@ -398,16 +341,16 @@
         "prerelease": false,
         "published_at": "2026-08-18T21:05:58Z",
         "published": "2026-08-18",
-        "downloads": 6,
+        "downloads": 7,
         "zip": {
           "name": "sound_effect_replacer-0.3.3.zip",
           "url": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/0.3.3/sound_effect_replacer-0.3.3.zip",
           "size": 448494,
-          "downloadCount": 6
+          "downloadCount": 7
         }
       },
       "update_check": "ok",
-      "downloads": 8,
+      "downloads": 9,
       "first_release": "2026-08-18",
       "last_release": "2026-08-18",
       "downloadURL": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/0.3.3/sound_effect_replacer-0.3.3.zip"
@@ -454,16 +397,16 @@
         "prerelease": false,
         "published_at": "2026-08-19T20:16:43Z",
         "published": "2026-08-19",
-        "downloads": 3,
+        "downloads": 5,
         "zip": {
           "name": "starter_picker-1.0.12.zip",
           "url": "https://github.com/inmento/Starter-Picker/releases/download/1.0.12/starter_picker-1.0.12.zip",
           "size": 20614,
-          "downloadCount": 3
+          "downloadCount": 5
         }
       },
       "update_check": "ok",
-      "downloads": 168,
+      "downloads": 170,
       "first_release": "2026-08-14",
       "last_release": "2026-08-19",
       "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.0.12/starter_picker-1.0.12.zip"
