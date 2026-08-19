@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-19T20:46:33.964Z",
+  "generated_at": "2026-08-19T21:05:44.121Z",
   "count": 7,
   "categories": [
     "GAMEPLAY",
@@ -190,7 +190,7 @@
       "title": "Shedinja",
       "author": "inmento",
       "summary": "Standalone R/B/Y and Gold Shedinja #292 with generation-specific Wonder Guard, credited Gen 1/animated Gen 2 art, Gold shiny palettes, and explicit party-menu icons.",
-      "version": "0.1.10",
+      "version": "0.1.11",
       "categories": [
         "GAMEPLAY",
         "CONTENT"
@@ -220,17 +220,17 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@gen1_shedinja/description.md",
       "latest": {
-        "version": "0.1.10",
-        "tag": "0.1.10",
-        "name": "Shedinja 0.1.10",
+        "version": "0.1.11",
+        "tag": "0.1.11",
+        "name": "Shedinja 0.1.11",
         "prerelease": false,
-        "published_at": "2026-08-19T20:44:32Z",
+        "published_at": "2026-08-19T21:05:12Z",
         "published": "2026-08-19",
         "downloads": 0,
         "zip": {
-          "name": "gen1_shedinja-0.1.10.zip",
-          "url": "https://github.com/inmento/Gen1-Shedinja/releases/download/0.1.10/gen1_shedinja-0.1.10.zip",
-          "size": 26509,
+          "name": "gen1_shedinja-0.1.11.zip",
+          "url": "https://github.com/inmento/Gen1-Shedinja/releases/download/0.1.11/gen1_shedinja-0.1.11.zip",
+          "size": 26703,
           "downloadCount": 0
         }
       },
@@ -238,7 +238,7 @@
       "downloads": 8,
       "first_release": "2026-08-18",
       "last_release": "2026-08-19",
-      "downloadURL": "https://github.com/inmento/Gen1-Shedinja/releases/download/0.1.10/gen1_shedinja-0.1.10.zip"
+      "downloadURL": "https://github.com/inmento/Gen1-Shedinja/releases/download/0.1.11/gen1_shedinja-0.1.11.zip"
     },
     {
       "folder": "inmento@shedinja_expanded_bridge",
