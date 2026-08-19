@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-19T01:08:59.204Z",
+  "generated_at": "2026-08-19T05:49:59.551Z",
   "count": 6,
   "categories": [
     "GAMEPLAY",
@@ -110,16 +110,16 @@
         "prerelease": false,
         "published_at": "2026-08-19T01:06:26Z",
         "published": "2026-08-19",
-        "downloads": 0,
+        "downloads": 2,
         "zip": {
           "name": "gym_leader_shuffle-1.0.8.zip",
           "url": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.8/gym_leader_shuffle-1.0.8.zip",
           "size": 17859,
-          "downloadCount": 0
+          "downloadCount": 2
         }
       },
       "update_check": "ok",
-      "downloads": 58,
+      "downloads": 60,
       "first_release": "2026-08-14",
       "last_release": "2026-08-19",
       "downloadURL": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.8/gym_leader_shuffle-1.0.8.zip"
@@ -280,16 +280,16 @@
         "prerelease": false,
         "published_at": "2026-08-18T21:05:58Z",
         "published": "2026-08-18",
-        "downloads": 2,
+        "downloads": 4,
         "zip": {
           "name": "sound_effect_replacer-0.3.3.zip",
           "url": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/0.3.3/sound_effect_replacer-0.3.3.zip",
           "size": 448494,
-          "downloadCount": 2
+          "downloadCount": 4
         }
       },
       "update_check": "ok",
-      "downloads": 3,
+      "downloads": 5,
       "first_release": "2026-08-18",
       "last_release": "2026-08-18",
       "downloadURL": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/0.3.3/sound_effect_replacer-0.3.3.zip"
@@ -336,16 +336,16 @@
         "prerelease": false,
         "published_at": "2026-08-19T01:06:29Z",
         "published": "2026-08-19",
-        "downloads": 0,
+        "downloads": 8,
         "zip": {
           "name": "starter_picker-1.0.11.zip",
           "url": "https://github.com/inmento/Starter-Picker/releases/download/1.0.11/starter_picker-1.0.11.zip",
           "size": 20101,
-          "downloadCount": 0
+          "downloadCount": 8
         }
       },
       "update_check": "ok",
-      "downloads": 149,
+      "downloads": 158,
       "first_release": "2026-08-14",
       "last_release": "2026-08-19",
       "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.0.11/starter_picker-1.0.11.zip"
