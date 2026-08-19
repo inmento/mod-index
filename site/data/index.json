@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-19T20:35:05.601Z",
+  "generated_at": "2026-08-19T20:46:16.314Z",
   "count": 7,
   "categories": [
     "GAMEPLAY",
@@ -190,7 +190,7 @@
       "title": "Shedinja",
       "author": "inmento",
       "summary": "Standalone R/B/Y and Gold Shedinja #292 with generation-specific Wonder Guard, credited Gen 1/animated Gen 2 art, Gold shiny palettes, and explicit party-menu icons.",
-      "version": "0.1.9",
+      "version": "0.1.10",
       "categories": [
         "GAMEPLAY",
         "CONTENT"
@@ -220,17 +220,17 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@gen1_shedinja/description.md",
       "latest": {
-        "version": "0.1.9",
-        "tag": "0.1.9",
-        "name": "Shedinja 0.1.9",
+        "version": "0.1.10",
+        "tag": "0.1.10",
+        "name": "Shedinja 0.1.10",
         "prerelease": false,
-        "published_at": "2026-08-19T20:34:09Z",
+        "published_at": "2026-08-19T20:44:32Z",
         "published": "2026-08-19",
         "downloads": 0,
         "zip": {
-          "name": "gen1_shedinja-0.1.9.zip",
-          "url": "https://github.com/inmento/Gen1-Shedinja/releases/download/0.1.9/gen1_shedinja-0.1.9.zip",
-          "size": 27341,
+          "name": "gen1_shedinja-0.1.10.zip",
+          "url": "https://github.com/inmento/Gen1-Shedinja/releases/download/0.1.10/gen1_shedinja-0.1.10.zip",
+          "size": 26509,
           "downloadCount": 0
         }
       },
@@ -238,7 +238,7 @@
       "downloads": 8,
       "first_release": "2026-08-18",
       "last_release": "2026-08-19",
-      "downloadURL": "https://github.com/inmento/Gen1-Shedinja/releases/download/0.1.9/gen1_shedinja-0.1.9.zip"
+      "downloadURL": "https://github.com/inmento/Gen1-Shedinja/releases/download/0.1.10/gen1_shedinja-0.1.10.zip"
     },
     {
       "folder": "inmento@shedinja_expanded_bridge",
@@ -246,7 +246,7 @@
       "title": "Shedinja Expanded Bridge",
       "author": "inmento",
       "summary": "Gold-only bridge for Shedinja and Expanded Species. Requires both; preserves Shedinja’s virtual and visible #292 identity plus Gold palette, icon, and Dex ordering.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "categories": [
         "CONTENT",
         "OTHER"
@@ -272,23 +272,23 @@
         "engine_internals"
       ],
       "dependencies": [
-        "expanded_species@>=0.6.5 <2.0.0",
-        "gen1_shedinja@>=0.1.7 <1.0.0"
+        "expanded_species@>=0.6.5 <1.0.0",
+        "gen1_shedinja@>=0.1.10 <1.0.0"
       ],
       "thumbnail": null,
       "description_url": "data/mods/inmento@shedinja_expanded_bridge/description.md",
       "latest": {
-        "version": "0.1.0",
-        "tag": "0.1.0",
-        "name": "Shedinja Expanded Bridge 0.1.0",
+        "version": "0.1.1",
+        "tag": "0.1.1",
+        "name": "Shedinja Expanded Bridge 0.1.1",
         "prerelease": false,
-        "published_at": "2026-08-19T20:16:46Z",
+        "published_at": "2026-08-19T20:44:53Z",
         "published": "2026-08-19",
         "downloads": 0,
         "zip": {
-          "name": "shedinja_expanded_bridge-0.1.0.zip",
-          "url": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.1.0/shedinja_expanded_bridge-0.1.0.zip",
-          "size": 4813,
+          "name": "shedinja_expanded_bridge-0.1.1.zip",
+          "url": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.1.1/shedinja_expanded_bridge-0.1.1.zip",
+          "size": 4840,
           "downloadCount": 0
         }
       },
@@ -296,7 +296,7 @@
       "downloads": 0,
       "first_release": "2026-08-19",
       "last_release": "2026-08-19",
-      "downloadURL": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.1.0/shedinja_expanded_bridge-0.1.0.zip"
+      "downloadURL": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.1.1/shedinja_expanded_bridge-0.1.1.zip"
     },
     {
       "folder": "inmento@sound_effect_replacer",

@@ -3,7 +3,7 @@
   "title": "Shedinja Expanded Bridge",
   "author": "inmento",
   "summary": "Gold-only bridge for Shedinja and Expanded Species. Requires both; preserves Shedinja’s virtual and visible #292 identity plus Gold palette, icon, and Dex ordering.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "categories": ["CONTENT", "OTHER"],
   "tags": ["shedinja", "gold", "expanded species", "species compatibility", "pokedex"],
   "repo": "https://github.com/inmento/Shedinja-Expanded-Bridge",
@@ -16,7 +16,7 @@
   "affects_link": true,
   "permissions": ["engine_internals"],
   "dependencies": [
-    "expanded_species@>=0.6.5 <2.0.0",
-    "gen1_shedinja@>=0.1.7 <1.0.0"
+    "expanded_species@>=0.6.5 <1.0.0",
+    "gen1_shedinja@>=0.1.10 <1.0.0"
   ]
 }
