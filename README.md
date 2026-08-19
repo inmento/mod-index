@@ -8,12 +8,14 @@ The layout, entry schema, generated feed, and release selection rules are compat
 
 | Mod | Current release | Source and downloads |
 |---|---:|---|
-| Gym Leader Shuffle | 1.0.7 | [Release page](https://github.com/inmento/Gym-Leader-Shuffle/releases) |
-| Item Randomizer | 1.0.11 | [Release page](https://github.com/inmento/Item-Randomizer/releases) |
-| Starter Picker | 1.0.9 | [Release page](https://github.com/inmento/Starter-Picker/releases) |
-| Randomized Gym Challenge | 1.1.3 | [Release page](https://github.com/inmento/Randomized-Gym-Challenge/releases) |
-| Sound Effect Replacer | 0.3.2 | [Release page](https://github.com/inmento/Sound-Effect-Replacer/releases) |
-| Gen 1 Shedinja | 0.1.3 | [Release page](https://github.com/inmento/Gen1-Shedinja/releases) |
+| Gym Leader Shuffle | 1.0.8 | [Release page](https://github.com/inmento/Gym-Leader-Shuffle/releases) |
+| Item Randomizer | 1.0.12 | [Release page](https://github.com/inmento/Item-Randomizer/releases) |
+| Starter Picker | 1.0.12 | [Release page](https://github.com/inmento/Starter-Picker/releases) |
+| Randomized Gym Challenge | 1.1.4 | [Release page](https://github.com/inmento/Randomized-Gym-Challenge/releases) |
+| Sound Effect Replacer | 0.3.3 | [Release page](https://github.com/inmento/Sound-Effect-Replacer/releases) |
+| Shedinja | 0.2.0 | [Release page](https://github.com/inmento/Gen1-Shedinja/releases) |
+| Shedinja Expanded Bridge | 0.1.2 | [Release page](https://github.com/inmento/Shedinja-Expanded-Bridge/releases) |
+| Shedinja Crystal 251 Bridge | 0.1.1 | [Release page](https://github.com/inmento/Shedinja-Crystal-251-Bridge/releases) |
 
 ## Machine-readable feed
 

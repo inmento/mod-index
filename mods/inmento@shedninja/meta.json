@@ -1,9 +1,9 @@
 {
-  "id": "gen1_shedinja",
+  "id": "shedninja",
   "title": "Shedinja",
   "author": "inmento",
-  "summary": "Standalone R/B/Y and Gold Shedinja #292 with generation-specific Wonder Guard, credited art, party icons, Gold support, and optional Crystal 251 or Expanded Species bridge paths.",
-  "version": "0.1.12",
+  "summary": "R/B/Y and Gold Shedinja #292 with generation-specific Wonder Guard, credited art, party icons, and optional Crystal 251 or Expanded Species bridge paths.",
+  "version": "0.2.0",
   "categories": [
     "GAMEPLAY",
     "CONTENT"
