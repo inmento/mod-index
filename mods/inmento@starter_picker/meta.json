@@ -3,7 +3,7 @@
   "title": "Starter Picker",
   "author": "inmento",
   "summary": "Choose Gen 1 and Gold starters by ball position, preserve Crystal 251 data, synchronize supported randomizer assignments, and apply weakness-aware rival picks with player-only DV options.",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "categories": ["GAMEPLAY", "QOL"],
   "tags": ["starters", "oak lab", "elm lab", "dvs", "gold", "randomizer compatibility"],
   "repo": "https://github.com/inmento/Starter-Picker",
