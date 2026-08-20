@@ -2,8 +2,8 @@
   "id": "FIRERED_KANTO_VISUALS",
   "title": "FireRed Kanto Visual Importer",
   "author": "inmento",
-  "summary": "Visual-only FireRed v1.0 visual importer for Kanto terrain, existing Pokémon art, and trainer portraits. Restored identity lets original installs update; maps and gameplay remain untouched.",
-  "version": "0.1.3",
+  "summary": "Visual-only FireRed v1.0 importer for Kanto terrain, existing Pokémon art, and trainer portraits, with a corrected true-colour outdoor transition; maps and gameplay remain untouched.",
+  "version": "0.1.4",
   "categories": [
     "ART",
     "CONTENT"

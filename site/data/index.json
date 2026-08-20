@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-20T21:31:19.777Z",
+  "generated_at": "2026-08-20T21:45:01.142Z",
   "count": 8,
   "categories": [
     "GAMEPLAY",
@@ -22,8 +22,8 @@
       "id": "FIRERED_KANTO_VISUALS",
       "title": "FireRed Kanto Visual Importer",
       "author": "inmento",
-      "summary": "Visual-only FireRed v1.0 visual importer for Kanto terrain, existing Pokémon art, and trainer portraits. Restored identity lets original installs update; maps and gameplay remain untouched.",
-      "version": "0.1.3",
+      "summary": "Visual-only FireRed v1.0 importer for Kanto terrain, existing Pokémon art, and trainer portraits, with a corrected true-colour outdoor transition; maps and gameplay remain untouched.",
+      "version": "0.1.4",
       "categories": [
         "ART",
         "CONTENT"
@@ -52,25 +52,25 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@FIRERED_KANTO_VISUALS/description.md",
       "latest": {
-        "version": "0.1.3",
-        "tag": "v0.1.3",
-        "name": "FireRed Kanto Visual Importer 0.1.3",
+        "version": "0.1.4",
+        "tag": "v0.1.4",
+        "name": "FireRed Kanto Visual Importer 0.1.4",
         "prerelease": false,
-        "published_at": "2026-08-20T20:33:04Z",
+        "published_at": "2026-08-20T21:43:54Z",
         "published": "2026-08-20",
-        "downloads": 1,
+        "downloads": 0,
         "zip": {
-          "name": "FIRERED_KANTO_VISUALS-0.1.3.zip",
-          "url": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.1.3/FIRERED_KANTO_VISUALS-0.1.3.zip",
-          "size": 23865,
-          "downloadCount": 1
+          "name": "FIRERED_KANTO_VISUALS-0.1.4.zip",
+          "url": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.1.4/FIRERED_KANTO_VISUALS-0.1.4.zip",
+          "size": 24454,
+          "downloadCount": 0
         }
       },
       "update_check": "ok",
       "downloads": 1,
       "first_release": "2026-08-20",
       "last_release": "2026-08-20",
-      "downloadURL": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.1.3/FIRERED_KANTO_VISUALS-0.1.3.zip"
+      "downloadURL": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.1.4/FIRERED_KANTO_VISUALS-0.1.4.zip"
     },
     {
       "folder": "inmento@gym_leader_shuffle",
@@ -225,16 +225,16 @@
         "prerelease": false,
         "published_at": "2026-08-20T21:24:19Z",
         "published": "2026-08-20",
-        "downloads": 0,
+        "downloads": 1,
         "zip": {
           "name": "randomized_gym_challenge-1.1.8.zip",
           "url": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/v1.1.8/randomized_gym_challenge-1.1.8.zip",
           "size": 44297,
-          "downloadCount": 0
+          "downloadCount": 1
         }
       },
       "update_check": "ok",
-      "downloads": 20,
+      "downloads": 21,
       "first_release": "2026-08-16",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/v1.1.8/randomized_gym_challenge-1.1.8.zip"
