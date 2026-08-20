@@ -11,7 +11,7 @@ The layout, entry schema, generated feed, and release selection rules are compat
 | FireRed Kanto Visual Importer | 0.1.3 | [Release page](https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases) |
 | Gym Leader Shuffle | 1.0.8 | [Release page](https://github.com/inmento/Gym-Leader-Shuffle/releases) |
 | Item Randomizer | 1.0.12 | [Release page](https://github.com/inmento/Item-Randomizer/releases) |
-| Randomized Gym Challenge | 1.1.7 | [Release page](https://github.com/inmento/Randomized-Gym-Challenge/releases) |
+| Randomized Gym Challenge | 1.1.8 | [Release page](https://github.com/inmento/Randomized-Gym-Challenge/releases) |
 | Shedinja | 0.3.4 | [Release page](https://github.com/inmento/Shedinja/releases) |
 | Shedinja Compatibility Bridge | 0.1.4 | [Release page](https://github.com/inmento/Shedinja-Expanded-Bridge/releases) |
 | Sound Effect Replacer | 0.3.3 | [Release page](https://github.com/inmento/Sound-Effect-Replacer/releases) |
