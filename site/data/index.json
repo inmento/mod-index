@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-20T00:12:54.210Z",
+  "generated_at": "2026-08-20T04:20:39.302Z",
   "count": 7,
   "categories": [
     "GAMEPLAY",
@@ -185,12 +185,12 @@
       "downloadURL": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/1.1.4/randomized_gym_challenge-1.1.4.zip"
     },
     {
-      "folder": "inmento@shedninja",
-      "id": "shedninja",
+      "folder": "inmento@shedinja",
+      "id": "shedinja",
       "title": "Shedinja",
       "author": "inmento",
-      "summary": "R/B/Y and Gold Shedinja #292 with cross-side Wonder Guard, Gold rift reward and held-item-gated encounters, credited art, party icons, and one optional bridge for Crystal 251 or Expanded Species.",
-      "version": "0.2.2",
+      "summary": "R/B/Y and Gold Shedinja #292 with Wonder Guard, a Gold rift reward and held-item route gate, Electric Tera Orb, Air Balloon, credited art, and one optional Crystal 251 or Expanded Species bridge.",
+      "version": "0.3.0",
       "categories": [
         "GAMEPLAY",
         "CONTENT"
@@ -203,8 +203,8 @@
         "gold",
         "animated sprites"
       ],
-      "repo": "https://github.com/inmento/Gen1-Shedinja",
-      "github": "inmento/Gen1-Shedinja",
+      "repo": "https://github.com/inmento/Shedinja",
+      "github": "inmento/Shedinja",
       "automatic_version_check": true,
       "api": 2,
       "game_version": ">=0.2.3 <1.0.0",
@@ -218,27 +218,27 @@
         "engine_internals"
       ],
       "thumbnail": null,
-      "description_url": "data/mods/inmento@shedninja/description.md",
+      "description_url": "data/mods/inmento@shedinja/description.md",
       "latest": {
-        "version": "0.2.2",
-        "tag": "0.2.2",
-        "name": "Shedinja 0.2.2",
+        "version": "0.3.0",
+        "tag": "0.3.0",
+        "name": "Shedinja 0.3.0",
         "prerelease": false,
-        "published_at": "2026-08-19T23:29:17Z",
-        "published": "2026-08-19",
+        "published_at": "2026-08-20T04:15:07Z",
+        "published": "2026-08-20",
         "downloads": 0,
         "zip": {
-          "name": "shedninja-0.2.2.zip",
-          "url": "https://github.com/inmento/Gen1-Shedinja/releases/download/0.2.2/shedninja-0.2.2.zip",
-          "size": 29348,
+          "name": "shedinja-0.3.0.zip",
+          "url": "https://github.com/inmento/Shedinja/releases/download/0.3.0/shedinja-0.3.0.zip",
+          "size": 34390,
           "downloadCount": 0
         }
       },
       "update_check": "ok",
-      "downloads": 11,
+      "downloads": 12,
       "first_release": "2026-08-18",
-      "last_release": "2026-08-19",
-      "downloadURL": "https://github.com/inmento/Gen1-Shedinja/releases/download/0.2.2/shedninja-0.2.2.zip"
+      "last_release": "2026-08-20",
+      "downloadURL": "https://github.com/inmento/Shedinja/releases/download/0.3.0/shedinja-0.3.0.zip"
     },
     {
       "folder": "inmento@shedinja_expanded_bridge",
@@ -246,7 +246,7 @@
       "title": "Shedinja Compatibility Bridge",
       "author": "inmento",
       "summary": "One optional Shedinja bridge: Crystal-safe index and runtime metadata with Crystal 251 in R/B/Y, or #292 framework repair with Expanded Species in Gold.",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "categories": [
         "CONTENT",
         "OTHER"
@@ -274,30 +274,30 @@
         "engine_internals"
       ],
       "dependencies": [
-        "shedninja@>=0.2.1 <1.0.0"
+        "shedinja@>=0.3.0 <1.0.0"
       ],
       "thumbnail": null,
       "description_url": "data/mods/inmento@shedinja_expanded_bridge/description.md",
       "latest": {
-        "version": "0.1.3",
-        "tag": "0.1.3",
-        "name": "Shedinja Compatibility Bridge 0.1.3",
+        "version": "0.1.4",
+        "tag": "0.1.4",
+        "name": "Shedinja Compatibility Bridge 0.1.4",
         "prerelease": false,
-        "published_at": "2026-08-19T21:56:10Z",
-        "published": "2026-08-19",
+        "published_at": "2026-08-20T04:15:43Z",
+        "published": "2026-08-20",
         "downloads": 0,
         "zip": {
-          "name": "shedinja_expanded_bridge-0.1.3.zip",
-          "url": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.1.3/shedinja_expanded_bridge-0.1.3.zip",
-          "size": 5970,
+          "name": "shedinja-compatibility-bridge-0.1.4.zip",
+          "url": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.1.4/shedinja-compatibility-bridge-0.1.4.zip",
+          "size": 6297,
           "downloadCount": 0
         }
       },
       "update_check": "ok",
       "downloads": 1,
       "first_release": "2026-08-19",
-      "last_release": "2026-08-19",
-      "downloadURL": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.1.3/shedinja_expanded_bridge-0.1.3.zip"
+      "last_release": "2026-08-20",
+      "downloadURL": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.1.4/shedinja-compatibility-bridge-0.1.4.zip"
     },
     {
       "folder": "inmento@sound_effect_replacer",
@@ -360,8 +360,8 @@
       "id": "starter_picker",
       "title": "Starter Picker",
       "author": "inmento",
-      "summary": "Choose Gen 1 and Gold starters by ball position, sync supported randomizer assignments, apply weakness-aware rival picks, and use mobile-safe Gold option labels.",
-      "version": "1.0.12",
+      "summary": "Choose Gen 1 and Gold starters by ball position, sync supported Randomizer assignments, apply weakness-aware rival picks, use mobile-safe Gold labels, and optionally integrate with Shedinja.",
+      "version": "1.0.13",
       "categories": [
         "GAMEPLAY",
         "QOL"
@@ -391,25 +391,25 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@starter_picker/description.md",
       "latest": {
-        "version": "1.0.12",
-        "tag": "1.0.12",
-        "name": "Starter Picker 1.0.12",
+        "version": "1.0.13",
+        "tag": "1.0.13",
+        "name": "Starter Picker 1.0.13",
         "prerelease": false,
-        "published_at": "2026-08-19T20:16:43Z",
-        "published": "2026-08-19",
-        "downloads": 7,
+        "published_at": "2026-08-20T04:18:10Z",
+        "published": "2026-08-20",
+        "downloads": 0,
         "zip": {
-          "name": "starter_picker-1.0.12.zip",
-          "url": "https://github.com/inmento/Starter-Picker/releases/download/1.0.12/starter_picker-1.0.12.zip",
-          "size": 20614,
-          "downloadCount": 7
+          "name": "starter_picker-1.0.13.zip",
+          "url": "https://github.com/inmento/Starter-Picker/releases/download/1.0.13/starter_picker-1.0.13.zip",
+          "size": 20714,
+          "downloadCount": 0
         }
       },
       "update_check": "ok",
-      "downloads": 172,
+      "downloads": 177,
       "first_release": "2026-08-14",
-      "last_release": "2026-08-19",
-      "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.0.12/starter_picker-1.0.12.zip"
+      "last_release": "2026-08-20",
+      "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.0.13/starter_picker-1.0.13.zip"
     }
   ]
 }
