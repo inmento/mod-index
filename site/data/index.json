@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-19T21:58:44.757Z",
+  "generated_at": "2026-08-20T00:12:28.978Z",
   "count": 7,
   "categories": [
     "GAMEPLAY",
@@ -189,8 +189,8 @@
       "id": "shedninja",
       "title": "Shedinja",
       "author": "inmento",
-      "summary": "R/B/Y and Gold Shedinja #292 with generation-specific Wonder Guard, credited art, party icons, and one optional bridge for Crystal 251 or Expanded Species.",
-      "version": "0.2.1",
+      "summary": "R/B/Y and Gold Shedinja #292 with cross-side Wonder Guard, Gold rift reward and held-item-gated encounters, credited art, party icons, and one optional bridge for Crystal 251 or Expanded Species.",
+      "version": "0.2.2",
       "categories": [
         "GAMEPLAY",
         "CONTENT"
@@ -220,25 +220,25 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@shedninja/description.md",
       "latest": {
-        "version": "0.2.1",
-        "tag": "0.2.1",
-        "name": "Shedinja 0.2.1",
+        "version": "0.2.2",
+        "tag": "0.2.2",
+        "name": "Shedinja 0.2.2",
         "prerelease": false,
-        "published_at": "2026-08-19T21:55:43Z",
+        "published_at": "2026-08-19T23:29:17Z",
         "published": "2026-08-19",
         "downloads": 0,
         "zip": {
-          "name": "shedninja-0.2.1.zip",
-          "url": "https://github.com/inmento/Gen1-Shedinja/releases/download/0.2.1/shedninja-0.2.1.zip",
-          "size": 27769,
+          "name": "shedninja-0.2.2.zip",
+          "url": "https://github.com/inmento/Gen1-Shedinja/releases/download/0.2.2/shedninja-0.2.2.zip",
+          "size": 29348,
           "downloadCount": 0
         }
       },
       "update_check": "ok",
-      "downloads": 10,
+      "downloads": 11,
       "first_release": "2026-08-18",
       "last_release": "2026-08-19",
-      "downloadURL": "https://github.com/inmento/Gen1-Shedinja/releases/download/0.2.1/shedninja-0.2.1.zip"
+      "downloadURL": "https://github.com/inmento/Gen1-Shedinja/releases/download/0.2.2/shedninja-0.2.2.zip"
     },
     {
       "folder": "inmento@shedinja_expanded_bridge",
@@ -397,16 +397,16 @@
         "prerelease": false,
         "published_at": "2026-08-19T20:16:43Z",
         "published": "2026-08-19",
-        "downloads": 5,
+        "downloads": 7,
         "zip": {
           "name": "starter_picker-1.0.12.zip",
           "url": "https://github.com/inmento/Starter-Picker/releases/download/1.0.12/starter_picker-1.0.12.zip",
           "size": 20614,
-          "downloadCount": 5
+          "downloadCount": 7
         }
       },
       "update_check": "ok",
-      "downloads": 170,
+      "downloads": 172,
       "first_release": "2026-08-14",
       "last_release": "2026-08-19",
       "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.0.12/starter_picker-1.0.12.zip"
