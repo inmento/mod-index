@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-20T19:00:32.667Z",
+  "generated_at": "2026-08-20T20:05:58.747Z",
   "count": 8,
   "categories": [
     "GAMEPLAY",
@@ -185,8 +185,8 @@
       "id": "randomized_gym_challenge",
       "title": "Randomized Gym Challenge",
       "author": "inmento",
-      "summary": "Configurable gym-battle generator with Gold Continue-gated two-league progression, Gym Challenge recovery, guarded routing diagnostics, start summaries, leader and team rules, and Gold held items.",
-      "version": "1.1.4",
+      "summary": "Configurable gym-battle generator with corrected Gen 1 post-rival Gym Challenge routing, native trainer sighting, HP-only continuation, Route 23 Victory Road handoff, and Gold two-league progression.",
+      "version": "1.1.5",
       "categories": [
         "GAMEPLAY",
         "BALANCE"
@@ -219,25 +219,25 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@randomized_gym_challenge/description.md",
       "latest": {
-        "version": "1.1.4",
-        "tag": "1.1.4",
-        "name": "Randomized Gym Challenge 1.1.4",
+        "version": "1.1.5",
+        "tag": "1.1.5",
+        "name": "Randomized Gym Challenge 1.1.5",
         "prerelease": false,
-        "published_at": "2026-08-19T01:06:31Z",
-        "published": "2026-08-19",
-        "downloads": 3,
+        "published_at": "2026-08-20T20:03:40Z",
+        "published": "2026-08-20",
+        "downloads": 0,
         "zip": {
-          "name": "randomized_gym_challenge-1.1.4.zip",
-          "url": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/1.1.4/randomized_gym_challenge-1.1.4.zip",
-          "size": 22400,
-          "downloadCount": 3
+          "name": "randomized_gym_challenge-1.1.5.zip",
+          "url": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/1.1.5/randomized_gym_challenge-1.1.5.zip",
+          "size": 42426,
+          "downloadCount": 0
         }
       },
       "update_check": "ok",
       "downloads": 17,
       "first_release": "2026-08-16",
-      "last_release": "2026-08-19",
-      "downloadURL": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/1.1.4/randomized_gym_challenge-1.1.4.zip"
+      "last_release": "2026-08-20",
+      "downloadURL": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/1.1.5/randomized_gym_challenge-1.1.5.zip"
     },
     {
       "folder": "inmento@shedinja",
