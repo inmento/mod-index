@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-20T04:20:53.840Z",
+  "generated_at": "2026-08-20T05:49:58.279Z",
   "count": 7,
   "categories": [
     "GAMEPLAY",
@@ -397,16 +397,16 @@
         "prerelease": false,
         "published_at": "2026-08-20T04:18:10Z",
         "published": "2026-08-20",
-        "downloads": 0,
+        "downloads": 3,
         "zip": {
           "name": "starter_picker-1.0.13.zip",
           "url": "https://github.com/inmento/Starter-Picker/releases/download/1.0.13/starter_picker-1.0.13.zip",
           "size": 20714,
-          "downloadCount": 0
+          "downloadCount": 3
         }
       },
       "update_check": "ok",
-      "downloads": 177,
+      "downloads": 181,
       "first_release": "2026-08-14",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.0.13/starter_picker-1.0.13.zip"
