@@ -1,0 +1,32 @@
+{
+  "id": "firered_kanto_visuals",
+  "title": "FireRed Kanto Visual Importer",
+  "author": "inmento",
+  "summary": "Visual-only FireRed v1.0 importer for Gen 1 Kanto terrain, existing Pokémon battle art, and trainer battle portraits; it preserves maps, collision, scripts, saves, and gameplay.",
+  "version": "0.1.2",
+  "categories": [
+    "ART",
+    "CONTENT"
+  ],
+  "tags": [
+    "firered",
+    "kanto",
+    "visual importer",
+    "terrain",
+    "sprites",
+    "trainer portraits"
+  ],
+  "repo": "https://github.com/inmento/FireRed-Kanto-Visual-Importer",
+  "github": "inmento/FireRed-Kanto-Visual-Importer",
+  "automatic_version_check": true,
+  "api": 2,
+  "game_version": ">=0.2.3 <1.0.0",
+  "games": [
+    "gen1"
+  ],
+  "profile": "overhaul",
+  "affects_link": false,
+  "permissions": [
+    "engine_internals"
+  ]
+}
