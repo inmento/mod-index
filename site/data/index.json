@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-20T07:16:07.891Z",
+  "generated_at": "2026-08-20T07:39:14.730Z",
   "count": 7,
   "categories": [
     "GAMEPLAY",
@@ -190,7 +190,7 @@
       "title": "Shedinja",
       "author": "inmento",
       "summary": "R/B/Y and Gold Shedinja #292 with Wonder Guard, a Gold rift reward and held-item route gate, Electric Tera Orb, Air Balloon, credited art, and one optional Crystal 251 or Expanded Species bridge.",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "categories": [
         "GAMEPLAY",
         "CONTENT"
@@ -220,25 +220,25 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@shedinja/description.md",
       "latest": {
-        "version": "0.3.0",
-        "tag": "0.3.0",
-        "name": "Shedinja 0.3.0",
+        "version": "0.3.1",
+        "tag": "0.3.1",
+        "name": "Shedinja 0.3.1",
         "prerelease": false,
-        "published_at": "2026-08-20T04:15:07Z",
+        "published_at": "2026-08-20T07:38:01Z",
         "published": "2026-08-20",
         "downloads": 0,
         "zip": {
-          "name": "shedinja-0.3.0.zip",
-          "url": "https://github.com/inmento/Shedinja/releases/download/0.3.0/shedinja-0.3.0.zip",
-          "size": 34390,
+          "name": "shedinja-0.3.1.zip",
+          "url": "https://github.com/inmento/Shedinja/releases/download/0.3.1/shedinja-0.3.1.zip",
+          "size": 42070,
           "downloadCount": 0
         }
       },
       "update_check": "ok",
-      "downloads": 13,
+      "downloads": 16,
       "first_release": "2026-08-18",
       "last_release": "2026-08-20",
-      "downloadURL": "https://github.com/inmento/Shedinja/releases/download/0.3.0/shedinja-0.3.0.zip"
+      "downloadURL": "https://github.com/inmento/Shedinja/releases/download/0.3.1/shedinja-0.3.1.zip"
     },
     {
       "folder": "inmento@shedinja_expanded_bridge",
@@ -285,16 +285,16 @@
         "prerelease": false,
         "published_at": "2026-08-20T04:15:43Z",
         "published": "2026-08-20",
-        "downloads": 0,
+        "downloads": 3,
         "zip": {
           "name": "shedinja-compatibility-bridge-0.1.4.zip",
           "url": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.1.4/shedinja-compatibility-bridge-0.1.4.zip",
           "size": 6297,
-          "downloadCount": 0
+          "downloadCount": 3
         }
       },
       "update_check": "ok",
-      "downloads": 3,
+      "downloads": 6,
       "first_release": "2026-08-19",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.1.4/shedinja-compatibility-bridge-0.1.4.zip"
