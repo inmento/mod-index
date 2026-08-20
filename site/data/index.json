@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-20T21:45:27.615Z",
+  "generated_at": "2026-08-20T22:19:12.110Z",
   "count": 8,
   "categories": [
     "GAMEPLAY",
@@ -58,16 +58,16 @@
         "prerelease": false,
         "published_at": "2026-08-20T21:43:54Z",
         "published": "2026-08-20",
-        "downloads": 0,
+        "downloads": 1,
         "zip": {
           "name": "FIRERED_KANTO_VISUALS-0.1.4.zip",
           "url": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.1.4/FIRERED_KANTO_VISUALS-0.1.4.zip",
           "size": 24454,
-          "downloadCount": 0
+          "downloadCount": 1
         }
       },
       "update_check": "ok",
-      "downloads": 1,
+      "downloads": 2,
       "first_release": "2026-08-20",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.1.4/FIRERED_KANTO_VISUALS-0.1.4.zip"
@@ -185,8 +185,8 @@
       "id": "randomized_gym_challenge",
       "title": "Randomized Gym Challenge",
       "author": "inmento",
-      "summary": "Configurable gym-battle generator with a direct Gen 1 Oak parcel/Pokédex challenge trigger, trainer sighting, HP-only continuation, Route 23 handoff, and Gold two-league progression.",
-      "version": "1.1.8",
+      "summary": "Configurable gym-battle generator with early Gen 1 opt-in and automatic post-Pokédex start, trainer sighting, HP-only continuation, Route 23 handoff, and Gold two-league progression.",
+      "version": "1.1.9",
       "categories": [
         "GAMEPLAY",
         "BALANCE"
@@ -219,25 +219,25 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@randomized_gym_challenge/description.md",
       "latest": {
-        "version": "1.1.8",
-        "tag": "v1.1.8",
-        "name": "Randomized Gym Challenge 1.1.8",
+        "version": "1.1.9",
+        "tag": "v1.1.9",
+        "name": "Randomized Gym Challenge 1.1.9",
         "prerelease": false,
-        "published_at": "2026-08-20T21:24:19Z",
+        "published_at": "2026-08-20T22:18:27Z",
         "published": "2026-08-20",
-        "downloads": 1,
+        "downloads": 0,
         "zip": {
-          "name": "randomized_gym_challenge-1.1.8.zip",
-          "url": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/v1.1.8/randomized_gym_challenge-1.1.8.zip",
-          "size": 44297,
-          "downloadCount": 1
+          "name": "randomized_gym_challenge-1.1.9.zip",
+          "url": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/v1.1.9/randomized_gym_challenge-1.1.9.zip",
+          "size": 45751,
+          "downloadCount": 0
         }
       },
       "update_check": "ok",
-      "downloads": 21,
+      "downloads": 22,
       "first_release": "2026-08-16",
       "last_release": "2026-08-20",
-      "downloadURL": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/v1.1.8/randomized_gym_challenge-1.1.8.zip"
+      "downloadURL": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/v1.1.9/randomized_gym_challenge-1.1.9.zip"
     },
     {
       "folder": "inmento@shedinja",
@@ -281,16 +281,16 @@
         "prerelease": false,
         "published_at": "2026-08-20T18:52:05Z",
         "published": "2026-08-20",
-        "downloads": 2,
+        "downloads": 3,
         "zip": {
           "name": "shedinja-0.3.4.zip",
           "url": "https://github.com/inmento/Shedinja/releases/download/v0.3.4/shedinja-0.3.4.zip",
           "size": 72875,
-          "downloadCount": 2
+          "downloadCount": 3
         }
       },
       "update_check": "ok",
-      "downloads": 21,
+      "downloads": 22,
       "first_release": "2026-08-18",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Shedinja/releases/download/v0.3.4/shedinja-0.3.4.zip"
