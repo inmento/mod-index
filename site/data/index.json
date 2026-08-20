@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-20T20:11:11.981Z",
+  "generated_at": "2026-08-20T20:34:03.848Z",
   "count": 8,
   "categories": [
     "GAMEPLAY",
@@ -18,12 +18,12 @@
   ],
   "mods": [
     {
-      "folder": "inmento@firered_kanto_visuals",
-      "id": "firered_kanto_visuals",
+      "folder": "inmento@FIRERED_KANTO_VISUALS",
+      "id": "FIRERED_KANTO_VISUALS",
       "title": "FireRed Kanto Visual Importer",
       "author": "inmento",
-      "summary": "Visual-only FireRed v1.0 importer for Gen 1 Kanto terrain, existing Pokémon battle art, and trainer battle portraits; it preserves maps, collision, scripts, saves, and gameplay.",
-      "version": "0.1.2",
+      "summary": "Visual-only FireRed v1.0 visual importer for Kanto terrain, existing Pokémon art, and trainer portraits. Restored identity lets original installs update; maps and gameplay remain untouched.",
+      "version": "0.1.3",
       "categories": [
         "ART",
         "CONTENT"
@@ -50,19 +50,19 @@
         "engine_internals"
       ],
       "thumbnail": null,
-      "description_url": "data/mods/inmento@firered_kanto_visuals/description.md",
+      "description_url": "data/mods/inmento@FIRERED_KANTO_VISUALS/description.md",
       "latest": {
-        "version": "0.1.2",
-        "tag": "v0.1.2",
-        "name": "FireRed Kanto Visual Importer 0.1.2",
+        "version": "0.1.3",
+        "tag": "v0.1.3",
+        "name": "FireRed Kanto Visual Importer 0.1.3",
         "prerelease": false,
-        "published_at": "2026-08-20T18:58:53Z",
+        "published_at": "2026-08-20T20:33:04Z",
         "published": "2026-08-20",
         "downloads": 0,
         "zip": {
-          "name": "firered_kanto_visuals-0.1.2.zip",
-          "url": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.1.2/firered_kanto_visuals-0.1.2.zip",
-          "size": 23482,
+          "name": "FIRERED_KANTO_VISUALS-0.1.3.zip",
+          "url": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.1.3/FIRERED_KANTO_VISUALS-0.1.3.zip",
+          "size": 23865,
           "downloadCount": 0
         }
       },
@@ -70,7 +70,7 @@
       "downloads": 0,
       "first_release": "2026-08-20",
       "last_release": "2026-08-20",
-      "downloadURL": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.1.2/firered_kanto_visuals-0.1.2.zip"
+      "downloadURL": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.1.3/FIRERED_KANTO_VISUALS-0.1.3.zip"
     },
     {
       "folder": "inmento@gym_leader_shuffle",
@@ -225,16 +225,16 @@
         "prerelease": false,
         "published_at": "2026-08-20T20:09:18Z",
         "published": "2026-08-20",
-        "downloads": 0,
+        "downloads": 1,
         "zip": {
           "name": "randomized_gym_challenge-1.1.6.zip",
           "url": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/1.1.6/randomized_gym_challenge-1.1.6.zip",
           "size": 43068,
-          "downloadCount": 0
+          "downloadCount": 1
         }
       },
       "update_check": "ok",
-      "downloads": 17,
+      "downloads": 18,
       "first_release": "2026-08-16",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/1.1.6/randomized_gym_challenge-1.1.6.zip"
@@ -281,16 +281,16 @@
         "prerelease": false,
         "published_at": "2026-08-20T18:52:05Z",
         "published": "2026-08-20",
-        "downloads": 0,
+        "downloads": 1,
         "zip": {
           "name": "shedinja-0.3.4.zip",
           "url": "https://github.com/inmento/Shedinja/releases/download/v0.3.4/shedinja-0.3.4.zip",
           "size": 72875,
-          "downloadCount": 0
+          "downloadCount": 1
         }
       },
       "update_check": "ok",
-      "downloads": 19,
+      "downloads": 20,
       "first_release": "2026-08-18",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Shedinja/releases/download/v0.3.4/shedinja-0.3.4.zip"

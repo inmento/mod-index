@@ -4,11 +4,11 @@
 
 > This importer preserves the base game’s maps, collision, ledges, warps, NPCs, scripts, encounters, items, story progression, saves, and mechanics. It is a FireRed-style visual layer, **not** a FireRed map or gameplay conversion.
 
-## Version 0.1.2
+## Version 0.1.3
 
-Version 0.1.2 uses the launcher-compatible lowercase package ID `firered_kanto_visuals`, matching the archive, runtime module paths, and personal-index record. It retains the terrain-atlas bounds correction: FireRed 4×4 metatiles are placed correctly on the generated 64-tile-wide atlas grid instead of writing beyond the image during startup. No gameplay or visual-import scope changed beyond the package-identity and bounds corrections.
+Version 0.1.3 restores the original uppercase package ID, `FIRERED_KANTO_VISUALS`, used by the 0.1.0 and 0.1.1 importer installations. Because Gen1Recomp identifies an installed mod by that manifest ID, those installations can update normally through this index again. The release also retains the terrain-atlas bounds correction: FireRed 4×4 metatiles are placed correctly on the generated 64-tile-wide atlas grid instead of writing beyond the image during startup. No gameplay or visual-import scope changed beyond the package-identity and bounds corrections.
 
-> If an earlier test ZIP was installed manually, remove it once and install `firered_kanto_visuals-0.1.2.zip`. Future updates use the corrected identity.
+> Installations from 0.1.0 or 0.1.1 can update directly. If you manually installed the temporary lowercase 0.1.2 ZIP, remove it and install `FIRERED_KANTO_VISUALS-0.1.3.zip` once.
 
 ## Required source ROM
 
