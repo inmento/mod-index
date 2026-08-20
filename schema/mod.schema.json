@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/bryanthaboi/gen1recomp-mod-index/schema/mod.schema.json",
+  "$id": "https://github.com/inmento/mod-index/schema/mod.schema.json",
   "title": "gen1recomp mod index entry",
   "description": "One mods/<Author>@<id>/meta.json entry. Mirrors the fields the engine's manifest.json declares (see wiki: Reference-Manifest) plus the index-only fields the site and launcher need to find and update the mod.",
   "type": "object",
