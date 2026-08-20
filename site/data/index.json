@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-20T07:50:29.088Z",
+  "generated_at": "2026-08-20T08:22:59.479Z",
   "count": 7,
   "categories": [
     "GAMEPLAY",
@@ -190,7 +190,7 @@
       "title": "Shedinja",
       "author": "inmento",
       "summary": "R/B/Y and Gold Shedinja #292 with Wonder Guard, a Gold rift reward and held-item route gate, Electric Tera Orb, Air Balloon, credited art, and one optional Crystal 251 or Expanded Species bridge.",
-      "version": "0.3.2",
+      "version": "0.3.3",
       "categories": [
         "GAMEPLAY",
         "CONTENT"
@@ -220,25 +220,25 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@shedinja/description.md",
       "latest": {
-        "version": "0.3.2",
-        "tag": "0.3.2",
-        "name": "Shedinja 0.3.2",
+        "version": "0.3.3",
+        "tag": "0.3.3",
+        "name": "Shedinja 0.3.3",
         "prerelease": false,
-        "published_at": "2026-08-20T07:49:33Z",
+        "published_at": "2026-08-20T08:22:08Z",
         "published": "2026-08-20",
         "downloads": 0,
         "zip": {
-          "name": "shedinja-0.3.2.zip",
-          "url": "https://github.com/inmento/Shedinja/releases/download/0.3.2/shedinja-0.3.2.zip",
-          "size": 43219,
+          "name": "shedinja-0.3.3.zip",
+          "url": "https://github.com/inmento/Shedinja/releases/download/0.3.3/shedinja-0.3.3.zip",
+          "size": 49862,
           "downloadCount": 0
         }
       },
       "update_check": "ok",
-      "downloads": 16,
+      "downloads": 17,
       "first_release": "2026-08-18",
       "last_release": "2026-08-20",
-      "downloadURL": "https://github.com/inmento/Shedinja/releases/download/0.3.2/shedinja-0.3.2.zip"
+      "downloadURL": "https://github.com/inmento/Shedinja/releases/download/0.3.3/shedinja-0.3.3.zip"
     },
     {
       "folder": "inmento@shedinja_expanded_bridge",
@@ -397,16 +397,16 @@
         "prerelease": false,
         "published_at": "2026-08-20T04:18:10Z",
         "published": "2026-08-20",
-        "downloads": 5,
+        "downloads": 6,
         "zip": {
           "name": "starter_picker-1.0.13.zip",
           "url": "https://github.com/inmento/Starter-Picker/releases/download/1.0.13/starter_picker-1.0.13.zip",
           "size": 20714,
-          "downloadCount": 5
+          "downloadCount": 6
         }
       },
       "update_check": "ok",
-      "downloads": 183,
+      "downloads": 184,
       "first_release": "2026-08-14",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.0.13/starter_picker-1.0.13.zip"
