@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-20T05:49:58.279Z",
+  "generated_at": "2026-08-20T07:15:38.373Z",
   "count": 7,
   "categories": [
     "GAMEPLAY",
@@ -235,7 +235,7 @@
         }
       },
       "update_check": "ok",
-      "downloads": 12,
+      "downloads": 13,
       "first_release": "2026-08-18",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Shedinja/releases/download/0.3.0/shedinja-0.3.0.zip"
@@ -294,7 +294,7 @@
         }
       },
       "update_check": "ok",
-      "downloads": 1,
+      "downloads": 3,
       "first_release": "2026-08-19",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.1.4/shedinja-compatibility-bridge-0.1.4.zip"
@@ -397,16 +397,16 @@
         "prerelease": false,
         "published_at": "2026-08-20T04:18:10Z",
         "published": "2026-08-20",
-        "downloads": 3,
+        "downloads": 5,
         "zip": {
           "name": "starter_picker-1.0.13.zip",
           "url": "https://github.com/inmento/Starter-Picker/releases/download/1.0.13/starter_picker-1.0.13.zip",
           "size": 20714,
-          "downloadCount": 3
+          "downloadCount": 5
         }
       },
       "update_check": "ok",
-      "downloads": 181,
+      "downloads": 183,
       "first_release": "2026-08-14",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.0.13/starter_picker-1.0.13.zip"
