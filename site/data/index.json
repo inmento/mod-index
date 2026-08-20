@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-20T20:05:58.747Z",
+  "generated_at": "2026-08-20T20:06:24.440Z",
   "count": 8,
   "categories": [
     "GAMEPLAY",
@@ -111,16 +111,16 @@
         "prerelease": false,
         "published_at": "2026-08-19T01:06:26Z",
         "published": "2026-08-19",
-        "downloads": 13,
+        "downloads": 14,
         "zip": {
           "name": "gym_leader_shuffle-1.0.8.zip",
           "url": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.8/gym_leader_shuffle-1.0.8.zip",
           "size": 17859,
-          "downloadCount": 13
+          "downloadCount": 14
         }
       },
       "update_check": "ok",
-      "downloads": 71,
+      "downloads": 72,
       "first_release": "2026-08-14",
       "last_release": "2026-08-19",
       "downloadURL": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.8/gym_leader_shuffle-1.0.8.zip"
