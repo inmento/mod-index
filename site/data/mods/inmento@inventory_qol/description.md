@@ -23,4 +23,8 @@ Download the latest `inventory_qol-<version>.zip` from the [release page](https:
 
 ## Compatibility
 
-Inventory QoL does not need other mods. It uses the standard bag-add path for its stack change, so normal items introduced by another mod can use the 999 cap. Because it replaces the stock Gen 1 Bag and Gen 2 Pack screen factories, another mod that replaces those same full-screen factories requires explicit compatibility testing.
+Inventory QoL does not need other mods. It uses the standard bag-add path for its stack change, so normal items introduced by another mod can use the 999 cap.
+
+**Inventory QoL 0.1.1 explicitly supports [Useful Bag](https://github.com/ShaneMcGovernIE/useful-bag).** Useful Bag is optional and remains the Gen 1 base screen when both are enabled, retaining its pockets, left/right cycling, sorting, PC behavior, and battle-aware selection. Inventory QoL decorates that same screen with its three-digit quantities, session-only cursor memory, and field-only `USE MANY` behavior.
+
+Other mods that replace the same complete Bag or Pack screen IDs still require explicit compatibility testing unless they compose with the existing factory in the same way.

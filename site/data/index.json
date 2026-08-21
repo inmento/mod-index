@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-21T00:51:21.918Z",
+  "generated_at": "2026-08-21T01:15:47.794Z",
   "count": 9,
   "categories": [
     "GAMEPLAY",
@@ -130,8 +130,8 @@
       "id": "inventory_qol",
       "title": "Inventory QoL",
       "author": "inmento",
-      "summary": "999-item stacks, safe three-digit Bag and Pack quantities, Gen 1 Bag cursor memory, and cap-aware field batch use for permanent progression items.",
-      "version": "0.1.0",
+      "summary": "999-item stacks, safe three-digit Bag and Pack quantities, Gen 1 Bag cursor memory, cap-aware field batch use, and tested optional Useful Bag composition.",
+      "version": "0.1.1",
       "categories": [
         "QOL",
         "UI"
@@ -144,7 +144,7 @@
         "rare-candy",
         "vitamins",
         "pp-up",
-        "silver"
+        "useful-bag"
       ],
       "repo": "https://github.com/inmento/Inventory-QoL",
       "github": "inmento/Inventory-QoL",
@@ -163,25 +163,25 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@inventory_qol/description.md",
       "latest": {
-        "version": "0.1.0",
-        "tag": "v0.1.0",
-        "name": "Inventory QoL 0.1.0",
+        "version": "0.1.1",
+        "tag": "v0.1.1",
+        "name": "Inventory QoL 0.1.1",
         "prerelease": false,
-        "published_at": "2026-08-21T00:48:03Z",
+        "published_at": "2026-08-21T01:14:40Z",
         "published": "2026-08-21",
         "downloads": 0,
         "zip": {
-          "name": "inventory-qol-0.1.0.zip",
-          "url": "https://github.com/inmento/Inventory-QoL/releases/download/v0.1.0/inventory-qol-0.1.0.zip",
-          "size": 9688,
+          "name": "inventory_qol-0.1.1.zip",
+          "url": "https://github.com/inmento/Inventory-QoL/releases/download/v0.1.1/inventory_qol-0.1.1.zip",
+          "size": 10526,
           "downloadCount": 0
         }
       },
       "update_check": "ok",
-      "downloads": 0,
+      "downloads": 1,
       "first_release": "2026-08-21",
       "last_release": "2026-08-21",
-      "downloadURL": "https://github.com/inmento/Inventory-QoL/releases/download/v0.1.0/inventory-qol-0.1.0.zip"
+      "downloadURL": "https://github.com/inmento/Inventory-QoL/releases/download/v0.1.1/inventory_qol-0.1.1.zip"
     },
     {
       "folder": "inmento@item_randomizer",
@@ -224,16 +224,16 @@
         "prerelease": false,
         "published_at": "2026-08-20T23:48:30Z",
         "published": "2026-08-20",
-        "downloads": 0,
+        "downloads": 1,
         "zip": {
           "name": "item_randomizer-1.0.13.zip",
           "url": "https://github.com/inmento/Item-Randomizer/releases/download/1.0.13/item_randomizer-1.0.13.zip",
           "size": 18555,
-          "downloadCount": 0
+          "downloadCount": 1
         }
       },
       "update_check": "ok",
-      "downloads": 67,
+      "downloads": 68,
       "first_release": "2026-08-14",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Item-Randomizer/releases/download/1.0.13/item_randomizer-1.0.13.zip"
@@ -407,7 +407,7 @@
         }
       },
       "update_check": "ok",
-      "downloads": 12,
+      "downloads": 13,
       "first_release": "2026-08-19",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.1.5/shedinja-compatibility-bridge-0.1.5.zip"
