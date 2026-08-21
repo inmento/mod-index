@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-21T01:16:09.524Z",
+  "generated_at": "2026-08-21T01:38:51.167Z",
   "count": 9,
   "categories": [
     "GAMEPLAY",
@@ -169,16 +169,16 @@
         "prerelease": false,
         "published_at": "2026-08-21T01:14:40Z",
         "published": "2026-08-21",
-        "downloads": 0,
+        "downloads": 1,
         "zip": {
           "name": "inventory_qol-0.1.1.zip",
           "url": "https://github.com/inmento/Inventory-QoL/releases/download/v0.1.1/inventory_qol-0.1.1.zip",
           "size": 10526,
-          "downloadCount": 0
+          "downloadCount": 1
         }
       },
       "update_check": "ok",
-      "downloads": 1,
+      "downloads": 2,
       "first_release": "2026-08-21",
       "last_release": "2026-08-21",
       "downloadURL": "https://github.com/inmento/Inventory-QoL/releases/download/v0.1.1/inventory_qol-0.1.1.zip"
@@ -302,8 +302,8 @@
       "id": "shedinja",
       "title": "Shedinja",
       "author": "inmento",
-      "summary": "R/B/Y and Gold Shedinja #292 with Wonder Guard, a Gold rift reward and held-item route gate, Electric Tera Orb, Air Balloon, credited art, and one optional Crystal 251 or Expanded Species bridge.",
-      "version": "0.3.4",
+      "summary": "Shedinja #292 for R/B/Y, Gold, and Silver, with Wonder Guard, a Gen 2 rift reward and held-item route gate, Electric Tera Orb, Air Balloon, credited art, and an optional compatibility bridge.",
+      "version": "0.3.6",
       "categories": [
         "GAMEPLAY",
         "CONTENT"
@@ -333,25 +333,25 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@shedinja/description.md",
       "latest": {
-        "version": "0.3.5",
-        "tag": "v0.3.5",
-        "name": "Shedinja 0.3.5",
+        "version": "0.3.6",
+        "tag": "v0.3.6",
+        "name": "Shedinja 0.3.6",
         "prerelease": false,
-        "published_at": "2026-08-20T23:38:18Z",
-        "published": "2026-08-20",
+        "published_at": "2026-08-21T01:32:39Z",
+        "published": "2026-08-21",
         "downloads": 0,
         "zip": {
-          "name": "shedinja-0.3.5.zip",
-          "url": "https://github.com/inmento/Shedinja/releases/download/v0.3.5/shedinja-0.3.5.zip",
-          "size": 74109,
+          "name": "shedinja-0.3.6.zip",
+          "url": "https://github.com/inmento/Shedinja/releases/download/v0.3.6/shedinja-0.3.6.zip",
+          "size": 74732,
           "downloadCount": 0
         }
       },
       "update_check": "ok",
       "downloads": 25,
       "first_release": "2026-08-18",
-      "last_release": "2026-08-20",
-      "downloadURL": "https://github.com/inmento/Shedinja/releases/download/v0.3.5/shedinja-0.3.5.zip"
+      "last_release": "2026-08-21",
+      "downloadURL": "https://github.com/inmento/Shedinja/releases/download/v0.3.6/shedinja-0.3.6.zip"
     },
     {
       "folder": "inmento@shedinja_expanded_bridge",
@@ -510,16 +510,16 @@
         "prerelease": false,
         "published_at": "2026-08-20T23:45:33Z",
         "published": "2026-08-20",
-        "downloads": 0,
+        "downloads": 1,
         "zip": {
           "name": "starter_picker-1.0.14.zip",
           "url": "https://github.com/inmento/Starter-Picker/releases/download/1.0.14/starter_picker-1.0.14.zip",
           "size": 20850,
-          "downloadCount": 0
+          "downloadCount": 1
         }
       },
       "update_check": "ok",
-      "downloads": 202,
+      "downloads": 203,
       "first_release": "2026-08-14",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.0.14/starter_picker-1.0.14.zip"
