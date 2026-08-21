@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-21T00:04:53.787Z",
-  "count": 8,
+  "generated_at": "2026-08-21T00:51:02.518Z",
+  "count": 9,
   "categories": [
     "GAMEPLAY",
     "CONTENT",
@@ -120,10 +120,68 @@
         }
       },
       "update_check": "ok",
-      "downloads": 77,
+      "downloads": 78,
       "first_release": "2026-08-14",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.9/gym_leader_shuffle-1.0.9.zip"
+    },
+    {
+      "folder": "inmento@inventory_qol",
+      "id": "inventory_qol",
+      "title": "Inventory QoL",
+      "author": "inmento",
+      "summary": "999-item stacks, safe three-digit Bag and Pack quantities, Gen 1 Bag cursor memory, and cap-aware field batch use for permanent progression items.",
+      "version": "0.1.0",
+      "categories": [
+        "QOL",
+        "UI"
+      ],
+      "tags": [
+        "inventory",
+        "items",
+        "bag",
+        "pack",
+        "rare-candy",
+        "vitamins",
+        "pp-up",
+        "silver"
+      ],
+      "repo": "https://github.com/inmento/Inventory-QoL",
+      "github": "inmento/Inventory-QoL",
+      "automatic_version_check": true,
+      "api": 2,
+      "game_version": ">=0.2.14",
+      "games": [
+        "gen1",
+        "gen2"
+      ],
+      "profile": "content",
+      "affects_link": false,
+      "permissions": [
+        "engine_internals"
+      ],
+      "thumbnail": null,
+      "description_url": "data/mods/inmento@inventory_qol/description.md",
+      "latest": {
+        "version": "0.1.0",
+        "tag": "v0.1.0",
+        "name": "Inventory QoL 0.1.0",
+        "prerelease": false,
+        "published_at": "2026-08-21T00:48:03Z",
+        "published": "2026-08-21",
+        "downloads": 0,
+        "zip": {
+          "name": "inventory-qol-0.1.0.zip",
+          "url": "https://github.com/inmento/Inventory-QoL/releases/download/v0.1.0/inventory-qol-0.1.0.zip",
+          "size": 9688,
+          "downloadCount": 0
+        }
+      },
+      "update_check": "ok",
+      "downloads": 0,
+      "first_release": "2026-08-21",
+      "last_release": "2026-08-21",
+      "downloadURL": "https://github.com/inmento/Inventory-QoL/releases/download/v0.1.0/inventory-qol-0.1.0.zip"
     },
     {
       "folder": "inmento@item_randomizer",
@@ -175,7 +233,7 @@
         }
       },
       "update_check": "ok",
-      "downloads": 66,
+      "downloads": 67,
       "first_release": "2026-08-14",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Item-Randomizer/releases/download/1.0.13/item_randomizer-1.0.13.zip"
@@ -225,16 +283,16 @@
         "prerelease": false,
         "published_at": "2026-08-20T23:56:56Z",
         "published": "2026-08-20",
-        "downloads": 0,
+        "downloads": 1,
         "zip": {
           "name": "randomized_gym_challenge-1.1.10.zip",
           "url": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/v1.1.10/randomized_gym_challenge-1.1.10.zip",
           "size": 46567,
-          "downloadCount": 0
+          "downloadCount": 1
         }
       },
       "update_check": "ok",
-      "downloads": 23,
+      "downloads": 27,
       "first_release": "2026-08-16",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/v1.1.10/randomized_gym_challenge-1.1.10.zip"
@@ -290,7 +348,7 @@
         }
       },
       "update_check": "ok",
-      "downloads": 23,
+      "downloads": 25,
       "first_release": "2026-08-18",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Shedinja/releases/download/v0.3.5/shedinja-0.3.5.zip"
@@ -349,7 +407,7 @@
         }
       },
       "update_check": "ok",
-      "downloads": 10,
+      "downloads": 12,
       "first_release": "2026-08-19",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.1.5/shedinja-compatibility-bridge-0.1.5.zip"
@@ -405,7 +463,7 @@
         }
       },
       "update_check": "ok",
-      "downloads": 11,
+      "downloads": 13,
       "first_release": "2026-08-18",
       "last_release": "2026-08-21",
       "downloadURL": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/0.3.4/sound_effect_replacer-0.3.4.zip"
@@ -461,7 +519,7 @@
         }
       },
       "update_check": "ok",
-      "downloads": 201,
+      "downloads": 202,
       "first_release": "2026-08-14",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.0.14/starter_picker-1.0.14.zip"

@@ -1,0 +1,18 @@
+{
+  "id": "inventory_qol",
+  "title": "Inventory QoL",
+  "author": "inmento",
+  "summary": "999-item stacks, safe three-digit Bag and Pack quantities, Gen 1 Bag cursor memory, and cap-aware field batch use for permanent progression items.",
+  "version": "0.1.0",
+  "categories": ["QOL", "UI"],
+  "tags": ["inventory", "items", "bag", "pack", "rare-candy", "vitamins", "pp-up", "silver"],
+  "repo": "https://github.com/inmento/Inventory-QoL",
+  "github": "inmento/Inventory-QoL",
+  "automatic_version_check": true,
+  "api": 2,
+  "game_version": ">=0.2.14",
+  "games": ["gen1", "gen2"],
+  "profile": "content",
+  "affects_link": false,
+  "permissions": ["engine_internals"]
+}
