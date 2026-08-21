@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-21T01:39:15.318Z",
+  "generated_at": "2026-08-21T02:26:41.807Z",
   "count": 9,
   "categories": [
     "GAMEPLAY",
@@ -130,8 +130,8 @@
       "id": "inventory_qol",
       "title": "Inventory QoL",
       "author": "inmento",
-      "summary": "999-item stacks, safe three-digit Bag and Pack quantities, Gen 1 Bag cursor memory, cap-aware field batch use, and tested optional Useful Bag composition.",
-      "version": "0.1.1",
+      "summary": "999-item stacks, safe three-digit Bag and Pack quantities, Gen 1 Bag cursor memory, cap-aware MAX field use, and tested optional Useful Bag composition.",
+      "version": "0.1.2",
       "categories": [
         "QOL",
         "UI"
@@ -163,25 +163,25 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@inventory_qol/description.md",
       "latest": {
-        "version": "0.1.1",
-        "tag": "v0.1.1",
-        "name": "Inventory QoL 0.1.1",
+        "version": "0.1.2",
+        "tag": "v0.1.2",
+        "name": "Inventory QoL 0.1.2",
         "prerelease": false,
-        "published_at": "2026-08-21T01:14:40Z",
+        "published_at": "2026-08-21T02:25:57Z",
         "published": "2026-08-21",
-        "downloads": 1,
+        "downloads": 0,
         "zip": {
-          "name": "inventory_qol-0.1.1.zip",
-          "url": "https://github.com/inmento/Inventory-QoL/releases/download/v0.1.1/inventory_qol-0.1.1.zip",
-          "size": 10526,
-          "downloadCount": 1
+          "name": "inventory_qol-0.1.2.zip",
+          "url": "https://github.com/inmento/Inventory-QoL/releases/download/v0.1.2/inventory_qol-0.1.2.zip",
+          "size": 22439,
+          "downloadCount": 0
         }
       },
       "update_check": "ok",
       "downloads": 2,
       "first_release": "2026-08-21",
       "last_release": "2026-08-21",
-      "downloadURL": "https://github.com/inmento/Inventory-QoL/releases/download/v0.1.1/inventory_qol-0.1.1.zip"
+      "downloadURL": "https://github.com/inmento/Inventory-QoL/releases/download/v0.1.2/inventory_qol-0.1.2.zip"
     },
     {
       "folder": "inmento@item_randomizer",
@@ -348,7 +348,7 @@
         }
       },
       "update_check": "ok",
-      "downloads": 26,
+      "downloads": 27,
       "first_release": "2026-08-18",
       "last_release": "2026-08-21",
       "downloadURL": "https://github.com/inmento/Shedinja/releases/download/v0.3.6/shedinja-0.3.6.zip"
@@ -519,7 +519,7 @@
         }
       },
       "update_check": "ok",
-      "downloads": 204,
+      "downloads": 205,
       "first_release": "2026-08-14",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.0.14/starter_picker-1.0.14.zip"
