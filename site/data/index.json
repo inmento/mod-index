@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-21T02:27:05.217Z",
+  "generated_at": "2026-08-21T02:34:26.024Z",
   "count": 9,
   "categories": [
     "GAMEPLAY",
@@ -130,8 +130,8 @@
       "id": "inventory_qol",
       "title": "Inventory QoL",
       "author": "inmento",
-      "summary": "999-item stacks, safe three-digit Bag and Pack quantities, Gen 1 Bag cursor memory, cap-aware MAX field use, and tested optional Useful Bag composition.",
-      "version": "0.1.2",
+      "summary": "999-item stacks, safe three-digit Bag and Pack quantities, Gen 1 Bag cursor memory, cap-aware MAX field use, and a Useful Bag ticker-layout repair.",
+      "version": "0.1.3",
       "categories": [
         "QOL",
         "UI"
@@ -163,17 +163,17 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@inventory_qol/description.md",
       "latest": {
-        "version": "0.1.2",
-        "tag": "v0.1.2",
-        "name": "Inventory QoL 0.1.2",
+        "version": "0.1.3",
+        "tag": "v0.1.3",
+        "name": "Inventory QoL 0.1.3",
         "prerelease": false,
-        "published_at": "2026-08-21T02:25:57Z",
+        "published_at": "2026-08-21T02:33:31Z",
         "published": "2026-08-21",
         "downloads": 0,
         "zip": {
-          "name": "inventory_qol-0.1.2.zip",
-          "url": "https://github.com/inmento/Inventory-QoL/releases/download/v0.1.2/inventory_qol-0.1.2.zip",
-          "size": 22439,
+          "name": "inventory_qol-0.1.3.zip",
+          "url": "https://github.com/inmento/Inventory-QoL/releases/download/v0.1.3/inventory_qol-0.1.3.zip",
+          "size": 24170,
           "downloadCount": 0
         }
       },
@@ -181,7 +181,7 @@
       "downloads": 2,
       "first_release": "2026-08-21",
       "last_release": "2026-08-21",
-      "downloadURL": "https://github.com/inmento/Inventory-QoL/releases/download/v0.1.2/inventory_qol-0.1.2.zip"
+      "downloadURL": "https://github.com/inmento/Inventory-QoL/releases/download/v0.1.3/inventory_qol-0.1.3.zip"
     },
     {
       "folder": "inmento@item_randomizer",
