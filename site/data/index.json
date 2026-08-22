@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-22T05:46:45.074Z",
-  "count": 10,
+  "generated_at": "2026-08-22T06:13:32.836Z",
+  "count": 11,
   "categories": [
     "GAMEPLAY",
     "CONTENT",
@@ -355,6 +355,63 @@
       "downloadURL": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/v1.1.10/randomized_gym_challenge-1.1.10.zip"
     },
     {
+      "folder": "inmento@red_centered_layout",
+      "id": "red_centered_layout",
+      "title": "Red Centered Layout",
+      "author": "inmento",
+      "summary": "Centers the vanilla Red Version title caption and the standard Red overworld player framing without changing save or gameplay data.",
+      "version": "0.1.0",
+      "categories": [
+        "UI",
+        "QOL"
+      ],
+      "tags": [
+        "red",
+        "title-screen",
+        "camera",
+        "player",
+        "centering",
+        "layout",
+        "visual",
+        "quality-of-life"
+      ],
+      "repo": "https://github.com/inmento/Red-Centered-Layout",
+      "github": "inmento/Red-Centered-Layout",
+      "automatic_version_check": true,
+      "api": 2,
+      "game_version": ">=0.2.19",
+      "games": [
+        "red"
+      ],
+      "profile": "content",
+      "affects_link": false,
+      "permissions": [
+        "engine_internals"
+      ],
+      "thumbnail": null,
+      "description_url": "data/mods/inmento@red_centered_layout/description.md",
+      "latest": {
+        "version": "0.1.0",
+        "tag": "v0.1.0",
+        "name": "Red Centered Layout v0.1.0",
+        "prerelease": false,
+        "published_at": "2026-08-22T06:12:39Z",
+        "published": "2026-08-22",
+        "downloads": 0,
+        "zip": {
+          "name": "Red-Centered-Layout-0.1.0.zip",
+          "url": "https://github.com/inmento/Red-Centered-Layout/releases/download/v0.1.0/Red-Centered-Layout-0.1.0.zip",
+          "size": 4912,
+          "downloadCount": 0
+        }
+      },
+      "update_check": "ok",
+      "downloads": 0,
+      "first_release": "2026-08-22",
+      "last_release": "2026-08-22",
+      "downloadURL": "https://github.com/inmento/Red-Centered-Layout/releases/download/v0.1.0/Red-Centered-Layout-0.1.0.zip"
+    },
+    {
       "folder": "inmento@shedinja",
       "id": "shedinja",
       "title": "Shedinja",
@@ -567,16 +624,16 @@
         "prerelease": false,
         "published_at": "2026-08-20T23:45:33Z",
         "published": "2026-08-20",
-        "downloads": 38,
+        "downloads": 39,
         "zip": {
           "name": "starter_picker-1.0.14.zip",
           "url": "https://github.com/inmento/Starter-Picker/releases/download/1.0.14/starter_picker-1.0.14.zip",
           "size": 20850,
-          "downloadCount": 38
+          "downloadCount": 39
         }
       },
       "update_check": "ok",
-      "downloads": 242,
+      "downloads": 243,
       "first_release": "2026-08-14",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.0.14/starter_picker-1.0.14.zip"
