@@ -13,6 +13,7 @@ The layout, entry schema, generated feed, and release selection rules are compat
 | Item Randomizer | 1.0.13 | [Release page](https://github.com/inmento/Item-Randomizer/releases) |
 | Inventory QoL | 0.1.3 | [Release page](https://github.com/inmento/Inventory-QoL/releases) |
 | Randomized Gym Challenge | 1.1.10 | [Release page](https://github.com/inmento/Randomized-Gym-Challenge/releases) |
+| Red & Yellow Centered Layout | 0.1.2 | [Release page](https://github.com/inmento/Red-Centered-Layout/releases) |
 | Shedinja | 0.3.6 | [Release page](https://github.com/inmento/Shedinja/releases) |
 | Shedinja Compatibility Bridge | 0.1.5 | [Release page](https://github.com/inmento/Shedinja-Expanded-Bridge/releases) |
 | Sound Effect Replacer | 0.3.4 | [Release page](https://github.com/inmento/Sound-Effect-Replacer/releases) |

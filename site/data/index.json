@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-22T08:24:49.673Z",
+  "generated_at": "2026-08-22T18:46:47.512Z",
   "count": 12,
   "categories": [
     "GAMEPLAY",
@@ -168,16 +168,16 @@
         "prerelease": false,
         "published_at": "2026-08-20T23:52:45Z",
         "published": "2026-08-20",
-        "downloads": 15,
+        "downloads": 19,
         "zip": {
           "name": "gym_leader_shuffle-1.0.9.zip",
           "url": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.9/gym_leader_shuffle-1.0.9.zip",
           "size": 18370,
-          "downloadCount": 15
+          "downloadCount": 19
         }
       },
       "update_check": "ok",
-      "downloads": 93,
+      "downloads": 97,
       "first_release": "2026-08-14",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.9/gym_leader_shuffle-1.0.9.zip"
@@ -281,16 +281,16 @@
         "prerelease": false,
         "published_at": "2026-08-20T23:48:30Z",
         "published": "2026-08-20",
-        "downloads": 15,
+        "downloads": 17,
         "zip": {
           "name": "item_randomizer-1.0.13.zip",
           "url": "https://github.com/inmento/Item-Randomizer/releases/download/1.0.13/item_randomizer-1.0.13.zip",
           "size": 18555,
-          "downloadCount": 15
+          "downloadCount": 17
         }
       },
       "update_check": "ok",
-      "downloads": 82,
+      "downloads": 84,
       "first_release": "2026-08-14",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Item-Randomizer/releases/download/1.0.13/item_randomizer-1.0.13.zip"
@@ -340,16 +340,16 @@
         "prerelease": false,
         "published_at": "2026-08-20T23:56:56Z",
         "published": "2026-08-20",
-        "downloads": 10,
+        "downloads": 12,
         "zip": {
           "name": "randomized_gym_challenge-1.1.10.zip",
           "url": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/v1.1.10/randomized_gym_challenge-1.1.10.zip",
           "size": 46567,
-          "downloadCount": 10
+          "downloadCount": 12
         }
       },
       "update_check": "ok",
-      "downloads": 36,
+      "downloads": 38,
       "first_release": "2026-08-16",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/v1.1.10/randomized_gym_challenge-1.1.10.zip"
@@ -357,23 +357,23 @@
     {
       "folder": "inmento@red_centered_layout",
       "id": "red_centered_layout",
-      "title": "Red Centered Layout",
+      "title": "Red & Yellow Centered Layout",
       "author": "inmento",
-      "summary": "Centers the vanilla Red Version title caption and the standard Red overworld player framing without changing save or gameplay data.",
-      "version": "0.1.1",
+      "summary": "Centers the standard Red and Yellow overworld player framing; Red also receives a corrected native title-caption alignment with no save or gameplay changes.",
+      "version": "0.1.2",
       "categories": [
         "UI",
         "QOL"
       ],
       "tags": [
         "red",
+        "yellow",
         "title-screen",
         "camera",
         "player",
         "centering",
         "layout",
-        "visual",
-        "quality-of-life"
+        "visual"
       ],
       "repo": "https://github.com/inmento/Red-Centered-Layout",
       "github": "inmento/Red-Centered-Layout",
@@ -381,7 +381,8 @@
       "api": 2,
       "game_version": ">=0.2.19",
       "games": [
-        "red"
+        "red",
+        "yellow"
       ],
       "profile": "content",
       "affects_link": false,
@@ -391,25 +392,25 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@red_centered_layout/description.md",
       "latest": {
-        "version": "0.1.1",
-        "tag": "v0.1.1",
-        "name": "Red Centered Layout v0.1.1",
+        "version": "0.1.2",
+        "tag": "v0.1.2",
+        "name": "Red & Yellow Centered Layout v0.1.2",
         "prerelease": false,
-        "published_at": "2026-08-22T06:33:31Z",
+        "published_at": "2026-08-22T18:45:38Z",
         "published": "2026-08-22",
-        "downloads": 1,
+        "downloads": 0,
         "zip": {
-          "name": "Red-Centered-Layout-0.1.1.zip",
-          "url": "https://github.com/inmento/Red-Centered-Layout/releases/download/v0.1.1/Red-Centered-Layout-0.1.1.zip",
-          "size": 5278,
-          "downloadCount": 1
+          "name": "Red-Centered-Layout-0.1.2.zip",
+          "url": "https://github.com/inmento/Red-Centered-Layout/releases/download/v0.1.2/Red-Centered-Layout-0.1.2.zip",
+          "size": 5897,
+          "downloadCount": 0
         }
       },
       "update_check": "ok",
-      "downloads": 2,
+      "downloads": 3,
       "first_release": "2026-08-22",
       "last_release": "2026-08-22",
-      "downloadURL": "https://github.com/inmento/Red-Centered-Layout/releases/download/v0.1.1/Red-Centered-Layout-0.1.1.zip"
+      "downloadURL": "https://github.com/inmento/Red-Centered-Layout/releases/download/v0.1.2/Red-Centered-Layout-0.1.2.zip"
     },
     {
       "folder": "inmento@shedinja",
@@ -453,16 +454,16 @@
         "prerelease": false,
         "published_at": "2026-08-21T01:32:39Z",
         "published": "2026-08-21",
-        "downloads": 12,
+        "downloads": 13,
         "zip": {
           "name": "shedinja-0.3.6.zip",
           "url": "https://github.com/inmento/Shedinja/releases/download/v0.3.6/shedinja-0.3.6.zip",
           "size": 74732,
-          "downloadCount": 12
+          "downloadCount": 13
         }
       },
       "update_check": "ok",
-      "downloads": 39,
+      "downloads": 40,
       "first_release": "2026-08-18",
       "last_release": "2026-08-21",
       "downloadURL": "https://github.com/inmento/Shedinja/releases/download/v0.3.6/shedinja-0.3.6.zip"
@@ -512,16 +513,16 @@
         "prerelease": false,
         "published_at": "2026-08-20T23:42:56Z",
         "published": "2026-08-20",
-        "downloads": 8,
+        "downloads": 9,
         "zip": {
           "name": "shedinja-compatibility-bridge-0.1.5.zip",
           "url": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.1.5/shedinja-compatibility-bridge-0.1.5.zip",
           "size": 6474,
-          "downloadCount": 8
+          "downloadCount": 9
         }
       },
       "update_check": "ok",
-      "downloads": 21,
+      "downloads": 22,
       "first_release": "2026-08-19",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.1.5/shedinja-compatibility-bridge-0.1.5.zip"
@@ -624,16 +625,16 @@
         "prerelease": false,
         "published_at": "2026-08-20T23:45:33Z",
         "published": "2026-08-20",
-        "downloads": 41,
+        "downloads": 46,
         "zip": {
           "name": "starter_picker-1.0.14.zip",
           "url": "https://github.com/inmento/Starter-Picker/releases/download/1.0.14/starter_picker-1.0.14.zip",
           "size": 20850,
-          "downloadCount": 41
+          "downloadCount": 46
         }
       },
       "update_check": "ok",
-      "downloads": 245,
+      "downloads": 250,
       "first_release": "2026-08-14",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.0.14/starter_picker-1.0.14.zip"
