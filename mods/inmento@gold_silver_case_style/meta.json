@@ -3,7 +3,7 @@
   "title": "Gold/Silver Case Style",
   "author": "inmento",
   "summary": "Presentation-only readable casing for engine-authored Gold and Silver text, with live protection for player-entered names.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "categories": ["QOL", "UI"],
   "tags": ["gold", "silver", "gen2", "text", "ui", "readability", "casing", "quality-of-life"],
   "repo": "https://github.com/inmento/Gold-Silver-Case-Style",

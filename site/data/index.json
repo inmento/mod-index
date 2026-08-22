@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-22T07:17:34.712Z",
+  "generated_at": "2026-08-22T07:18:39.299Z",
   "count": 11,
   "categories": [
     "GAMEPLAY",
@@ -78,7 +78,7 @@
       "title": "Gold/Silver Case Style",
       "author": "inmento",
       "summary": "Presentation-only readable casing for engine-authored Gold and Silver text, with live protection for player-entered names.",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "categories": [
         "QOL",
         "UI"
@@ -109,17 +109,17 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@gold_silver_case_style/description.md",
       "latest": {
-        "version": "0.1.1",
-        "tag": "v0.1.1",
-        "name": "Gold/Silver Case Style v0.1.1",
+        "version": "0.1.2",
+        "tag": "v0.1.2",
+        "name": "Gold/Silver Case Style v0.1.2",
         "prerelease": false,
-        "published_at": "2026-08-22T07:16:48Z",
+        "published_at": "2026-08-22T07:18:28Z",
         "published": "2026-08-22",
         "downloads": 0,
         "zip": {
-          "name": "Gold-Silver-Case-Style-0.1.1.zip",
-          "url": "https://github.com/inmento/Gold-Silver-Case-Style/releases/download/v0.1.1/Gold-Silver-Case-Style-0.1.1.zip",
-          "size": 6528,
+          "name": "Gold-Silver-Case-Style-0.1.2.zip",
+          "url": "https://github.com/inmento/Gold-Silver-Case-Style/releases/download/v0.1.2/Gold-Silver-Case-Style-0.1.2.zip",
+          "size": 6625,
           "downloadCount": 0
         }
       },
@@ -127,7 +127,7 @@
       "downloads": 1,
       "first_release": "2026-08-22",
       "last_release": "2026-08-22",
-      "downloadURL": "https://github.com/inmento/Gold-Silver-Case-Style/releases/download/v0.1.1/Gold-Silver-Case-Style-0.1.1.zip"
+      "downloadURL": "https://github.com/inmento/Gold-Silver-Case-Style/releases/download/v0.1.2/Gold-Silver-Case-Style-0.1.2.zip"
     },
     {
       "folder": "inmento@gym_leader_shuffle",
