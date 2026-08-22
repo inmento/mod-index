@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-22T06:13:54.109Z",
+  "generated_at": "2026-08-22T06:33:48.881Z",
   "count": 11,
   "categories": [
     "GAMEPLAY",
@@ -115,16 +115,16 @@
         "prerelease": false,
         "published_at": "2026-08-22T05:41:04Z",
         "published": "2026-08-22",
-        "downloads": 0,
+        "downloads": 1,
         "zip": {
           "name": "Gold-Silver-Case-Style-0.1.0.zip",
           "url": "https://github.com/inmento/Gold-Silver-Case-Style/releases/download/v0.1.0/Gold-Silver-Case-Style-0.1.0.zip",
           "size": 6303,
-          "downloadCount": 0
+          "downloadCount": 1
         }
       },
       "update_check": "ok",
-      "downloads": 0,
+      "downloads": 1,
       "first_release": "2026-08-22",
       "last_release": "2026-08-22",
       "downloadURL": "https://github.com/inmento/Gold-Silver-Case-Style/releases/download/v0.1.0/Gold-Silver-Case-Style-0.1.0.zip"
@@ -360,7 +360,7 @@
       "title": "Red Centered Layout",
       "author": "inmento",
       "summary": "Centers the vanilla Red Version title caption and the standard Red overworld player framing without changing save or gameplay data.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "categories": [
         "UI",
         "QOL"
@@ -391,25 +391,25 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@red_centered_layout/description.md",
       "latest": {
-        "version": "0.1.0",
-        "tag": "v0.1.0",
-        "name": "Red Centered Layout v0.1.0",
+        "version": "0.1.1",
+        "tag": "v0.1.1",
+        "name": "Red Centered Layout v0.1.1",
         "prerelease": false,
-        "published_at": "2026-08-22T06:12:39Z",
+        "published_at": "2026-08-22T06:33:31Z",
         "published": "2026-08-22",
         "downloads": 0,
         "zip": {
-          "name": "Red-Centered-Layout-0.1.0.zip",
-          "url": "https://github.com/inmento/Red-Centered-Layout/releases/download/v0.1.0/Red-Centered-Layout-0.1.0.zip",
-          "size": 4912,
+          "name": "Red-Centered-Layout-0.1.1.zip",
+          "url": "https://github.com/inmento/Red-Centered-Layout/releases/download/v0.1.1/Red-Centered-Layout-0.1.1.zip",
+          "size": 5278,
           "downloadCount": 0
         }
       },
       "update_check": "ok",
-      "downloads": 0,
+      "downloads": 1,
       "first_release": "2026-08-22",
       "last_release": "2026-08-22",
-      "downloadURL": "https://github.com/inmento/Red-Centered-Layout/releases/download/v0.1.0/Red-Centered-Layout-0.1.0.zip"
+      "downloadURL": "https://github.com/inmento/Red-Centered-Layout/releases/download/v0.1.1/Red-Centered-Layout-0.1.1.zip"
     },
     {
       "folder": "inmento@shedinja",
@@ -624,16 +624,16 @@
         "prerelease": false,
         "published_at": "2026-08-20T23:45:33Z",
         "published": "2026-08-20",
-        "downloads": 39,
+        "downloads": 40,
         "zip": {
           "name": "starter_picker-1.0.14.zip",
           "url": "https://github.com/inmento/Starter-Picker/releases/download/1.0.14/starter_picker-1.0.14.zip",
           "size": 20850,
-          "downloadCount": 39
+          "downloadCount": 40
         }
       },
       "update_check": "ok",
-      "downloads": 243,
+      "downloads": 244,
       "first_release": "2026-08-14",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.0.14/starter_picker-1.0.14.zip"

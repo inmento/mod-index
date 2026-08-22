@@ -3,7 +3,7 @@
   "title": "Red Centered Layout",
   "author": "inmento",
   "summary": "Centers the vanilla Red Version title caption and the standard Red overworld player framing without changing save or gameplay data.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "categories": ["UI", "QOL"],
   "tags": ["red", "title-screen", "camera", "player", "centering", "layout", "visual", "quality-of-life"],
   "repo": "https://github.com/inmento/Red-Centered-Layout",
