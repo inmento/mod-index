@@ -17,6 +17,7 @@ The layout, entry schema, generated feed, and release selection rules are compat
 | Shedinja Compatibility Bridge | 0.1.5 | [Release page](https://github.com/inmento/Shedinja-Expanded-Bridge/releases) |
 | Sound Effect Replacer | 0.3.4 | [Release page](https://github.com/inmento/Sound-Effect-Replacer/releases) |
 | Starter Picker | 1.0.14 | [Release page](https://github.com/inmento/Starter-Picker/releases) |
+| Typed Metronomes | 0.1.0 | [Release page](https://github.com/inmento/Typed-Metronomes/releases) |
 
 ## Machine-readable feed
 
