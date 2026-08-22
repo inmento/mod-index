@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-22T06:41:24.249Z",
+  "generated_at": "2026-08-22T07:17:03.007Z",
   "count": 11,
   "categories": [
     "GAMEPLAY",
@@ -113,13 +113,13 @@
         "tag": "v0.1.1",
         "name": "Gold/Silver Case Style v0.1.1",
         "prerelease": false,
-        "published_at": "2026-08-22T06:40:34Z",
+        "published_at": "2026-08-22T07:16:48Z",
         "published": "2026-08-22",
         "downloads": 0,
         "zip": {
           "name": "Gold-Silver-Case-Style-0.1.1.zip",
           "url": "https://github.com/inmento/Gold-Silver-Case-Style/releases/download/v0.1.1/Gold-Silver-Case-Style-0.1.1.zip",
-          "size": 7005,
+          "size": 6528,
           "downloadCount": 0
         }
       },
@@ -397,16 +397,16 @@
         "prerelease": false,
         "published_at": "2026-08-22T06:33:31Z",
         "published": "2026-08-22",
-        "downloads": 0,
+        "downloads": 1,
         "zip": {
           "name": "Red-Centered-Layout-0.1.1.zip",
           "url": "https://github.com/inmento/Red-Centered-Layout/releases/download/v0.1.1/Red-Centered-Layout-0.1.1.zip",
           "size": 5278,
-          "downloadCount": 0
+          "downloadCount": 1
         }
       },
       "update_check": "ok",
-      "downloads": 1,
+      "downloads": 2,
       "first_release": "2026-08-22",
       "last_release": "2026-08-22",
       "downloadURL": "https://github.com/inmento/Red-Centered-Layout/releases/download/v0.1.1/Red-Centered-Layout-0.1.1.zip"
