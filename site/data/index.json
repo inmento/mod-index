@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-22T06:34:14.614Z",
+  "generated_at": "2026-08-22T06:41:00.984Z",
   "count": 11,
   "categories": [
     "GAMEPLAY",
@@ -78,7 +78,7 @@
       "title": "Gold/Silver Case Style",
       "author": "inmento",
       "summary": "Presentation-only readable casing for engine-authored Gold and Silver text, with live protection for player-entered names.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "categories": [
         "QOL",
         "UI"
@@ -109,25 +109,25 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@gold_silver_case_style/description.md",
       "latest": {
-        "version": "0.1.0",
-        "tag": "v0.1.0",
-        "name": "Gold/Silver Case Style v0.1.0",
+        "version": "0.1.1",
+        "tag": "v0.1.1",
+        "name": "Gold/Silver Case Style v0.1.1",
         "prerelease": false,
-        "published_at": "2026-08-22T05:41:04Z",
+        "published_at": "2026-08-22T06:40:34Z",
         "published": "2026-08-22",
-        "downloads": 1,
+        "downloads": 0,
         "zip": {
-          "name": "Gold-Silver-Case-Style-0.1.0.zip",
-          "url": "https://github.com/inmento/Gold-Silver-Case-Style/releases/download/v0.1.0/Gold-Silver-Case-Style-0.1.0.zip",
-          "size": 6303,
-          "downloadCount": 1
+          "name": "Gold-Silver-Case-Style-0.1.1.zip",
+          "url": "https://github.com/inmento/Gold-Silver-Case-Style/releases/download/v0.1.1/Gold-Silver-Case-Style-0.1.1.zip",
+          "size": 7005,
+          "downloadCount": 0
         }
       },
       "update_check": "ok",
       "downloads": 1,
       "first_release": "2026-08-22",
       "last_release": "2026-08-22",
-      "downloadURL": "https://github.com/inmento/Gold-Silver-Case-Style/releases/download/v0.1.0/Gold-Silver-Case-Style-0.1.0.zip"
+      "downloadURL": "https://github.com/inmento/Gold-Silver-Case-Style/releases/download/v0.1.1/Gold-Silver-Case-Style-0.1.1.zip"
     },
     {
       "folder": "inmento@gym_leader_shuffle",
