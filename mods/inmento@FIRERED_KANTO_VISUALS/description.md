@@ -2,7 +2,13 @@
 
 **FireRed Kanto Visual Importer** is a Gen1Recomp visual-import overhaul for Red, Blue, and Yellow. It reads Pokémon battle art, trainer battle portraits, and bounded map/tileset data from a player-provided, launcher-verified English **Pokémon FireRed v1.0** ROM. The public release contains no FireRed ROM, extracted artwork, map data, or ROM-derived cache.
 
-> Version **0.2.3** retains the **map-aware semantic visual pipeline** and restores every movement-cell semantic role. It supports **Pallet Town** and **Red’s House 1F** while retaining the exact existing Gen 1 map grid and all gameplay semantics.
+> Version **0.2.4** retains the **map-aware semantic visual pipeline** and isolates each generated profile atlas from renderer cache reuse. It supports **Pallet Town** and **Red’s House 1F** while retaining the exact existing Gen 1 map grid and all gameplay semantics.
+
+## Version 0.2.4 — Generated-atlas cache isolation
+
+After the first-floor exit was repaired, a runtime recording showed Pallet Town retaining outdoor NPC and script behavior while displaying FireRed Player’s House interior pixels. The distinct Pallet and Player’s House profiles now resolve through pipeline-revision-specific generated atlas paths, and the private asset bridge refreshes its backing cache if the importer is replaced while the renderer remains resident.
+
+This correction is visual-only. It does not alter the four-cell semantic lock, map dimensions, collision, door/warp behavior, exits, objects, scripts, events, saves, or progression.
 
 ## Version 0.2.3 — Four-cell collision and warp tile lock
 
@@ -50,4 +56,4 @@ Select your own supported ROM through Gen1Recomp’s standard **Imported Files**
 
 After updating, restart the game and test the visible downstairs door in Red’s House 1F, then Red’s House, Blue’s House, and Oak’s Lab entrances in Pallet Town. Please include the named map and a screenshot or short clip if a profile needs coordinate tuning.
 
-[View the source repository](https://github.com/inmento/FireRed-Kanto-Visual-Importer) or [download the latest release](https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/tag/v0.2.3).
+[View the source repository](https://github.com/inmento/FireRed-Kanto-Visual-Importer) or [download the latest release](https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/tag/v0.2.4).

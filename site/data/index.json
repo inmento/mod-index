@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-23T02:24:01.889Z",
+  "generated_at": "2026-08-23T02:43:38.028Z",
   "count": 12,
   "categories": [
     "GAMEPLAY",
@@ -22,8 +22,8 @@
       "id": "FIRERED_KANTO_VISUALS",
       "title": "FireRed Kanto Visual Importer",
       "author": "inmento",
-      "summary": "Player-local FireRed v1.0 visual importer with four-cell collision/warp preservation for the Pallet Town and Red’s House 1F profiles.",
-      "version": "0.2.3",
+      "summary": "Player-local FireRed v1.0 visual importer with isolated generated profile atlases and four-cell collision/warp preservation for Pallet Town and Red’s House 1F.",
+      "version": "0.2.4",
       "categories": [
         "ART",
         "CONTENT"
@@ -54,25 +54,25 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@FIRERED_KANTO_VISUALS/description.md",
       "latest": {
-        "version": "0.2.3",
-        "tag": "v0.2.3",
-        "name": "FireRed Kanto Visual Importer v0.2.3",
+        "version": "0.2.4",
+        "tag": "v0.2.4",
+        "name": "FireRed Kanto Visual Importer v0.2.4",
         "prerelease": false,
-        "published_at": "2026-08-23T02:22:44Z",
+        "published_at": "2026-08-23T02:42:49Z",
         "published": "2026-08-23",
         "downloads": 0,
         "zip": {
-          "name": "FIRERED_KANTO_VISUALS-0.2.3.zip",
-          "url": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.2.3/FIRERED_KANTO_VISUALS-0.2.3.zip",
-          "size": 27693,
+          "name": "FIRERED_KANTO_VISUALS-0.2.4.zip",
+          "url": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.2.4/FIRERED_KANTO_VISUALS-0.2.4.zip",
+          "size": 28419,
           "downloadCount": 0
         }
       },
       "update_check": "ok",
-      "downloads": 7,
+      "downloads": 8,
       "first_release": "2026-08-20",
       "last_release": "2026-08-23",
-      "downloadURL": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.2.3/FIRERED_KANTO_VISUALS-0.2.3.zip"
+      "downloadURL": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.2.4/FIRERED_KANTO_VISUALS-0.2.4.zip"
     },
     {
       "folder": "inmento@gold_silver_case_style",
@@ -170,16 +170,16 @@
         "prerelease": false,
         "published_at": "2026-08-20T23:52:45Z",
         "published": "2026-08-20",
-        "downloads": 24,
+        "downloads": 25,
         "zip": {
           "name": "gym_leader_shuffle-1.0.9.zip",
           "url": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.9/gym_leader_shuffle-1.0.9.zip",
           "size": 18370,
-          "downloadCount": 24
+          "downloadCount": 25
         }
       },
       "update_check": "ok",
-      "downloads": 102,
+      "downloads": 103,
       "first_release": "2026-08-14",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.9/gym_leader_shuffle-1.0.9.zip"
@@ -571,16 +571,16 @@
         "prerelease": false,
         "published_at": "2026-08-21T00:02:06Z",
         "published": "2026-08-21",
-        "downloads": 16,
+        "downloads": 17,
         "zip": {
           "name": "sound_effect_replacer-0.3.4.zip",
           "url": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/0.3.4/sound_effect_replacer-0.3.4.zip",
           "size": 389788,
-          "downloadCount": 16
+          "downloadCount": 17
         }
       },
       "update_check": "ok",
-      "downloads": 29,
+      "downloads": 30,
       "first_release": "2026-08-18",
       "last_release": "2026-08-21",
       "downloadURL": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/0.3.4/sound_effect_replacer-0.3.4.zip"
@@ -627,16 +627,16 @@
         "prerelease": false,
         "published_at": "2026-08-20T23:45:33Z",
         "published": "2026-08-20",
-        "downloads": 53,
+        "downloads": 54,
         "zip": {
           "name": "starter_picker-1.0.14.zip",
           "url": "https://github.com/inmento/Starter-Picker/releases/download/1.0.14/starter_picker-1.0.14.zip",
           "size": 20850,
-          "downloadCount": 53
+          "downloadCount": 54
         }
       },
       "update_check": "ok",
-      "downloads": 257,
+      "downloads": 258,
       "first_release": "2026-08-14",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.0.14/starter_picker-1.0.14.zip"
