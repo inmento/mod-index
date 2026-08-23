@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-23T02:44:02.332Z",
+  "generated_at": "2026-08-23T05:49:23.353Z",
   "count": 12,
   "categories": [
     "GAMEPLAY",
@@ -60,16 +60,16 @@
         "prerelease": false,
         "published_at": "2026-08-23T02:42:49Z",
         "published": "2026-08-23",
-        "downloads": 0,
+        "downloads": 1,
         "zip": {
           "name": "FIRERED_KANTO_VISUALS-0.2.4.zip",
           "url": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.2.4/FIRERED_KANTO_VISUALS-0.2.4.zip",
           "size": 28419,
-          "downloadCount": 0
+          "downloadCount": 1
         }
       },
       "update_check": "ok",
-      "downloads": 9,
+      "downloads": 10,
       "first_release": "2026-08-20",
       "last_release": "2026-08-23",
       "downloadURL": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.2.4/FIRERED_KANTO_VISUALS-0.2.4.zip"
@@ -170,16 +170,16 @@
         "prerelease": false,
         "published_at": "2026-08-20T23:52:45Z",
         "published": "2026-08-20",
-        "downloads": 25,
+        "downloads": 27,
         "zip": {
           "name": "gym_leader_shuffle-1.0.9.zip",
           "url": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.9/gym_leader_shuffle-1.0.9.zip",
           "size": 18370,
-          "downloadCount": 25
+          "downloadCount": 27
         }
       },
       "update_check": "ok",
-      "downloads": 103,
+      "downloads": 105,
       "first_release": "2026-08-14",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.9/gym_leader_shuffle-1.0.9.zip"
@@ -400,16 +400,16 @@
         "prerelease": false,
         "published_at": "2026-08-22T18:45:38Z",
         "published": "2026-08-22",
-        "downloads": 4,
+        "downloads": 5,
         "zip": {
           "name": "Red-Centered-Layout-0.1.2.zip",
           "url": "https://github.com/inmento/Red-Centered-Layout/releases/download/v0.1.2/Red-Centered-Layout-0.1.2.zip",
           "size": 5897,
-          "downloadCount": 4
+          "downloadCount": 5
         }
       },
       "update_check": "ok",
-      "downloads": 7,
+      "downloads": 8,
       "first_release": "2026-08-22",
       "last_release": "2026-08-22",
       "downloadURL": "https://github.com/inmento/Red-Centered-Layout/releases/download/v0.1.2/Red-Centered-Layout-0.1.2.zip"
@@ -456,16 +456,16 @@
         "prerelease": false,
         "published_at": "2026-08-21T01:32:39Z",
         "published": "2026-08-21",
-        "downloads": 21,
+        "downloads": 22,
         "zip": {
           "name": "shedinja-0.3.6.zip",
           "url": "https://github.com/inmento/Shedinja/releases/download/v0.3.6/shedinja-0.3.6.zip",
           "size": 74732,
-          "downloadCount": 21
+          "downloadCount": 22
         }
       },
       "update_check": "ok",
-      "downloads": 48,
+      "downloads": 49,
       "first_release": "2026-08-18",
       "last_release": "2026-08-21",
       "downloadURL": "https://github.com/inmento/Shedinja/releases/download/v0.3.6/shedinja-0.3.6.zip"
@@ -515,16 +515,16 @@
         "prerelease": false,
         "published_at": "2026-08-20T23:42:56Z",
         "published": "2026-08-20",
-        "downloads": 15,
+        "downloads": 16,
         "zip": {
           "name": "shedinja-compatibility-bridge-0.1.5.zip",
           "url": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.1.5/shedinja-compatibility-bridge-0.1.5.zip",
           "size": 6474,
-          "downloadCount": 15
+          "downloadCount": 16
         }
       },
       "update_check": "ok",
-      "downloads": 28,
+      "downloads": 29,
       "first_release": "2026-08-19",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.1.5/shedinja-compatibility-bridge-0.1.5.zip"
@@ -571,16 +571,16 @@
         "prerelease": false,
         "published_at": "2026-08-21T00:02:06Z",
         "published": "2026-08-21",
-        "downloads": 17,
+        "downloads": 20,
         "zip": {
           "name": "sound_effect_replacer-0.3.4.zip",
           "url": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/0.3.4/sound_effect_replacer-0.3.4.zip",
           "size": 389788,
-          "downloadCount": 17
+          "downloadCount": 20
         }
       },
       "update_check": "ok",
-      "downloads": 30,
+      "downloads": 33,
       "first_release": "2026-08-18",
       "last_release": "2026-08-21",
       "downloadURL": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/0.3.4/sound_effect_replacer-0.3.4.zip"
@@ -627,16 +627,16 @@
         "prerelease": false,
         "published_at": "2026-08-20T23:45:33Z",
         "published": "2026-08-20",
-        "downloads": 54,
+        "downloads": 57,
         "zip": {
           "name": "starter_picker-1.0.14.zip",
           "url": "https://github.com/inmento/Starter-Picker/releases/download/1.0.14/starter_picker-1.0.14.zip",
           "size": 20850,
-          "downloadCount": 54
+          "downloadCount": 57
         }
       },
       "update_check": "ok",
-      "downloads": 258,
+      "downloads": 261,
       "first_release": "2026-08-14",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.0.14/starter_picker-1.0.14.zip"
