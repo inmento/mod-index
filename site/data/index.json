@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-23T02:43:38.028Z",
+  "generated_at": "2026-08-23T02:44:02.332Z",
   "count": 12,
   "categories": [
     "GAMEPLAY",
@@ -69,7 +69,7 @@
         }
       },
       "update_check": "ok",
-      "downloads": 8,
+      "downloads": 9,
       "first_release": "2026-08-20",
       "last_release": "2026-08-23",
       "downloadURL": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.2.4/FIRERED_KANTO_VISUALS-0.2.4.zip"
