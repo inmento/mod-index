@@ -1,29 +1,35 @@
 # FireRed Kanto Visual Importer
 
-**FireRed Kanto Visual Importer** is a visual-only Gen1Recomp overhaul for Red, Blue, and Yellow. It reads existing-Pokédex Pokémon front/back battle art and mapped Kanto trainer battle portraits from a player-provided, launcher-verified English **Pokémon FireRed v1.0** ROM. It applies those visuals to the existing Kanto game without distributing any FireRed ROM data or extracted assets.
+**FireRed Kanto Visual Importer** is a Gen1Recomp visual-import overhaul for Red, Blue, and Yellow. It reads Pokémon battle art, trainer battle portraits, and bounded map/tileset data from a player-provided, launcher-verified English **Pokémon FireRed v1.0** ROM. The public release contains no FireRed ROM, extracted artwork, map data, or ROM-derived cache.
 
-> Version **0.1.5** keeps normal Gen 1 terrain geometry active by default. This preserves collision, doors, warps, ledges, grass, map connections, scripts, saves, and progression while the FireRed battle-visual import remains enabled.
+> Version **0.2.0** is the first **map-aware semantic visual pipeline** test build. It supports **Pallet Town** and **Red’s House 1F** while retaining the exact existing Gen 1 map grid and all gameplay semantics.
 
-## Version 0.1.5 — Collision-aligned terrain default
+## Version 0.2.0 — Map-aware visual profiles
 
-The earlier terrain prototype expanded FireRed 16×16 metatiles into Gen1Recomp’s 32×32 map-block geometry and paired them with Gen 1 map blocks by numeric ID. The two games do not assign the same meaning to those IDs. A Pallet Town house could consequently draw as an unrelated FireRed Pokémon Center or door while the real Gen 1 collision/warp cell remained elsewhere, leaving the player unable to exit by walking to the displayed doorway.
+The previous numeric terrain experiment paired Gen 1 map blocks with same-numbered FireRed metatiles. Those IDs have different meanings in each game, so Red’s House could display as an unrelated FireRed Pokémon Center while its real Gen 1 exit warp remained elsewhere.
 
-Version 0.1.5 removes that unsafe numeric terrain replacement from the default path. FireRed Pokémon and trainer battle art still import normally, while the base terrain stays visible and aligned with the real Gen 1 map behavior. The previous terrain prototype is retained solely as the optional **FR TERRAIN PREVIEW** toggle for diagnostic screenshots; turn it on only after acknowledging that its visible doors, paths, ledges, water, and buildings are not reliable navigation markers, then restart the game.
+Version 0.2.0 replaces that approach with a three-layer internal pipeline: a verified-ROM reader, deterministic semantic tile converter with fixed 8×8 target cells, and per-map profile applicator. Each supported Gen 1 map block receives its own FireRed-derived visual row while retaining the original block’s collision class—walkable, grass, water, shore, door, warp, counter, or blocked. The profile cannot create, move, or hide Gen 1 gameplay coordinates.
 
-The release also retains v0.1.4’s true-colour outdoor-transition correction, which prevents the earlier white/fragmented screen when leaving an interior.
+| Supported map profile | Visual reference | Preserved Gen 1 behavior |
+|---|---|---|
+| **Pallet Town** | FireRed Pallet Town tiles/layout | Red’s House, Blue’s House, Oak’s Lab, paths, grass, collision, doors, and warps remain at Gen 1 positions. |
+| **Red’s House 1F** | FireRed Player’s House 1F tiles/layout | The downstairs exit and upstairs warp remain at Gen 1 positions. |
+| Other maps | Native Gen 1 art until their own profile is validated | No terrain/collision mismatch is introduced. |
+
+The former **FR TERRAIN PREVIEW** numeric-substitution setting is removed. **FR MAP VISUALS** is enabled by default and applies only profiles that pass layout, tileset, crop-bound, block-size, and semantic tile-lock checks. A failed profile falls back to its native Gen 1 map rather than showing mismatched terrain.
 
 ## Required source ROM
 
-The launcher verifies the source file before the importer reads it. Only the following ROM revision is supported:
+The launcher validates the source file before the importer reads it. Only this revision is supported:
 
 | Revision | MD5 |
 |---|---|
 | FireRed English v1.0 | `e26ee0d44e809351c8ce2d73c7400cdd` |
 
-The public release package contains no FireRed ROM, extracted graphics, or generated FireRed-derived files. Select your own supported ROM through Gen1Recomp’s standard **Imported Files** flow.
+Select your own supported ROM through Gen1Recomp’s standard **Imported Files** flow. The source stays local to the player.
 
-## Scope
+## Focused test request
 
-This importer does **not** import or replace FireRed maps, collision, warps, NPCs, scripts, encounters, items, story progression, saves, or game mechanics. A future FireRed-style terrain layer requires purpose-built semantic profiles that map FireRed art to the meaning of specific Gen 1 terrain blocks and map categories; it cannot be created safely by resizing tiles or pairing metatiles by numeric ID.
+After updating, restart the game and test the visible downstairs door in Red’s House 1F, then Red’s House, Blue’s House, and Oak’s Lab entrances in Pallet Town. Please include the named map and a screenshot or short clip if a profile needs coordinate tuning.
 
-[View the source repository](https://github.com/inmento/FireRed-Kanto-Visual-Importer) or [download the latest release](https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/latest).
+[View the source repository](https://github.com/inmento/FireRed-Kanto-Visual-Importer) or [download the latest release](https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/tag/v0.2.0).

@@ -2,18 +2,19 @@
   "id": "FIRERED_KANTO_VISUALS",
   "title": "FireRed Kanto Visual Importer",
   "author": "inmento",
-  "summary": "Visual-only FireRed v1.0 importer for existing Pokémon battle art and trainer portraits, with collision-aligned Gen 1 terrain by default; the legacy numeric terrain preview is explicit opt-in only.",
-  "version": "0.1.5",
+  "summary": "Player-local FireRed v1.0 visual importer with map-aware, collision-preserving Pallet Town and Red’s House 1F profiles; unprofiled maps remain native Gen 1 visuals.",
+  "version": "0.2.0",
   "categories": [
     "ART",
     "CONTENT"
   ],
   "tags": [
     "firered",
-    "kanto",
     "visual importer",
-    "terrain preview",
-    "collision-aligned",
+    "map-aware",
+    "semantic tiles",
+    "collision-preserving",
+    "pallet town",
     "sprites",
     "trainer portraits"
   ],
