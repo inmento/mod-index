@@ -2,8 +2,8 @@
   "id": "FIRERED_KANTO_VISUALS",
   "title": "FireRed Kanto Visual Importer",
   "author": "inmento",
-  "summary": "Visual-only FireRed v1.0 importer for Kanto terrain, existing Pokémon art, and trainer portraits, with a corrected true-colour outdoor transition; maps and gameplay remain untouched.",
-  "version": "0.1.4",
+  "summary": "Visual-only FireRed v1.0 importer for existing Pokémon battle art and trainer portraits, with collision-aligned Gen 1 terrain by default; the legacy numeric terrain preview is explicit opt-in only.",
+  "version": "0.1.5",
   "categories": [
     "ART",
     "CONTENT"
@@ -12,7 +12,8 @@
     "firered",
     "kanto",
     "visual importer",
-    "terrain",
+    "terrain preview",
+    "collision-aligned",
     "sprites",
     "trainer portraits"
   ],
