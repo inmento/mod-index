@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-23T02:15:54.567Z",
+  "generated_at": "2026-08-23T02:23:34.281Z",
   "count": 12,
   "categories": [
     "GAMEPLAY",
@@ -22,8 +22,8 @@
       "id": "FIRERED_KANTO_VISUALS",
       "title": "FireRed Kanto Visual Importer",
       "author": "inmento",
-      "summary": "Player-local FireRed v1.0 visual importer with collision-preserving Pallet Town/Red’s House 1F profiles and dedicated FireRed layout-border rendering.",
-      "version": "0.2.2",
+      "summary": "Player-local FireRed v1.0 visual importer with four-cell collision/warp preservation for the Pallet Town and Red’s House 1F profiles.",
+      "version": "0.2.3",
       "categories": [
         "ART",
         "CONTENT"
@@ -54,25 +54,25 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@FIRERED_KANTO_VISUALS/description.md",
       "latest": {
-        "version": "0.2.2",
-        "tag": "v0.2.2",
-        "name": "FireRed Kanto Visual Importer v0.2.2",
+        "version": "0.2.3",
+        "tag": "v0.2.3",
+        "name": "FireRed Kanto Visual Importer v0.2.3",
         "prerelease": false,
-        "published_at": "2026-08-23T02:14:32Z",
+        "published_at": "2026-08-23T02:22:44Z",
         "published": "2026-08-23",
         "downloads": 0,
         "zip": {
-          "name": "FIRERED_KANTO_VISUALS-0.2.2.zip",
-          "url": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.2.2/FIRERED_KANTO_VISUALS-0.2.2.zip",
-          "size": 26980,
+          "name": "FIRERED_KANTO_VISUALS-0.2.3.zip",
+          "url": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.2.3/FIRERED_KANTO_VISUALS-0.2.3.zip",
+          "size": 27693,
           "downloadCount": 0
         }
       },
       "update_check": "ok",
-      "downloads": 6,
+      "downloads": 7,
       "first_release": "2026-08-20",
       "last_release": "2026-08-23",
-      "downloadURL": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.2.2/FIRERED_KANTO_VISUALS-0.2.2.zip"
+      "downloadURL": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.2.3/FIRERED_KANTO_VISUALS-0.2.3.zip"
     },
     {
       "folder": "inmento@gold_silver_case_style",
@@ -400,16 +400,16 @@
         "prerelease": false,
         "published_at": "2026-08-22T18:45:38Z",
         "published": "2026-08-22",
-        "downloads": 3,
+        "downloads": 4,
         "zip": {
           "name": "Red-Centered-Layout-0.1.2.zip",
           "url": "https://github.com/inmento/Red-Centered-Layout/releases/download/v0.1.2/Red-Centered-Layout-0.1.2.zip",
           "size": 5897,
-          "downloadCount": 3
+          "downloadCount": 4
         }
       },
       "update_check": "ok",
-      "downloads": 6,
+      "downloads": 7,
       "first_release": "2026-08-22",
       "last_release": "2026-08-22",
       "downloadURL": "https://github.com/inmento/Red-Centered-Layout/releases/download/v0.1.2/Red-Centered-Layout-0.1.2.zip"
@@ -456,16 +456,16 @@
         "prerelease": false,
         "published_at": "2026-08-21T01:32:39Z",
         "published": "2026-08-21",
-        "downloads": 20,
+        "downloads": 21,
         "zip": {
           "name": "shedinja-0.3.6.zip",
           "url": "https://github.com/inmento/Shedinja/releases/download/v0.3.6/shedinja-0.3.6.zip",
           "size": 74732,
-          "downloadCount": 20
+          "downloadCount": 21
         }
       },
       "update_check": "ok",
-      "downloads": 47,
+      "downloads": 48,
       "first_release": "2026-08-18",
       "last_release": "2026-08-21",
       "downloadURL": "https://github.com/inmento/Shedinja/releases/download/v0.3.6/shedinja-0.3.6.zip"
