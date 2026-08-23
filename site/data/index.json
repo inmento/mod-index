@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-23T02:23:34.281Z",
+  "generated_at": "2026-08-23T02:24:01.889Z",
   "count": 12,
   "categories": [
     "GAMEPLAY",
@@ -515,16 +515,16 @@
         "prerelease": false,
         "published_at": "2026-08-20T23:42:56Z",
         "published": "2026-08-20",
-        "downloads": 14,
+        "downloads": 15,
         "zip": {
           "name": "shedinja-compatibility-bridge-0.1.5.zip",
           "url": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.1.5/shedinja-compatibility-bridge-0.1.5.zip",
           "size": 6474,
-          "downloadCount": 14
+          "downloadCount": 15
         }
       },
       "update_check": "ok",
-      "downloads": 27,
+      "downloads": 28,
       "first_release": "2026-08-19",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.1.5/shedinja-compatibility-bridge-0.1.5.zip"
