@@ -2,8 +2,8 @@
   "id": "FIRERED_KANTO_VISUALS",
   "title": "FireRed Kanto Visual Importer",
   "author": "inmento",
-  "summary": "Player-local FireRed v1.0 visual importer with map-aware, collision-preserving Pallet Town and Red’s House 1F profiles; unprofiled maps remain native Gen 1 visuals.",
-  "version": "0.2.0",
+  "summary": "Player-local FireRed v1.0 visual importer with corrected variable-size compressed tileset support and collision-preserving Pallet Town/Red’s House 1F profiles.",
+  "version": "0.2.1",
   "categories": [
     "ART",
     "CONTENT"

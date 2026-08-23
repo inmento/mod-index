@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-23T01:22:14.725Z",
+  "generated_at": "2026-08-23T02:03:43.642Z",
   "count": 12,
   "categories": [
     "GAMEPLAY",
@@ -22,8 +22,8 @@
       "id": "FIRERED_KANTO_VISUALS",
       "title": "FireRed Kanto Visual Importer",
       "author": "inmento",
-      "summary": "Player-local FireRed v1.0 visual importer with map-aware, collision-preserving Pallet Town and Red’s House 1F profiles; unprofiled maps remain native Gen 1 visuals.",
-      "version": "0.2.0",
+      "summary": "Player-local FireRed v1.0 visual importer with corrected variable-size compressed tileset support and collision-preserving Pallet Town/Red’s House 1F profiles.",
+      "version": "0.2.1",
       "categories": [
         "ART",
         "CONTENT"
@@ -54,25 +54,25 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@FIRERED_KANTO_VISUALS/description.md",
       "latest": {
-        "version": "0.2.0",
-        "tag": "v0.2.0",
-        "name": "v0.2.0 — Map-aware visual pipeline (test build)",
+        "version": "0.2.1",
+        "tag": "v0.2.1",
+        "name": "FireRed Kanto Visual Importer v0.2.1",
         "prerelease": false,
-        "published_at": "2026-08-23T01:19:33Z",
+        "published_at": "2026-08-23T02:03:07Z",
         "published": "2026-08-23",
         "downloads": 0,
         "zip": {
-          "name": "FIRERED_KANTO_VISUALS-0.2.0.zip",
-          "url": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.2.0/FIRERED_KANTO_VISUALS-0.2.0.zip",
-          "size": 25120,
+          "name": "FIRERED_KANTO_VISUALS-0.2.1.zip",
+          "url": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.2.1/FIRERED_KANTO_VISUALS-0.2.1.zip",
+          "size": 26272,
           "downloadCount": 0
         }
       },
       "update_check": "ok",
-      "downloads": 5,
+      "downloads": 6,
       "first_release": "2026-08-20",
       "last_release": "2026-08-23",
-      "downloadURL": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.2.0/FIRERED_KANTO_VISUALS-0.2.0.zip"
+      "downloadURL": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.2.1/FIRERED_KANTO_VISUALS-0.2.1.zip"
     },
     {
       "folder": "inmento@gold_silver_case_style",
@@ -456,16 +456,16 @@
         "prerelease": false,
         "published_at": "2026-08-21T01:32:39Z",
         "published": "2026-08-21",
-        "downloads": 19,
+        "downloads": 20,
         "zip": {
           "name": "shedinja-0.3.6.zip",
           "url": "https://github.com/inmento/Shedinja/releases/download/v0.3.6/shedinja-0.3.6.zip",
           "size": 74732,
-          "downloadCount": 19
+          "downloadCount": 20
         }
       },
       "update_check": "ok",
-      "downloads": 46,
+      "downloads": 47,
       "first_release": "2026-08-18",
       "last_release": "2026-08-21",
       "downloadURL": "https://github.com/inmento/Shedinja/releases/download/v0.3.6/shedinja-0.3.6.zip"
@@ -515,16 +515,16 @@
         "prerelease": false,
         "published_at": "2026-08-20T23:42:56Z",
         "published": "2026-08-20",
-        "downloads": 13,
+        "downloads": 14,
         "zip": {
           "name": "shedinja-compatibility-bridge-0.1.5.zip",
           "url": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.1.5/shedinja-compatibility-bridge-0.1.5.zip",
           "size": 6474,
-          "downloadCount": 13
+          "downloadCount": 14
         }
       },
       "update_check": "ok",
-      "downloads": 26,
+      "downloads": 27,
       "first_release": "2026-08-19",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.1.5/shedinja-compatibility-bridge-0.1.5.zip"
@@ -627,16 +627,16 @@
         "prerelease": false,
         "published_at": "2026-08-20T23:45:33Z",
         "published": "2026-08-20",
-        "downloads": 52,
+        "downloads": 53,
         "zip": {
           "name": "starter_picker-1.0.14.zip",
           "url": "https://github.com/inmento/Starter-Picker/releases/download/1.0.14/starter_picker-1.0.14.zip",
           "size": 20850,
-          "downloadCount": 52
+          "downloadCount": 53
         }
       },
       "update_check": "ok",
-      "downloads": 256,
+      "downloads": 257,
       "first_release": "2026-08-14",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.0.14/starter_picker-1.0.14.zip"

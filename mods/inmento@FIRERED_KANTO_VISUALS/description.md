@@ -2,7 +2,13 @@
 
 **FireRed Kanto Visual Importer** is a Gen1Recomp visual-import overhaul for Red, Blue, and Yellow. It reads Pokémon battle art, trainer battle portraits, and bounded map/tileset data from a player-provided, launcher-verified English **Pokémon FireRed v1.0** ROM. The public release contains no FireRed ROM, extracted artwork, map data, or ROM-derived cache.
 
-> Version **0.2.0** is the first **map-aware semantic visual pipeline** test build. It supports **Pallet Town** and **Red’s House 1F** while retaining the exact existing Gen 1 map grid and all gameplay semantics.
+> Version **0.2.1** repairs the first map-profile runtime rejection while retaining the **map-aware semantic visual pipeline**. It supports **Pallet Town** and **Red’s House 1F** while retaining the exact existing Gen 1 map grid and all gameplay semantics.
+
+## Version 0.2.1 — Variable-size compressed-tileset repair
+
+Version 0.2.0 could silently leave both supported map profiles on native Gen 1 art after a valid FireRed v1.0 import because it incorrectly required every compressed FireRed secondary tileset to contain exactly 384 8×8 tiles. FireRed’s Pallet Town and Generic Building 1 sheets are valid smaller 4bpp sheets; their actual size is declared by their GBA LZ77 stream.
+
+Version 0.2.1 reads the exact LZ77-declared tile count for compressed sheets, while preserving bounded input, integral 8×8 tiles, source-metatile validation, fixed 4×4 Gen 1 block rows, and the semantic collision tile lock. If **FR MAP VISUALS** is enabled but every requested profile is rejected, the importer now fails visibly in the Mod Manager with its first converter diagnostic rather than silently leaving all terrain native.
 
 ## Version 0.2.0 — Map-aware visual profiles
 
@@ -32,4 +38,4 @@ Select your own supported ROM through Gen1Recomp’s standard **Imported Files**
 
 After updating, restart the game and test the visible downstairs door in Red’s House 1F, then Red’s House, Blue’s House, and Oak’s Lab entrances in Pallet Town. Please include the named map and a screenshot or short clip if a profile needs coordinate tuning.
 
-[View the source repository](https://github.com/inmento/FireRed-Kanto-Visual-Importer) or [download the latest release](https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/tag/v0.2.0).
+[View the source repository](https://github.com/inmento/FireRed-Kanto-Visual-Importer) or [download the latest release](https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/tag/v0.2.1).
