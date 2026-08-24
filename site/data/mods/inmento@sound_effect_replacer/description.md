@@ -9,3 +9,7 @@ Sound Effect Replacer 0.3.1 accepts every audio extension decoded by the LÖVE 1
 Download the latest `sound_effect_replacer-<version>.zip` from the [release page](https://github.com/inmento/Sound-Effect-Replacer/releases). In Gen1Recomp, open **MODS**, choose **Import mod .zip**, import the archive, and enable the mod.
 
 The simple asset-folder workflow was inspired by [Easy Custom Music](https://github.com/ty-mcdk/easy-custom-music) by **ty-mcdk**, who explicitly permitted using its code as a base. This project is **AI assisted**, not AI created.
+
+## Crystal runtime support
+
+Version 0.5.0 validates Crystal routing through the existing assets/Gen 2 replacement tree. The custom-audio discovery, validation, diagnostics, and in-game warning model are unchanged.

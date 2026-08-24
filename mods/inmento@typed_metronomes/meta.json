@@ -2,18 +2,35 @@
   "id": "typed_metronomes",
   "title": "Typed Metronomes",
   "author": "inmento",
-  "summary": "New numbered TM-style moves that call a random move from the learner’s matching type pool, sold at Pewter and Violet Type Academy shelves.",
-  "version": "0.1.0",
-  "categories": ["GAMEPLAY", "CONTENT"],
-  "tags": ["tms", "moves", "metronome", "battle", "shops", "gen1", "gen2", "types"],
+  "summary": "Numbered TM-style moves that call a random move from the learner’s matching type pool, sold through Type Academy shelves in Pewter and Violet Marts for Red, Blue, Yellow, Gold, Silver, and Crystal.",
+  "version": "0.2.0",
+  "categories": [
+    "GAMEPLAY",
+    "CONTENT"
+  ],
+  "tags": [
+    "tms",
+    "moves",
+    "metronome",
+    "battle",
+    "shops",
+    "gen1",
+    "gen2",
+    "crystal"
+  ],
   "repo": "https://github.com/inmento/Typed-Metronomes",
   "github": "inmento/Typed-Metronomes",
   "automatic_version_check": true,
   "api": 2,
-  "game_version": ">=0.2.19 <2.0.0",
-  "games": ["gen1", "gen2"],
+  "game_version": ">=0.2.24 <2.0.0",
+  "games": [
+    "gen1",
+    "gen2"
+  ],
   "profile": "content",
   "affects_link": true,
-  "permissions": ["engine_internals"],
+  "permissions": [
+    "engine_internals"
+  ],
   "license": "MIT"
 }

@@ -2,8 +2,8 @@
   "id": "shedinja",
   "title": "Shedinja",
   "author": "inmento",
-  "summary": "Shedinja #292 for R/B/Y, Gold, and Silver, with Wonder Guard, a Gen 2 rift reward and held-item route gate, Electric Tera Orb, Air Balloon, credited art, and an optional compatibility bridge.",
-  "version": "0.3.6",
+  "summary": "Shedinja #292 for R/B/Y, Gold, Silver, and Crystal: 1 HP, scoped Wonder Guard, Gen 2 route gate, Electric Tera Orb, Air Balloon, credited art, and optional bridges.",
+  "version": "0.4.0",
   "categories": [
     "GAMEPLAY",
     "CONTENT"
@@ -12,15 +12,15 @@
     "shedinja",
     "wonder guard",
     "kanto",
-    "johto",
-    "gold",
-    "animated sprites"
+    "animated sprites",
+    "gen2",
+    "crystal"
   ],
   "repo": "https://github.com/inmento/Shedinja",
   "github": "inmento/Shedinja",
   "automatic_version_check": true,
   "api": 2,
-  "game_version": ">=0.2.3 <1.0.0",
+  "game_version": ">=0.2.24 <1.0.0",
   "games": [
     "gen1",
     "gen2"

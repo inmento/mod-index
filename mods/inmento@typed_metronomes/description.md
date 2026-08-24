@@ -26,3 +26,7 @@ Download the latest installer from the [Typed Metronomes release page](https://g
 ## Compatibility
 
 Typed Metronomes does not require other mods. It reads the active move and species data when constructing its type pools and TM eligibility, allowing compatible move additions, type edits, and added species to participate. Since it adds moves, items, and battle behavior, players in a link session should use the same enabled-mod set and version.
+
+## Crystal runtime support
+
+Version 0.2.0 validates Crystal through the shared Gen 2 typed-move, TM, Pack, Curse, and Type Academy route. No move pools or gameplay rules were changed for this compatibility release.

@@ -20,3 +20,7 @@ Download the latest ZIP from the [release page](https://github.com/inmento/Gold-
 ## Compatibility
 
 Gold/Silver Case Style does not require other mods and is designed to coexist with gameplay, encounter, sprite, audio, and save-data mods. A separate text, translation, or font mod that also replaces the shared font encoder may determine the final presentation order, so test that combination if you use one.
+
+## Crystal runtime support
+
+Version 0.2.0 adds native Crystal coverage through the shared Gen 2 formatter and changes the player-facing presentation to Gen 2 Case Style. Gold and Silver behavior remains unchanged; player-entered names are never recased.

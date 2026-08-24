@@ -28,3 +28,7 @@ Inventory QoL does not need other mods. It uses the standard bag-add path for it
 **Inventory QoL 0.1.1 explicitly supports [Useful Bag](https://github.com/ShaneMcGovernIE/useful-bag).** Useful Bag is optional and remains the Gen 1 base screen when both are enabled, retaining its pockets, left/right cycling, sorting, PC behavior, and battle-aware selection. Inventory QoL decorates that same screen with its three-digit quantities, session-only cursor memory, and field-only `USE MANY` behavior.
 
 Other mods that replace the same complete Bag or Pack screen IDs still require explicit compatibility testing unless they compose with the existing factory in the same way.
+
+## Crystal runtime support
+
+Version 0.2.0 validates the existing shared Gen 2 PackMenu path against the official Crystal runtime. It retains the mod’s existing Gen 1 and Gen 2 features, including Useful Bag layout compatibility.

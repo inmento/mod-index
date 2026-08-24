@@ -15,3 +15,7 @@ Download the newest `item_randomizer-<version>.zip` from the [release page](http
 ## Compatibility
 
 The mod targets API 2 and supports Gen 1 and Gold. It uses the engine’s active game version to keep the Gen 1 and Gold option paths separate.
+
+## Crystal runtime support
+
+Version 1.1.0 adds native Crystal validation for the standard Gen 2 map and Mart data shape. Its compact player-facing settings now say GEN2 or G2; the established gold_* option keys and saved mappings remain unchanged for compatibility.

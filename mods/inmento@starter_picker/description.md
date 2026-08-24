@@ -15,3 +15,7 @@ Download the newest `starter_picker-<version>.zip` from the [release page](https
 ## Compatibility
 
 Starter Picker targets API 2 and supports Gen 1 and Gold. It uses the engine’s active game version to select the appropriate Oak’s Lab or Elm’s Lab branch before registering generation-specific behavior. It declares the `engine_internals` permission for its compatible UI and starter-flow integrations.
+
+## Crystal runtime support
+
+Version 1.1.0 adds a source-verified Crystal Elm Lab profile. Crystal uses its distinct three starter script and prompt keys while Gold and Silver retain their shared profile; all three Gen 2 harnesses pass.

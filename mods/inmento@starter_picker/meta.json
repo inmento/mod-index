@@ -2,17 +2,33 @@
   "id": "starter_picker",
   "title": "Starter Picker",
   "author": "inmento",
-  "summary": "Choose Gen 1 and Gold starters by ball position, sync supported Randomizer assignments, apply weakness-aware rival picks, use mobile-safe Gold labels, and optionally integrate with Shedinja.",
-  "version": "1.0.13",
-  "categories": ["GAMEPLAY", "QOL"],
-  "tags": ["starters", "oak lab", "elm lab", "dvs", "gold", "randomizer compatibility"],
+  "summary": "Choose Gen 1 and Gen 2 starters in Gold, Silver, and Crystal; retain rival counter-picks, selection UI, held-item themes, and optional starter-only features.",
+  "version": "1.1.0",
+  "categories": [
+    "GAMEPLAY",
+    "QOL"
+  ],
+  "tags": [
+    "starters",
+    "oak lab",
+    "elm lab",
+    "dvs",
+    "randomizer compatibility",
+    "gen2",
+    "crystal"
+  ],
   "repo": "https://github.com/inmento/Starter-Picker",
   "github": "inmento/Starter-Picker",
   "automatic_version_check": true,
   "api": 2,
-  "game_version": ">=0.1.99",
-  "games": ["gen1", "gen2"],
+  "game_version": ">=0.2.24",
+  "games": [
+    "gen1",
+    "gen2"
+  ],
   "profile": "content",
   "affects_link": false,
-  "permissions": ["engine_internals"]
+  "permissions": [
+    "engine_internals"
+  ]
 }

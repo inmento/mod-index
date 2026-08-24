@@ -29,3 +29,7 @@ Shedinja 0.3.0 corrects the package and manifest ID from the misspelled **`shedn
 The Gen 1 sprites are adaptations of **“G1SP 0292 – Shedinja”** by **BouncingPiplup**, under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). The Gold front animation and back sprite are adapted from **“GSC Shedinja”** by **nuukiie** (Nuuk), used for non-commercial purposes with credit under the artist’s stated terms. See the repository’s `CREDITS.md` for complete source links and adaptation details.
 
 [View the source repository](https://github.com/inmento/Shedinja) or [download the current release](https://github.com/inmento/Shedinja/releases/latest).
+
+## Crystal runtime support
+
+Version 0.4.0 adds native Crystal core support: species data, palettes, icon, animation, Pokédex entry, 1-HP repair, battle items, Wonder Guard, and route gate. Crystal’s optional Elm rift reward is intentionally deferred until its enclosing live story-script context is confirmed; Gold and Silver retain that reward.
