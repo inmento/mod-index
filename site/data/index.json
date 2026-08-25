@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-24T22:51:44.778Z",
-  "count": 12,
+  "generated_at": "2026-08-25T02:37:49.461Z",
+  "count": 13,
   "categories": [
     "GAMEPLAY",
     "CONTENT",
@@ -125,7 +125,7 @@
         }
       },
       "update_check": "ok",
-      "downloads": 2,
+      "downloads": 4,
       "first_release": "2026-08-22",
       "last_release": "2026-08-24",
       "downloadURL": "https://github.com/inmento/Gold-Silver-Case-Style/releases/download/v0.2.0/Gold-Silver-Case-Style-0.2.0.zip"
@@ -169,16 +169,16 @@
         "prerelease": false,
         "published_at": "2026-08-20T23:52:45Z",
         "published": "2026-08-20",
-        "downloads": 53,
+        "downloads": 54,
         "zip": {
           "name": "gym_leader_shuffle-1.0.9.zip",
           "url": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.9/gym_leader_shuffle-1.0.9.zip",
           "size": 18370,
-          "downloadCount": 53
+          "downloadCount": 54
         }
       },
       "update_check": "ok",
-      "downloads": 131,
+      "downloads": 132,
       "first_release": "2026-08-14",
       "last_release": "2026-08-20",
       "downloadURL": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.9/gym_leader_shuffle-1.0.9.zip"
@@ -236,7 +236,7 @@
         }
       },
       "update_check": "ok",
-      "downloads": 5,
+      "downloads": 6,
       "first_release": "2026-08-21",
       "last_release": "2026-08-24",
       "downloadURL": "https://github.com/inmento/Inventory-QoL/releases/download/v0.2.0/inventory_qol-0.2.0.zip"
@@ -283,16 +283,16 @@
         "prerelease": false,
         "published_at": "2026-08-24T22:45:32Z",
         "published": "2026-08-24",
-        "downloads": 0,
+        "downloads": 5,
         "zip": {
           "name": "item_randomizer-1.1.0.zip",
           "url": "https://github.com/inmento/Item-Randomizer/releases/download/1.1.0/item_randomizer-1.1.0.zip",
           "size": 19271,
-          "downloadCount": 0
+          "downloadCount": 5
         }
       },
       "update_check": "ok",
-      "downloads": 99,
+      "downloads": 108,
       "first_release": "2026-08-14",
       "last_release": "2026-08-24",
       "downloadURL": "https://github.com/inmento/Item-Randomizer/releases/download/1.1.0/item_randomizer-1.1.0.zip"
@@ -456,16 +456,16 @@
         "prerelease": false,
         "published_at": "2026-08-24T22:45:33Z",
         "published": "2026-08-24",
-        "downloads": 0,
+        "downloads": 6,
         "zip": {
           "name": "shedinja-0.4.0.zip",
           "url": "https://github.com/inmento/Shedinja/releases/download/v0.4.0/shedinja-0.4.0.zip",
           "size": 83511,
-          "downloadCount": 0
+          "downloadCount": 6
         }
       },
       "update_check": "ok",
-      "downloads": 59,
+      "downloads": 67,
       "first_release": "2026-08-18",
       "last_release": "2026-08-24",
       "downloadURL": "https://github.com/inmento/Shedinja/releases/download/v0.4.0/shedinja-0.4.0.zip"
@@ -516,16 +516,16 @@
         "prerelease": false,
         "published_at": "2026-08-24T22:45:35Z",
         "published": "2026-08-24",
-        "downloads": 0,
+        "downloads": 5,
         "zip": {
           "name": "shedinja-compatibility-bridge-0.2.0.zip",
           "url": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.2.0/shedinja-compatibility-bridge-0.2.0.zip",
           "size": 6903,
-          "downloadCount": 0
+          "downloadCount": 5
         }
       },
       "update_check": "ok",
-      "downloads": 35,
+      "downloads": 41,
       "first_release": "2026-08-19",
       "last_release": "2026-08-24",
       "downloadURL": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.2.0/shedinja-compatibility-bridge-0.2.0.zip"
@@ -573,16 +573,16 @@
         "prerelease": false,
         "published_at": "2026-08-24T22:45:37Z",
         "published": "2026-08-24",
-        "downloads": 0,
+        "downloads": 4,
         "zip": {
           "name": "sound_effect_replacer-0.5.0.zip",
           "url": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/v0.5.0/sound_effect_replacer-0.5.0.zip",
           "size": 765916,
-          "downloadCount": 0
+          "downloadCount": 4
         }
       },
       "update_check": "ok",
-      "downloads": 46,
+      "downloads": 52,
       "first_release": "2026-08-18",
       "last_release": "2026-08-24",
       "downloadURL": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/v0.5.0/sound_effect_replacer-0.5.0.zip"
@@ -630,19 +630,73 @@
         "prerelease": false,
         "published_at": "2026-08-24T22:45:39Z",
         "published": "2026-08-24",
-        "downloads": 0,
+        "downloads": 9,
         "zip": {
           "name": "starter_picker-1.1.0.zip",
           "url": "https://github.com/inmento/Starter-Picker/releases/download/1.1.0/starter_picker-1.1.0.zip",
           "size": 21788,
+          "downloadCount": 9
+        }
+      },
+      "update_check": "ok",
+      "downloads": 310,
+      "first_release": "2026-08-14",
+      "last_release": "2026-08-24",
+      "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.1.0/starter_picker-1.1.0.zip"
+    },
+    {
+      "folder": "inmento@texture_pack_templates",
+      "id": "texture_pack_templates",
+      "title": "Texture Pack Templates",
+      "author": "inmento",
+      "summary": "Asset-free texture-pack templates for Red, Blue, Yellow, Gold, Silver, and Crystal. Add creator-owned or licensed PNG overrides while the game falls back safely for every missing file.",
+      "version": "0.1.0",
+      "categories": [
+        "ART",
+        "OTHER"
+      ],
+      "tags": [
+        "texture packs",
+        "art",
+        "overrides",
+        "tilesets",
+        "sprites",
+        "crystal",
+        "gen1",
+        "gen2"
+      ],
+      "repo": "https://github.com/inmento/Texture-Pack-Templates",
+      "github": "inmento/Texture-Pack-Templates",
+      "automatic_version_check": true,
+      "api": 2,
+      "game_version": ">=0.2.24",
+      "games": [
+        "all"
+      ],
+      "profile": "content",
+      "affects_link": false,
+      "thumbnail": null,
+      "description_url": "data/mods/inmento@texture_pack_templates/description.md",
+      "latest": {
+        "version": "0.1.0",
+        "tag": "v0.1.0",
+        "name": "Texture Pack Templates 0.1.0",
+        "prerelease": false,
+        "published_at": "2026-08-25T02:32:15Z",
+        "published": "2026-08-25",
+        "downloads": 0,
+        "zip": {
+          "name": "blue-texture-pack-template-0.1.0.zip",
+          "url": "https://github.com/inmento/Texture-Pack-Templates/releases/download/v0.1.0/blue-texture-pack-template-0.1.0.zip",
+          "size": 3429,
           "downloadCount": 0
         }
       },
       "update_check": "ok",
-      "downloads": 295,
-      "first_release": "2026-08-14",
-      "last_release": "2026-08-24",
-      "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.1.0/starter_picker-1.1.0.zip"
+      "downloads": 0,
+      "first_release": "2026-08-25",
+      "last_release": "2026-08-25",
+      "downloadURL": "https://github.com/inmento/Texture-Pack-Templates/releases/download/v0.1.0/blue-texture-pack-template-0.1.0.zip"
     },
     {
       "folder": "inmento@typed_metronomes",
@@ -698,7 +752,7 @@
         }
       },
       "update_check": "ok",
-      "downloads": 2,
+      "downloads": 3,
       "first_release": "2026-08-22",
       "last_release": "2026-08-24",
       "downloadURL": "https://github.com/inmento/Typed-Metronomes/releases/download/v0.2.0/Typed-Metronomes-v0.2.0.zip"

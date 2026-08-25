@@ -1,0 +1,17 @@
+{
+  "id": "texture_pack_templates",
+  "title": "Texture Pack Templates",
+  "author": "inmento",
+  "summary": "Asset-free texture-pack templates for Red, Blue, Yellow, Gold, Silver, and Crystal. Add creator-owned or licensed PNG overrides while the game falls back safely for every missing file.",
+  "version": "0.1.0",
+  "categories": ["ART", "OTHER"],
+  "tags": ["texture packs", "art", "overrides", "tilesets", "sprites", "crystal", "gen1", "gen2"],
+  "repo": "https://github.com/inmento/Texture-Pack-Templates",
+  "github": "inmento/Texture-Pack-Templates",
+  "automatic_version_check": true,
+  "api": 2,
+  "game_version": ">=0.2.24",
+  "games": ["all"],
+  "profile": "content",
+  "affects_link": false
+}
