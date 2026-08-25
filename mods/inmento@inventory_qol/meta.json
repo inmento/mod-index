@@ -3,7 +3,7 @@
   "title": "Inventory QoL",
   "author": "inmento",
   "summary": "999-stack Bag and Gen 2 Pack QoL for Gold, Silver, and Crystal: three-digit counts, cursor memory, cap-aware MAX use, and Useful Bag layout compatibility.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "categories": [
     "QOL",
     "UI"
@@ -22,7 +22,7 @@
   "github": "inmento/Inventory-QoL",
   "automatic_version_check": true,
   "api": 2,
-  "game_version": ">=0.2.24",
+  "game_version": ">=0.2.18",
   "games": [
     "gen1",
     "gen2"

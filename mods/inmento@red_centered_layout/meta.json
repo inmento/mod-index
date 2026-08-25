@@ -3,16 +3,33 @@
   "title": "Red & Yellow Centered Layout",
   "author": "inmento",
   "summary": "Centers the standard Red and Yellow overworld player framing; Red also receives a corrected native title-caption alignment with no save or gameplay changes.",
-  "version": "0.1.2",
-  "categories": ["UI", "QOL"],
-  "tags": ["red", "yellow", "title-screen", "camera", "player", "centering", "layout", "visual"],
+  "version": "0.1.3",
+  "categories": [
+    "UI",
+    "QOL"
+  ],
+  "tags": [
+    "red",
+    "yellow",
+    "title-screen",
+    "camera",
+    "player",
+    "centering",
+    "layout",
+    "visual"
+  ],
   "repo": "https://github.com/inmento/Red-Centered-Layout",
   "github": "inmento/Red-Centered-Layout",
   "automatic_version_check": true,
   "api": 2,
-  "game_version": ">=0.2.19",
-  "games": ["red", "yellow"],
+  "game_version": ">=0.2.18",
+  "games": [
+    "red",
+    "yellow"
+  ],
   "profile": "content",
   "affects_link": false,
-  "permissions": ["engine_internals"]
+  "permissions": [
+    "engine_internals"
+  ]
 }

@@ -3,7 +3,7 @@
   "title": "Sound Effect Replacer",
   "author": "inmento",
   "summary": "Generation-specific multi-file sound-effect playlists for named effects, moves, evolution audio, optional cries, and Yellow voice clips in Red, Blue, Yellow, Gold, Silver, and Crystal.",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "categories": [
     "AUDIO",
     "QOL"
@@ -21,7 +21,7 @@
   "github": "inmento/Sound-Effect-Replacer",
   "automatic_version_check": true,
   "api": 2,
-  "game_version": ">=0.2.24",
+  "game_version": ">=0.2.18",
   "games": [
     "gen1",
     "gen2"

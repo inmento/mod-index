@@ -3,7 +3,7 @@
   "title": "Starter Picker",
   "author": "inmento",
   "summary": "Choose Gen 1 and Gen 2 starters in Gold, Silver, and Crystal; retain rival counter-picks, selection UI, held-item themes, and optional starter-only features.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "categories": [
     "GAMEPLAY",
     "QOL"
@@ -21,7 +21,7 @@
   "github": "inmento/Starter-Picker",
   "automatic_version_check": true,
   "api": 2,
-  "game_version": ">=0.2.24",
+  "game_version": ">=0.2.18",
   "games": [
     "gen1",
     "gen2"

@@ -3,7 +3,7 @@
   "title": "Gold/Silver Case Style",
   "author": "inmento",
   "summary": "Presentation-only sentence-style casing for engine-authored text in Gold, Silver, and Crystal, while preserving player-entered names.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "categories": [
     "QOL",
     "UI"
@@ -21,7 +21,7 @@
   "github": "inmento/Gold-Silver-Case-Style",
   "automatic_version_check": true,
   "api": 2,
-  "game_version": ">=0.2.24",
+  "game_version": ">=0.2.18",
   "games": [
     "gen2"
   ],

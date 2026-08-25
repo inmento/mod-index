@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-25T02:51:57.684Z",
+  "generated_at": "2026-08-25T03:43:48.831Z",
   "count": 14,
   "categories": [
     "GAMEPLAY",
@@ -23,7 +23,7 @@
       "title": "FireRed Kanto Visual Importer",
       "author": "inmento",
       "summary": "Player-local FireRed v1.0 visual importer with isolated generated profile atlases and four-cell collision/warp preservation for Pallet Town and Red’s House 1F.",
-      "version": "0.2.4",
+      "version": "0.2.5",
       "categories": [
         "ART",
         "CONTENT"
@@ -42,7 +42,7 @@
       "github": "inmento/FireRed-Kanto-Visual-Importer",
       "automatic_version_check": true,
       "api": 2,
-      "game_version": ">=0.2.3 <1.0.0",
+      "game_version": ">=0.2.18 <1.0.0",
       "games": [
         "gen1"
       ],
@@ -54,33 +54,33 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@FIRERED_KANTO_VISUALS/description.md",
       "latest": {
-        "version": "0.2.4",
-        "tag": "v0.2.4",
-        "name": "FireRed Kanto Visual Importer v0.2.4",
+        "version": "0.2.5",
+        "tag": "v0.2.5",
+        "name": "v0.2.5 — Gen1Recomp 0.2.18 compatibility",
         "prerelease": false,
-        "published_at": "2026-08-23T02:42:49Z",
-        "published": "2026-08-23",
-        "downloads": 1,
+        "published_at": "2026-08-25T03:39:09Z",
+        "published": "2026-08-25",
+        "downloads": 0,
         "zip": {
-          "name": "FIRERED_KANTO_VISUALS-0.2.4.zip",
-          "url": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.2.4/FIRERED_KANTO_VISUALS-0.2.4.zip",
+          "name": "FIRERED_KANTO_VISUALS-0.2.5.zip",
+          "url": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.2.5/FIRERED_KANTO_VISUALS-0.2.5.zip",
           "size": 28419,
-          "downloadCount": 1
+          "downloadCount": 0
         }
       },
       "update_check": "ok",
       "downloads": 11,
       "first_release": "2026-08-20",
-      "last_release": "2026-08-23",
-      "downloadURL": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.2.4/FIRERED_KANTO_VISUALS-0.2.4.zip"
+      "last_release": "2026-08-25",
+      "downloadURL": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.2.5/FIRERED_KANTO_VISUALS-0.2.5.zip"
     },
     {
       "folder": "inmento@FIRERED_TILESET_SHEET_PROTOTYPE",
       "id": "FIRERED_TILESET_SHEET_PROTOTYPE",
       "title": "FireRed Tilesheet Importer Prototype",
       "author": "inmento",
-      "summary": "Experimental, player-local FireRed v1.0 sheet importer with an enforced evidence-backed 8×8 target-slot ledger; only one verified Red grass slot is active.",
-      "version": "0.1.0-prototype.2",
+      "summary": "Experimental, player-local FireRed v1.0 sheet importer with an enforced evidence-backed 8×8 target-slot ledger; it activates only verified Red grass and compatible Red’s House floor slots.",
+      "version": "0.1.0-prototype.4",
       "categories": [
         "ART",
         "TOOL"
@@ -97,7 +97,7 @@
       "github": "inmento/FireRed-Tilesheet-Importer",
       "automatic_version_check": true,
       "api": 2,
-      "game_version": ">=0.2.24",
+      "game_version": ">=0.2.18",
       "games": [
         "red"
       ],
@@ -115,25 +115,25 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@FIRERED_TILESET_SHEET_PROTOTYPE/description.md",
       "latest": {
-        "version": "0.1.0-prototype.2",
-        "tag": "v0.1.0-prototype.2",
-        "name": "FireRed Tilesheet Importer Prototype 0.1.0-prototype.2",
+        "version": "0.1.0-prototype.4",
+        "tag": "v0.1.0-prototype.4",
+        "name": "v0.1.0-prototype.4 — compatible-only tilesheet proof",
         "prerelease": true,
-        "published_at": "2026-08-25T02:48:13Z",
+        "published_at": "2026-08-25T03:41:20Z",
         "published": "2026-08-25",
         "downloads": 0,
         "zip": {
-          "name": "FIRERED_TILESET_SHEET_PROTOTYPE-0.1.0-prototype.2.zip",
-          "url": "https://github.com/inmento/FireRed-Tilesheet-Importer/releases/download/v0.1.0-prototype.2/FIRERED_TILESET_SHEET_PROTOTYPE-0.1.0-prototype.2.zip",
-          "size": 19085,
+          "name": "FIRERED_TILESET_SHEET_PROTOTYPE-0.1.0-prototype.4.zip",
+          "url": "https://github.com/inmento/FireRed-Tilesheet-Importer/releases/download/v0.1.0-prototype.4/FIRERED_TILESET_SHEET_PROTOTYPE-0.1.0-prototype.4.zip",
+          "size": 20383,
           "downloadCount": 0
         }
       },
       "update_check": "ok",
-      "downloads": 0,
+      "downloads": 2,
       "first_release": "2026-08-24",
       "last_release": "2026-08-25",
-      "downloadURL": "https://github.com/inmento/FireRed-Tilesheet-Importer/releases/download/v0.1.0-prototype.2/FIRERED_TILESET_SHEET_PROTOTYPE-0.1.0-prototype.2.zip"
+      "downloadURL": "https://github.com/inmento/FireRed-Tilesheet-Importer/releases/download/v0.1.0-prototype.4/FIRERED_TILESET_SHEET_PROTOTYPE-0.1.0-prototype.4.zip"
     },
     {
       "folder": "inmento@gold_silver_case_style",
@@ -141,7 +141,7 @@
       "title": "Gold/Silver Case Style",
       "author": "inmento",
       "summary": "Presentation-only sentence-style casing for engine-authored text in Gold, Silver, and Crystal, while preserving player-entered names.",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "categories": [
         "QOL",
         "UI"
@@ -159,7 +159,7 @@
       "github": "inmento/Gold-Silver-Case-Style",
       "automatic_version_check": true,
       "api": 2,
-      "game_version": ">=0.2.24",
+      "game_version": ">=0.2.18",
       "games": [
         "gen2"
       ],
@@ -171,25 +171,25 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@gold_silver_case_style/description.md",
       "latest": {
-        "version": "0.2.0",
-        "tag": "v0.2.0",
-        "name": "Gen 2 Case Style v0.2.0",
+        "version": "0.2.1",
+        "tag": "v0.2.1",
+        "name": "v0.2.1 — Gen1Recomp 0.2.18 compatibility",
         "prerelease": false,
-        "published_at": "2026-08-24T22:45:27Z",
-        "published": "2026-08-24",
-        "downloads": 1,
+        "published_at": "2026-08-25T03:39:11Z",
+        "published": "2026-08-25",
+        "downloads": 0,
         "zip": {
-          "name": "Gold-Silver-Case-Style-0.2.0.zip",
-          "url": "https://github.com/inmento/Gold-Silver-Case-Style/releases/download/v0.2.0/Gold-Silver-Case-Style-0.2.0.zip",
-          "size": 10027,
-          "downloadCount": 1
+          "name": "Gold-Silver-Case-Style-0.2.1.zip",
+          "url": "https://github.com/inmento/Gold-Silver-Case-Style/releases/download/v0.2.1/Gold-Silver-Case-Style-0.2.1.zip",
+          "size": 10030,
+          "downloadCount": 0
         }
       },
       "update_check": "ok",
-      "downloads": 5,
+      "downloads": 7,
       "first_release": "2026-08-22",
-      "last_release": "2026-08-24",
-      "downloadURL": "https://github.com/inmento/Gold-Silver-Case-Style/releases/download/v0.2.0/Gold-Silver-Case-Style-0.2.0.zip"
+      "last_release": "2026-08-25",
+      "downloadURL": "https://github.com/inmento/Gold-Silver-Case-Style/releases/download/v0.2.1/Gold-Silver-Case-Style-0.2.1.zip"
     },
     {
       "folder": "inmento@gym_leader_shuffle",
@@ -197,7 +197,7 @@
       "title": "Gym Leader Shuffle",
       "author": "inmento",
       "summary": "Standalone Kanto and Johto Gym Leader Shuffle with optional Crystal 251 detection; no randomizer or starter mod is required, and each physical gym keeps its badge, rewards, and intended level curve.",
-      "version": "1.0.8",
+      "version": "1.0.10",
       "categories": [
         "GAMEPLAY"
       ],
@@ -211,7 +211,7 @@
       "github": "inmento/Gym-Leader-Shuffle",
       "automatic_version_check": true,
       "api": 2,
-      "game_version": ">=0.1.99",
+      "game_version": ">=0.2.18",
       "games": [
         "gen1",
         "gen2"
@@ -224,25 +224,25 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@gym_leader_shuffle/description.md",
       "latest": {
-        "version": "1.0.9",
-        "tag": "1.0.9",
-        "name": "Gym Leader Shuffle 1.0.9",
+        "version": "1.0.10",
+        "tag": "1.0.10",
+        "name": "1.0.10 — Gen1Recomp 0.2.18 compatibility",
         "prerelease": false,
-        "published_at": "2026-08-20T23:52:45Z",
-        "published": "2026-08-20",
-        "downloads": 54,
+        "published_at": "2026-08-25T03:39:12Z",
+        "published": "2026-08-25",
+        "downloads": 0,
         "zip": {
-          "name": "gym_leader_shuffle-1.0.9.zip",
-          "url": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.9/gym_leader_shuffle-1.0.9.zip",
-          "size": 18370,
-          "downloadCount": 54
+          "name": "gym_leader_shuffle-1.0.10.zip",
+          "url": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.10/gym_leader_shuffle-1.0.10.zip",
+          "size": 18446,
+          "downloadCount": 0
         }
       },
       "update_check": "ok",
       "downloads": 132,
       "first_release": "2026-08-14",
-      "last_release": "2026-08-20",
-      "downloadURL": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.9/gym_leader_shuffle-1.0.9.zip"
+      "last_release": "2026-08-25",
+      "downloadURL": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.10/gym_leader_shuffle-1.0.10.zip"
     },
     {
       "folder": "inmento@inventory_qol",
@@ -250,7 +250,7 @@
       "title": "Inventory QoL",
       "author": "inmento",
       "summary": "999-stack Bag and Gen 2 Pack QoL for Gold, Silver, and Crystal: three-digit counts, cursor memory, cap-aware MAX use, and Useful Bag layout compatibility.",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "categories": [
         "QOL",
         "UI"
@@ -269,7 +269,7 @@
       "github": "inmento/Inventory-QoL",
       "automatic_version_check": true,
       "api": 2,
-      "game_version": ">=0.2.24",
+      "game_version": ">=0.2.18",
       "games": [
         "gen1",
         "gen2"
@@ -282,25 +282,25 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@inventory_qol/description.md",
       "latest": {
-        "version": "0.2.0",
-        "tag": "v0.2.0",
-        "name": "Inventory QoL 0.2.0",
+        "version": "0.2.1",
+        "tag": "v0.2.1",
+        "name": "v0.2.1 — Gen1Recomp 0.2.18 compatibility",
         "prerelease": false,
-        "published_at": "2026-08-24T22:45:29Z",
-        "published": "2026-08-24",
+        "published_at": "2026-08-25T03:39:14Z",
+        "published": "2026-08-25",
         "downloads": 0,
         "zip": {
-          "name": "inventory_qol-0.2.0.zip",
-          "url": "https://github.com/inmento/Inventory-QoL/releases/download/v0.2.0/inventory_qol-0.2.0.zip",
-          "size": 25950,
+          "name": "inventory_qol-0.2.1.zip",
+          "url": "https://github.com/inmento/Inventory-QoL/releases/download/v0.2.1/inventory_qol-0.2.1.zip",
+          "size": 25951,
           "downloadCount": 0
         }
       },
       "update_check": "ok",
       "downloads": 6,
       "first_release": "2026-08-21",
-      "last_release": "2026-08-24",
-      "downloadURL": "https://github.com/inmento/Inventory-QoL/releases/download/v0.2.0/inventory_qol-0.2.0.zip"
+      "last_release": "2026-08-25",
+      "downloadURL": "https://github.com/inmento/Inventory-QoL/releases/download/v0.2.1/inventory_qol-0.2.1.zip"
     },
     {
       "folder": "inmento@item_randomizer",
@@ -308,7 +308,7 @@
       "title": "Item Randomizer",
       "author": "inmento",
       "summary": "Persistent safe item randomization for map pickups, hidden finds, shops, berries, gifts, eligible held items, and protected New Game PC items in Gen 1, Gold, Silver, and Crystal.",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "categories": [
         "GAMEPLAY",
         "QOL"
@@ -325,7 +325,7 @@
       "github": "inmento/Item-Randomizer",
       "automatic_version_check": true,
       "api": 2,
-      "game_version": ">=0.2.24 <2.0.0",
+      "game_version": ">=0.2.18 <2.0.0",
       "games": [
         "gen1",
         "gen2"
@@ -338,25 +338,25 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@item_randomizer/description.md",
       "latest": {
-        "version": "1.1.0",
-        "tag": "1.1.0",
-        "name": "Item Randomizer 1.1.0",
+        "version": "1.1.1",
+        "tag": "1.1.1",
+        "name": "1.1.1 — Gen1Recomp 0.2.18 compatibility",
         "prerelease": false,
-        "published_at": "2026-08-24T22:45:32Z",
-        "published": "2026-08-24",
-        "downloads": 6,
+        "published_at": "2026-08-25T03:39:16Z",
+        "published": "2026-08-25",
+        "downloads": 0,
         "zip": {
-          "name": "item_randomizer-1.1.0.zip",
-          "url": "https://github.com/inmento/Item-Randomizer/releases/download/1.1.0/item_randomizer-1.1.0.zip",
-          "size": 19271,
-          "downloadCount": 6
+          "name": "item_randomizer-1.1.1.zip",
+          "url": "https://github.com/inmento/Item-Randomizer/releases/download/1.1.1/item_randomizer-1.1.1.zip",
+          "size": 19276,
+          "downloadCount": 0
         }
       },
       "update_check": "ok",
       "downloads": 109,
       "first_release": "2026-08-14",
-      "last_release": "2026-08-24",
-      "downloadURL": "https://github.com/inmento/Item-Randomizer/releases/download/1.1.0/item_randomizer-1.1.0.zip"
+      "last_release": "2026-08-25",
+      "downloadURL": "https://github.com/inmento/Item-Randomizer/releases/download/1.1.1/item_randomizer-1.1.1.zip"
     },
     {
       "folder": "inmento@randomized_gym_challenge",
@@ -364,7 +364,7 @@
       "title": "Randomized Gym Challenge",
       "author": "inmento",
       "summary": "Configurable gym-battle generator with early Gen 1 opt-in and automatic post-Pokédex start, trainer sighting, HP-only continuation, Route 23 handoff, and Gold two-league progression.",
-      "version": "1.1.9",
+      "version": "1.1.11",
       "categories": [
         "GAMEPLAY",
         "BALANCE"
@@ -381,7 +381,7 @@
       "github": "inmento/Randomized-Gym-Challenge",
       "automatic_version_check": true,
       "api": 2,
-      "game_version": ">=0.1.99",
+      "game_version": ">=0.2.18",
       "games": [
         "gen1",
         "gen2"
@@ -397,25 +397,25 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@randomized_gym_challenge/description.md",
       "latest": {
-        "version": "1.1.10",
-        "tag": "v1.1.10",
-        "name": "Randomized Gym Challenge 1.1.10",
+        "version": "1.1.11",
+        "tag": "v1.1.11",
+        "name": "v1.1.11 — Gen1Recomp 0.2.18 compatibility",
         "prerelease": false,
-        "published_at": "2026-08-20T23:56:56Z",
-        "published": "2026-08-20",
-        "downloads": 22,
+        "published_at": "2026-08-25T03:39:18Z",
+        "published": "2026-08-25",
+        "downloads": 0,
         "zip": {
-          "name": "randomized_gym_challenge-1.1.10.zip",
-          "url": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/v1.1.10/randomized_gym_challenge-1.1.10.zip",
-          "size": 46567,
-          "downloadCount": 22
+          "name": "randomized_gym_challenge-1.1.11.zip",
+          "url": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/v1.1.11/randomized_gym_challenge-1.1.11.zip",
+          "size": 46892,
+          "downloadCount": 0
         }
       },
       "update_check": "ok",
-      "downloads": 48,
+      "downloads": 49,
       "first_release": "2026-08-16",
-      "last_release": "2026-08-20",
-      "downloadURL": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/v1.1.10/randomized_gym_challenge-1.1.10.zip"
+      "last_release": "2026-08-25",
+      "downloadURL": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/v1.1.11/randomized_gym_challenge-1.1.11.zip"
     },
     {
       "folder": "inmento@red_centered_layout",
@@ -423,7 +423,7 @@
       "title": "Red & Yellow Centered Layout",
       "author": "inmento",
       "summary": "Centers the standard Red and Yellow overworld player framing; Red also receives a corrected native title-caption alignment with no save or gameplay changes.",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "categories": [
         "UI",
         "QOL"
@@ -442,7 +442,7 @@
       "github": "inmento/Red-Centered-Layout",
       "automatic_version_check": true,
       "api": 2,
-      "game_version": ">=0.2.19",
+      "game_version": ">=0.2.18",
       "games": [
         "red",
         "yellow"
@@ -455,25 +455,25 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@red_centered_layout/description.md",
       "latest": {
-        "version": "0.1.2",
-        "tag": "v0.1.2",
-        "name": "Red & Yellow Centered Layout v0.1.2",
+        "version": "0.1.3",
+        "tag": "v0.1.3",
+        "name": "v0.1.3 — Gen1Recomp 0.2.18 compatibility",
         "prerelease": false,
-        "published_at": "2026-08-22T18:45:38Z",
-        "published": "2026-08-22",
-        "downloads": 8,
+        "published_at": "2026-08-25T03:39:20Z",
+        "published": "2026-08-25",
+        "downloads": 0,
         "zip": {
-          "name": "Red-Centered-Layout-0.1.2.zip",
-          "url": "https://github.com/inmento/Red-Centered-Layout/releases/download/v0.1.2/Red-Centered-Layout-0.1.2.zip",
-          "size": 5897,
-          "downloadCount": 8
+          "name": "Red-Centered-Layout-0.1.3.zip",
+          "url": "https://github.com/inmento/Red-Centered-Layout/releases/download/v0.1.3/Red-Centered-Layout-0.1.3.zip",
+          "size": 5904,
+          "downloadCount": 0
         }
       },
       "update_check": "ok",
-      "downloads": 11,
+      "downloads": 12,
       "first_release": "2026-08-22",
-      "last_release": "2026-08-22",
-      "downloadURL": "https://github.com/inmento/Red-Centered-Layout/releases/download/v0.1.2/Red-Centered-Layout-0.1.2.zip"
+      "last_release": "2026-08-25",
+      "downloadURL": "https://github.com/inmento/Red-Centered-Layout/releases/download/v0.1.3/Red-Centered-Layout-0.1.3.zip"
     },
     {
       "folder": "inmento@shedinja",
@@ -481,7 +481,7 @@
       "title": "Shedinja",
       "author": "inmento",
       "summary": "Shedinja #292 for R/B/Y, Gold, Silver, and Crystal: 1 HP, scoped Wonder Guard, Gen 2 route gate, Electric Tera Orb, Air Balloon, credited art, and optional bridges.",
-      "version": "0.4.0",
+      "version": "0.4.1",
       "categories": [
         "GAMEPLAY",
         "CONTENT"
@@ -498,7 +498,7 @@
       "github": "inmento/Shedinja",
       "automatic_version_check": true,
       "api": 2,
-      "game_version": ">=0.2.24 <1.0.0",
+      "game_version": ">=0.2.18 <1.0.0",
       "games": [
         "gen1",
         "gen2"
@@ -511,25 +511,25 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@shedinja/description.md",
       "latest": {
-        "version": "0.4.0",
-        "tag": "v0.4.0",
-        "name": "Shedinja 0.4.0",
+        "version": "0.4.1",
+        "tag": "v0.4.1",
+        "name": "v0.4.1 — Gen1Recomp 0.2.18 compatibility",
         "prerelease": false,
-        "published_at": "2026-08-24T22:45:33Z",
-        "published": "2026-08-24",
-        "downloads": 6,
+        "published_at": "2026-08-25T03:39:23Z",
+        "published": "2026-08-25",
+        "downloads": 0,
         "zip": {
-          "name": "shedinja-0.4.0.zip",
-          "url": "https://github.com/inmento/Shedinja/releases/download/v0.4.0/shedinja-0.4.0.zip",
-          "size": 83511,
-          "downloadCount": 6
+          "name": "shedinja-0.4.1.zip",
+          "url": "https://github.com/inmento/Shedinja/releases/download/v0.4.1/shedinja-0.4.1.zip",
+          "size": 83513,
+          "downloadCount": 0
         }
       },
       "update_check": "ok",
       "downloads": 67,
       "first_release": "2026-08-18",
-      "last_release": "2026-08-24",
-      "downloadURL": "https://github.com/inmento/Shedinja/releases/download/v0.4.0/shedinja-0.4.0.zip"
+      "last_release": "2026-08-25",
+      "downloadURL": "https://github.com/inmento/Shedinja/releases/download/v0.4.1/shedinja-0.4.1.zip"
     },
     {
       "folder": "inmento@shedinja_expanded_bridge",
@@ -537,7 +537,7 @@
       "title": "Shedinja Compatibility Bridge",
       "author": "inmento",
       "summary": "Optional Shedinja compatibility bridge: #292 framework repair with Expanded Species in Gold, Silver, and Crystal, plus a separate Gen 1 Crystal 251 index-252 and runtime-metadata path for R/B/Y.",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "categories": [
         "CONTENT",
         "OTHER"
@@ -555,7 +555,7 @@
       "github": "inmento/Shedinja-Expanded-Bridge",
       "automatic_version_check": true,
       "api": 2,
-      "game_version": ">=0.2.24 <1.0.0",
+      "game_version": ">=0.2.18 <1.0.0",
       "games": [
         "gen1",
         "gen2"
@@ -571,25 +571,25 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@shedinja_expanded_bridge/description.md",
       "latest": {
-        "version": "0.2.0",
-        "tag": "0.2.0",
-        "name": "Shedinja Compatibility Bridge 0.2.0",
+        "version": "0.2.1",
+        "tag": "0.2.1",
+        "name": "0.2.1 — Gen1Recomp 0.2.18 compatibility",
         "prerelease": false,
-        "published_at": "2026-08-24T22:45:35Z",
-        "published": "2026-08-24",
-        "downloads": 5,
+        "published_at": "2026-08-25T03:39:21Z",
+        "published": "2026-08-25",
+        "downloads": 0,
         "zip": {
-          "name": "shedinja-compatibility-bridge-0.2.0.zip",
-          "url": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.2.0/shedinja-compatibility-bridge-0.2.0.zip",
-          "size": 6903,
-          "downloadCount": 5
+          "name": "shedinja-compatibility-bridge-0.2.1.zip",
+          "url": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.2.1/shedinja-compatibility-bridge-0.2.1.zip",
+          "size": 6908,
+          "downloadCount": 0
         }
       },
       "update_check": "ok",
       "downloads": 41,
       "first_release": "2026-08-19",
-      "last_release": "2026-08-24",
-      "downloadURL": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.2.0/shedinja-compatibility-bridge-0.2.0.zip"
+      "last_release": "2026-08-25",
+      "downloadURL": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.2.1/shedinja-compatibility-bridge-0.2.1.zip"
     },
     {
       "folder": "inmento@sound_effect_replacer",
@@ -597,7 +597,7 @@
       "title": "Sound Effect Replacer",
       "author": "inmento",
       "summary": "Generation-specific multi-file sound-effect playlists for named effects, moves, evolution audio, optional cries, and Yellow voice clips in Red, Blue, Yellow, Gold, Silver, and Crystal.",
-      "version": "0.5.0",
+      "version": "0.5.1",
       "categories": [
         "AUDIO",
         "QOL"
@@ -615,7 +615,7 @@
       "github": "inmento/Sound-Effect-Replacer",
       "automatic_version_check": true,
       "api": 2,
-      "game_version": ">=0.2.24",
+      "game_version": ">=0.2.18",
       "games": [
         "gen1",
         "gen2"
@@ -628,25 +628,25 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@sound_effect_replacer/description.md",
       "latest": {
-        "version": "0.5.0",
-        "tag": "v0.5.0",
-        "name": "Sound Effect Replacer 0.5.0",
+        "version": "0.5.1",
+        "tag": "v0.5.1",
+        "name": "v0.5.1 — Gen1Recomp 0.2.18 compatibility",
         "prerelease": false,
-        "published_at": "2026-08-24T22:45:37Z",
-        "published": "2026-08-24",
-        "downloads": 4,
+        "published_at": "2026-08-25T03:39:25Z",
+        "published": "2026-08-25",
+        "downloads": 0,
         "zip": {
-          "name": "sound_effect_replacer-0.5.0.zip",
-          "url": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/v0.5.0/sound_effect_replacer-0.5.0.zip",
-          "size": 765916,
-          "downloadCount": 4
+          "name": "sound_effect_replacer-0.5.1.zip",
+          "url": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/v0.5.1/sound_effect_replacer-0.5.1.zip",
+          "size": 765921,
+          "downloadCount": 0
         }
       },
       "update_check": "ok",
       "downloads": 52,
       "first_release": "2026-08-18",
-      "last_release": "2026-08-24",
-      "downloadURL": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/v0.5.0/sound_effect_replacer-0.5.0.zip"
+      "last_release": "2026-08-25",
+      "downloadURL": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/v0.5.1/sound_effect_replacer-0.5.1.zip"
     },
     {
       "folder": "inmento@starter_picker",
@@ -654,7 +654,7 @@
       "title": "Starter Picker",
       "author": "inmento",
       "summary": "Choose Gen 1 and Gen 2 starters in Gold, Silver, and Crystal; retain rival counter-picks, selection UI, held-item themes, and optional starter-only features.",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "categories": [
         "GAMEPLAY",
         "QOL"
@@ -672,7 +672,7 @@
       "github": "inmento/Starter-Picker",
       "automatic_version_check": true,
       "api": 2,
-      "game_version": ">=0.2.24",
+      "game_version": ">=0.2.18",
       "games": [
         "gen1",
         "gen2"
@@ -685,33 +685,33 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@starter_picker/description.md",
       "latest": {
-        "version": "1.1.0",
-        "tag": "1.1.0",
-        "name": "Starter Picker 1.1.0",
+        "version": "1.1.1",
+        "tag": "1.1.1",
+        "name": "1.1.1 — Gen1Recomp 0.2.18 compatibility",
         "prerelease": false,
-        "published_at": "2026-08-24T22:45:39Z",
-        "published": "2026-08-24",
-        "downloads": 10,
+        "published_at": "2026-08-25T03:39:26Z",
+        "published": "2026-08-25",
+        "downloads": 0,
         "zip": {
-          "name": "starter_picker-1.1.0.zip",
-          "url": "https://github.com/inmento/Starter-Picker/releases/download/1.1.0/starter_picker-1.1.0.zip",
-          "size": 21788,
-          "downloadCount": 10
+          "name": "starter_picker-1.1.1.zip",
+          "url": "https://github.com/inmento/Starter-Picker/releases/download/1.1.1/starter_picker-1.1.1.zip",
+          "size": 21792,
+          "downloadCount": 0
         }
       },
       "update_check": "ok",
-      "downloads": 311,
+      "downloads": 314,
       "first_release": "2026-08-14",
-      "last_release": "2026-08-24",
-      "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.1.0/starter_picker-1.1.0.zip"
+      "last_release": "2026-08-25",
+      "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.1.1/starter_picker-1.1.1.zip"
     },
     {
       "folder": "inmento@texture_pack_templates",
       "id": "texture_pack_templates",
       "title": "Texture Pack Templates",
       "author": "inmento",
-      "summary": "Asset-free texture-pack templates for Red, Blue, Yellow, Gold, Silver, and Crystal. Add creator-owned or licensed PNG overrides while the game falls back safely for every missing file.",
-      "version": "0.1.0",
+      "summary": "Asset-free visual override templates for all six editions, including title and intro paths. Red through Silver support >=0.2.18; Crystal requires >=0.2.24.",
+      "version": "0.2.0",
       "categories": [
         "ART",
         "OTHER"
@@ -739,17 +739,17 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@texture_pack_templates/description.md",
       "latest": {
-        "version": "0.1.0",
-        "tag": "v0.1.0",
-        "name": "Texture Pack Templates 0.1.0",
+        "version": "0.2.0",
+        "tag": "v0.2.0",
+        "name": "v0.2.0 — complete visual override templates",
         "prerelease": false,
-        "published_at": "2026-08-25T02:32:15Z",
+        "published_at": "2026-08-25T03:42:07Z",
         "published": "2026-08-25",
         "downloads": 0,
         "zip": {
-          "name": "blue-texture-pack-template-0.1.0.zip",
-          "url": "https://github.com/inmento/Texture-Pack-Templates/releases/download/v0.1.0/blue-texture-pack-template-0.1.0.zip",
-          "size": 3429,
+          "name": "blue-texture-pack-template-0.2.0.zip",
+          "url": "https://github.com/inmento/Texture-Pack-Templates/releases/download/v0.2.0/blue-texture-pack-template-0.2.0.zip",
+          "size": 4384,
           "downloadCount": 0
         }
       },
@@ -757,7 +757,7 @@
       "downloads": 0,
       "first_release": "2026-08-25",
       "last_release": "2026-08-25",
-      "downloadURL": "https://github.com/inmento/Texture-Pack-Templates/releases/download/v0.1.0/blue-texture-pack-template-0.1.0.zip"
+      "downloadURL": "https://github.com/inmento/Texture-Pack-Templates/releases/download/v0.2.0/blue-texture-pack-template-0.2.0.zip"
     },
     {
       "folder": "inmento@typed_metronomes",
@@ -765,7 +765,7 @@
       "title": "Typed Metronomes",
       "author": "inmento",
       "summary": "Numbered TM-style moves that call a random move from the learner’s matching type pool, sold through Type Academy shelves in Pewter and Violet Marts for Red, Blue, Yellow, Gold, Silver, and Crystal.",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "categories": [
         "GAMEPLAY",
         "CONTENT"
@@ -784,7 +784,7 @@
       "github": "inmento/Typed-Metronomes",
       "automatic_version_check": true,
       "api": 2,
-      "game_version": ">=0.2.24 <2.0.0",
+      "game_version": ">=0.2.18 <2.0.0",
       "games": [
         "gen1",
         "gen2"
@@ -798,25 +798,25 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@typed_metronomes/description.md",
       "latest": {
-        "version": "0.2.0",
-        "tag": "v0.2.0",
-        "name": "Typed Metronomes v0.2.0",
+        "version": "0.2.1",
+        "tag": "v0.2.1",
+        "name": "v0.2.1 — Gen1Recomp 0.2.18 compatibility",
         "prerelease": false,
-        "published_at": "2026-08-24T22:45:41Z",
-        "published": "2026-08-24",
+        "published_at": "2026-08-25T03:39:28Z",
+        "published": "2026-08-25",
         "downloads": 0,
         "zip": {
-          "name": "Typed-Metronomes-v0.2.0.zip",
-          "url": "https://github.com/inmento/Typed-Metronomes/releases/download/v0.2.0/Typed-Metronomes-v0.2.0.zip",
-          "size": 11016,
+          "name": "Typed-Metronomes-v0.2.1.zip",
+          "url": "https://github.com/inmento/Typed-Metronomes/releases/download/v0.2.1/Typed-Metronomes-v0.2.1.zip",
+          "size": 11021,
           "downloadCount": 0
         }
       },
       "update_check": "ok",
       "downloads": 3,
       "first_release": "2026-08-22",
-      "last_release": "2026-08-24",
-      "downloadURL": "https://github.com/inmento/Typed-Metronomes/releases/download/v0.2.0/Typed-Metronomes-v0.2.0.zip"
+      "last_release": "2026-08-25",
+      "downloadURL": "https://github.com/inmento/Typed-Metronomes/releases/download/v0.2.1/Typed-Metronomes-v0.2.1.zip"
     }
   ]
 }

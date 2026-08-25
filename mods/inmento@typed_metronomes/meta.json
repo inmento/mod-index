@@ -3,7 +3,7 @@
   "title": "Typed Metronomes",
   "author": "inmento",
   "summary": "Numbered TM-style moves that call a random move from the learner’s matching type pool, sold through Type Academy shelves in Pewter and Violet Marts for Red, Blue, Yellow, Gold, Silver, and Crystal.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "categories": [
     "GAMEPLAY",
     "CONTENT"
@@ -22,7 +22,7 @@
   "github": "inmento/Typed-Metronomes",
   "automatic_version_check": true,
   "api": 2,
-  "game_version": ">=0.2.24 <2.0.0",
+  "game_version": ">=0.2.18 <2.0.0",
   "games": [
     "gen1",
     "gen2"

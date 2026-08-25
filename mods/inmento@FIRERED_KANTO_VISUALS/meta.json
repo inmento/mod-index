@@ -3,7 +3,7 @@
   "title": "FireRed Kanto Visual Importer",
   "author": "inmento",
   "summary": "Player-local FireRed v1.0 visual importer with isolated generated profile atlases and four-cell collision/warp preservation for Pallet Town and Red’s House 1F.",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "categories": [
     "ART",
     "CONTENT"
@@ -22,7 +22,7 @@
   "github": "inmento/FireRed-Kanto-Visual-Importer",
   "automatic_version_check": true,
   "api": 2,
-  "game_version": ">=0.2.3 <1.0.0",
+  "game_version": ">=0.2.18 <1.0.0",
   "games": [
     "gen1"
   ],
