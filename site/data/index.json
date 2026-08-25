@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-25T04:32:59.244Z",
+  "generated_at": "2026-08-25T05:51:24.604Z",
   "count": 17,
   "categories": [
     "GAMEPLAY",
@@ -650,7 +650,7 @@
         }
       },
       "update_check": "ok",
-      "downloads": 68,
+      "downloads": 69,
       "first_release": "2026-08-18",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Shedinja/releases/download/v0.4.1/shedinja-0.4.1.zip"
@@ -710,7 +710,7 @@
         }
       },
       "update_check": "ok",
-      "downloads": 42,
+      "downloads": 43,
       "first_release": "2026-08-19",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.2.1/shedinja-compatibility-bridge-0.2.1.zip"
@@ -758,16 +758,16 @@
         "prerelease": false,
         "published_at": "2026-08-25T03:39:25Z",
         "published": "2026-08-25",
-        "downloads": 0,
+        "downloads": 1,
         "zip": {
           "name": "sound_effect_replacer-0.5.1.zip",
           "url": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/v0.5.1/sound_effect_replacer-0.5.1.zip",
           "size": 765921,
-          "downloadCount": 0
+          "downloadCount": 1
         }
       },
       "update_check": "ok",
-      "downloads": 53,
+      "downloads": 55,
       "first_release": "2026-08-18",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/v0.5.1/sound_effect_replacer-0.5.1.zip"
@@ -815,16 +815,16 @@
         "prerelease": false,
         "published_at": "2026-08-25T03:39:26Z",
         "published": "2026-08-25",
-        "downloads": 1,
+        "downloads": 3,
         "zip": {
           "name": "starter_picker-1.1.1.zip",
           "url": "https://github.com/inmento/Starter-Picker/releases/download/1.1.1/starter_picker-1.1.1.zip",
           "size": 21792,
-          "downloadCount": 1
+          "downloadCount": 3
         }
       },
       "update_check": "ok",
-      "downloads": 316,
+      "downloads": 320,
       "first_release": "2026-08-14",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.1.1/starter_picker-1.1.1.zip"
