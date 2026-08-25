@@ -1,0 +1,38 @@
+{
+  "id": "FIRERED_TILESET_SHEET_PROTOTYPE",
+  "title": "FireRed Tilesheet Importer Prototype",
+  "author": "inmento",
+  "summary": "Experimental, player-local FireRed v1.0 sheet importer with an enforced evidence-backed 8×8 target-slot ledger; only one verified Red grass slot is active.",
+  "version": "0.1.0-prototype.2",
+  "categories": [
+    "ART",
+    "TOOL"
+  ],
+  "tags": [
+    "firered",
+    "tilesheet",
+    "visual importer",
+    "red",
+    "experimental",
+    "player local"
+  ],
+  "repo": "https://github.com/inmento/FireRed-Tilesheet-Importer",
+  "github": "inmento/FireRed-Tilesheet-Importer",
+  "automatic_version_check": true,
+  "api": 2,
+  "game_version": ">=0.2.24",
+  "games": [
+    "red"
+  ],
+  "profile": "content",
+  "affects_link": false,
+  "experimental": true,
+  "permissions": [
+    "engine_internals"
+  ],
+  "conflicts": [
+    "FIRERED_KANTO_VISUALS",
+    "FIRERED_BROAD_OVERWORLD",
+    "FIRERED_FOLIAGE"
+  ]
+}
