@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-25T02:38:13.897Z",
-  "count": 13,
+  "generated_at": "2026-08-25T02:51:30.694Z",
+  "count": 14,
   "categories": [
     "GAMEPLAY",
     "CONTENT",
@@ -75,6 +75,67 @@
       "downloadURL": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.2.4/FIRERED_KANTO_VISUALS-0.2.4.zip"
     },
     {
+      "folder": "inmento@FIRERED_TILESET_SHEET_PROTOTYPE",
+      "id": "FIRERED_TILESET_SHEET_PROTOTYPE",
+      "title": "FireRed Tilesheet Importer Prototype",
+      "author": "inmento",
+      "summary": "Experimental, player-local FireRed v1.0 sheet importer with an enforced evidence-backed 8×8 target-slot ledger; only one verified Red grass slot is active.",
+      "version": "0.1.0-prototype.2",
+      "categories": [
+        "ART",
+        "TOOL"
+      ],
+      "tags": [
+        "firered",
+        "tilesheet",
+        "visual importer",
+        "red",
+        "experimental",
+        "player local"
+      ],
+      "repo": "https://github.com/inmento/FireRed-Tilesheet-Importer",
+      "github": "inmento/FireRed-Tilesheet-Importer",
+      "automatic_version_check": true,
+      "api": 2,
+      "game_version": ">=0.2.24",
+      "games": [
+        "red"
+      ],
+      "profile": "content",
+      "affects_link": false,
+      "experimental": true,
+      "permissions": [
+        "engine_internals"
+      ],
+      "conflicts": [
+        "FIRERED_KANTO_VISUALS",
+        "FIRERED_BROAD_OVERWORLD",
+        "FIRERED_FOLIAGE"
+      ],
+      "thumbnail": null,
+      "description_url": "data/mods/inmento@FIRERED_TILESET_SHEET_PROTOTYPE/description.md",
+      "latest": {
+        "version": "0.1.0-prototype.2",
+        "tag": "v0.1.0-prototype.2",
+        "name": "FireRed Tilesheet Importer Prototype 0.1.0-prototype.2",
+        "prerelease": true,
+        "published_at": "2026-08-25T02:48:13Z",
+        "published": "2026-08-25",
+        "downloads": 0,
+        "zip": {
+          "name": "FIRERED_TILESET_SHEET_PROTOTYPE-0.1.0-prototype.2.zip",
+          "url": "https://github.com/inmento/FireRed-Tilesheet-Importer/releases/download/v0.1.0-prototype.2/FIRERED_TILESET_SHEET_PROTOTYPE-0.1.0-prototype.2.zip",
+          "size": 19085,
+          "downloadCount": 0
+        }
+      },
+      "update_check": "ok",
+      "downloads": 0,
+      "first_release": "2026-08-24",
+      "last_release": "2026-08-25",
+      "downloadURL": "https://github.com/inmento/FireRed-Tilesheet-Importer/releases/download/v0.1.0-prototype.2/FIRERED_TILESET_SHEET_PROTOTYPE-0.1.0-prototype.2.zip"
+    },
+    {
       "folder": "inmento@gold_silver_case_style",
       "id": "gold_silver_case_style",
       "title": "Gold/Silver Case Style",
@@ -116,16 +177,16 @@
         "prerelease": false,
         "published_at": "2026-08-24T22:45:27Z",
         "published": "2026-08-24",
-        "downloads": 0,
+        "downloads": 1,
         "zip": {
           "name": "Gold-Silver-Case-Style-0.2.0.zip",
           "url": "https://github.com/inmento/Gold-Silver-Case-Style/releases/download/v0.2.0/Gold-Silver-Case-Style-0.2.0.zip",
           "size": 10027,
-          "downloadCount": 0
+          "downloadCount": 1
         }
       },
       "update_check": "ok",
-      "downloads": 4,
+      "downloads": 5,
       "first_release": "2026-08-22",
       "last_release": "2026-08-24",
       "downloadURL": "https://github.com/inmento/Gold-Silver-Case-Style/releases/download/v0.2.0/Gold-Silver-Case-Style-0.2.0.zip"
@@ -283,16 +344,16 @@
         "prerelease": false,
         "published_at": "2026-08-24T22:45:32Z",
         "published": "2026-08-24",
-        "downloads": 5,
+        "downloads": 6,
         "zip": {
           "name": "item_randomizer-1.1.0.zip",
           "url": "https://github.com/inmento/Item-Randomizer/releases/download/1.1.0/item_randomizer-1.1.0.zip",
           "size": 19271,
-          "downloadCount": 5
+          "downloadCount": 6
         }
       },
       "update_check": "ok",
-      "downloads": 108,
+      "downloads": 109,
       "first_release": "2026-08-14",
       "last_release": "2026-08-24",
       "downloadURL": "https://github.com/inmento/Item-Randomizer/releases/download/1.1.0/item_randomizer-1.1.0.zip"
@@ -630,16 +691,16 @@
         "prerelease": false,
         "published_at": "2026-08-24T22:45:39Z",
         "published": "2026-08-24",
-        "downloads": 9,
+        "downloads": 10,
         "zip": {
           "name": "starter_picker-1.1.0.zip",
           "url": "https://github.com/inmento/Starter-Picker/releases/download/1.1.0/starter_picker-1.1.0.zip",
           "size": 21788,
-          "downloadCount": 9
+          "downloadCount": 10
         }
       },
       "update_check": "ok",
-      "downloads": 310,
+      "downloads": 311,
       "first_release": "2026-08-14",
       "last_release": "2026-08-24",
       "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.1.0/starter_picker-1.1.0.zip"
