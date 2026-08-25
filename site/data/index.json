@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-25T05:51:24.604Z",
+  "generated_at": "2026-08-25T09:37:47.235Z",
   "count": 17,
   "categories": [
     "GAMEPLAY",
@@ -184,16 +184,16 @@
         "prerelease": false,
         "published_at": "2026-08-25T03:39:09Z",
         "published": "2026-08-25",
-        "downloads": 0,
+        "downloads": 1,
         "zip": {
           "name": "FIRERED_KANTO_VISUALS-0.2.5.zip",
           "url": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.2.5/FIRERED_KANTO_VISUALS-0.2.5.zip",
           "size": 28419,
-          "downloadCount": 0
+          "downloadCount": 1
         }
       },
       "update_check": "ok",
-      "downloads": 12,
+      "downloads": 13,
       "first_release": "2026-08-20",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.2.5/FIRERED_KANTO_VISUALS-0.2.5.zip"
@@ -354,16 +354,16 @@
         "prerelease": false,
         "published_at": "2026-08-25T03:39:12Z",
         "published": "2026-08-25",
-        "downloads": 0,
+        "downloads": 3,
         "zip": {
           "name": "gym_leader_shuffle-1.0.10.zip",
           "url": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.10/gym_leader_shuffle-1.0.10.zip",
           "size": 18446,
-          "downloadCount": 0
+          "downloadCount": 3
         }
       },
       "update_check": "ok",
-      "downloads": 133,
+      "downloads": 136,
       "first_release": "2026-08-14",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.10/gym_leader_shuffle-1.0.10.zip"
@@ -468,16 +468,16 @@
         "prerelease": false,
         "published_at": "2026-08-25T03:39:16Z",
         "published": "2026-08-25",
-        "downloads": 1,
+        "downloads": 6,
         "zip": {
           "name": "item_randomizer-1.1.1.zip",
           "url": "https://github.com/inmento/Item-Randomizer/releases/download/1.1.1/item_randomizer-1.1.1.zip",
           "size": 19276,
-          "downloadCount": 1
+          "downloadCount": 6
         }
       },
       "update_check": "ok",
-      "downloads": 111,
+      "downloads": 116,
       "first_release": "2026-08-14",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Item-Randomizer/releases/download/1.1.1/item_randomizer-1.1.1.zip"
@@ -527,16 +527,16 @@
         "prerelease": false,
         "published_at": "2026-08-25T03:39:18Z",
         "published": "2026-08-25",
-        "downloads": 0,
+        "downloads": 3,
         "zip": {
           "name": "randomized_gym_challenge-1.1.11.zip",
           "url": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/v1.1.11/randomized_gym_challenge-1.1.11.zip",
           "size": 46892,
-          "downloadCount": 0
+          "downloadCount": 3
         }
       },
       "update_check": "ok",
-      "downloads": 50,
+      "downloads": 53,
       "first_release": "2026-08-16",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/v1.1.11/randomized_gym_challenge-1.1.11.zip"
@@ -641,16 +641,16 @@
         "prerelease": false,
         "published_at": "2026-08-25T03:39:23Z",
         "published": "2026-08-25",
-        "downloads": 0,
+        "downloads": 4,
         "zip": {
           "name": "shedinja-0.4.1.zip",
           "url": "https://github.com/inmento/Shedinja/releases/download/v0.4.1/shedinja-0.4.1.zip",
           "size": 83513,
-          "downloadCount": 0
+          "downloadCount": 4
         }
       },
       "update_check": "ok",
-      "downloads": 69,
+      "downloads": 73,
       "first_release": "2026-08-18",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Shedinja/releases/download/v0.4.1/shedinja-0.4.1.zip"
@@ -701,16 +701,16 @@
         "prerelease": false,
         "published_at": "2026-08-25T03:39:21Z",
         "published": "2026-08-25",
-        "downloads": 0,
+        "downloads": 4,
         "zip": {
           "name": "shedinja-compatibility-bridge-0.2.1.zip",
           "url": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.2.1/shedinja-compatibility-bridge-0.2.1.zip",
           "size": 6908,
-          "downloadCount": 0
+          "downloadCount": 4
         }
       },
       "update_check": "ok",
-      "downloads": 43,
+      "downloads": 47,
       "first_release": "2026-08-19",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.2.1/shedinja-compatibility-bridge-0.2.1.zip"
@@ -758,16 +758,16 @@
         "prerelease": false,
         "published_at": "2026-08-25T03:39:25Z",
         "published": "2026-08-25",
-        "downloads": 1,
+        "downloads": 4,
         "zip": {
           "name": "sound_effect_replacer-0.5.1.zip",
           "url": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/v0.5.1/sound_effect_replacer-0.5.1.zip",
           "size": 765921,
-          "downloadCount": 1
+          "downloadCount": 4
         }
       },
       "update_check": "ok",
-      "downloads": 55,
+      "downloads": 58,
       "first_release": "2026-08-18",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/v0.5.1/sound_effect_replacer-0.5.1.zip"
@@ -777,8 +777,8 @@
       "id": "starter_picker",
       "title": "Starter Picker",
       "author": "inmento",
-      "summary": "Choose Gen 1 and Gen 2 starters in Gold, Silver, and Crystal; retain rival counter-picks, selection UI, held-item themes, and optional starter-only features.",
-      "version": "1.1.1",
+      "summary": "Choose Gen 1 and Gen 2 starters with an optional Better Menus-compatible selection UI, rival counter-picks, held-item themes, and starter-only features.",
+      "version": "1.1.2",
       "categories": [
         "GAMEPLAY",
         "QOL"
@@ -809,25 +809,25 @@
       "thumbnail": null,
       "description_url": "data/mods/inmento@starter_picker/description.md",
       "latest": {
-        "version": "1.1.1",
-        "tag": "1.1.1",
-        "name": "1.1.1 — Gen1Recomp 0.2.18 compatibility",
+        "version": "1.1.2",
+        "tag": "1.1.2",
+        "name": "Starter Picker 1.1.2 — Better Menus options compatibility",
         "prerelease": false,
-        "published_at": "2026-08-25T03:39:26Z",
+        "published_at": "2026-08-25T09:36:56Z",
         "published": "2026-08-25",
-        "downloads": 3,
+        "downloads": 0,
         "zip": {
-          "name": "starter_picker-1.1.1.zip",
-          "url": "https://github.com/inmento/Starter-Picker/releases/download/1.1.1/starter_picker-1.1.1.zip",
-          "size": 21792,
-          "downloadCount": 3
+          "name": "starter_picker-1.1.2.zip",
+          "url": "https://github.com/inmento/Starter-Picker/releases/download/1.1.2/starter_picker-1.1.2.zip",
+          "size": 22023,
+          "downloadCount": 0
         }
       },
       "update_check": "ok",
-      "downloads": 320,
+      "downloads": 326,
       "first_release": "2026-08-14",
       "last_release": "2026-08-25",
-      "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.1.1/starter_picker-1.1.1.zip"
+      "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.1.2/starter_picker-1.1.2.zip"
     },
     {
       "folder": "inmento@texture_pack_templates",
