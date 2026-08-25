@@ -1,0 +1,20 @@
+{
+  "id": "FIRERED_FOLIAGE",
+  "title": "FireRed Foliage Importer",
+  "author": "inmento",
+  "summary": "Experimental player-local FireRed v1.0 foliage visual importer for audited Red trees and encounter grass while leaving maps and gameplay unchanged.",
+  "version": "0.1.0-rc.2",
+  "categories": ["ART", "TOOL"],
+  "tags": ["firered", "foliage", "trees", "grass", "red", "experimental"],
+  "repo": "https://github.com/inmento/FireRed-Foliage-Importer",
+  "github": "inmento/FireRed-Foliage-Importer",
+  "automatic_version_check": true,
+  "api": 2,
+  "game_version": ">=0.2.18 <1.0.0",
+  "games": ["red"],
+  "profile": "overhaul",
+  "affects_link": false,
+  "experimental": true,
+  "permissions": ["engine_internals"],
+  "conflicts": ["FIRERED_KANTO_VISUALS"]
+}

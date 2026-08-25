@@ -1,0 +1,20 @@
+{
+  "id": "FIRERED_BROAD_OVERWORLD",
+  "title": "FireRed Broad Overworld Importer",
+  "author": "inmento",
+  "summary": "Experimental player-local FireRed v1.0 broad-overworld visual projection for Pokémon Red that preserves native map and gameplay semantics.",
+  "version": "0.1.0-rc.2",
+  "categories": ["ART", "TOOL"],
+  "tags": ["firered", "overworld", "tilesets", "red", "experimental", "player local"],
+  "repo": "https://github.com/inmento/FireRed-Broad-Overworld-Importer",
+  "github": "inmento/FireRed-Broad-Overworld-Importer",
+  "automatic_version_check": true,
+  "api": 2,
+  "game_version": ">=0.2.18 <1.0.0",
+  "games": ["red"],
+  "profile": "overhaul",
+  "affects_link": false,
+  "experimental": true,
+  "permissions": ["engine_internals"],
+  "conflicts": ["FIRERED_KANTO_VISUALS", "FIRERED_FOLIAGE"]
+}
