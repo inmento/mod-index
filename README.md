@@ -46,3 +46,7 @@ The index uses the public metadata schema and release-selection rules maintained
 ## Tooling credit
 
 The schema-compatible entry rules and feed-builder structure are adapted from the public [Gen 1 Recomp Mod Index](https://github.com/bryanthaboi/gen1recomp-mod-index), which is the canonical community index.
+
+## License
+
+Unless a file or third-party notice says otherwise, this repository's original source code, configuration, tests, and documentation are licensed under the [MIT License](LICENSE). Read [LICENSE_SCOPE.md](LICENSE_SCOPE.md) for attribution guidance and third-party, asset, user-supplied-source, and game-IP boundaries.
