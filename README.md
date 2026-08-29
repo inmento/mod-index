@@ -50,3 +50,23 @@ The schema-compatible entry rules and feed-builder structure are adapted from th
 ## License
 
 Unless a file or third-party notice says otherwise, this repository's original source code, configuration, tests, and documentation are licensed under the [MIT License](LICENSE). Read [LICENSE_SCOPE.md](LICENSE_SCOPE.md) for attribution guidance and third-party, asset, user-supplied-source, and game-IP boundaries.
+
+
+## Private Red+ custom-cart core entries
+
+The generated feed is the source of truth, and now includes these Red+ development components:
+
+| Mod ID | Repository | Current version |
+|---|---|---|
+| `red_plus_foundation` | [Red-Plus-Foundation](https://github.com/inmento/Red-Plus-Foundation) | `0.1.0-alpha.1` |
+| `red_plus_battle_core` | [Red-Plus-Battle-Core](https://github.com/inmento/Red-Plus-Battle-Core) | `0.1.0-alpha.1` |
+| `red_plus_ability_core` | [Red-Plus-Ability-Core](https://github.com/inmento/Red-Plus-Ability-Core) | `0.1.0-alpha.1` |
+| `red_plus_sprite_core` | [Red-Plus-Sprite-Core](https://github.com/inmento/Red-Plus-Sprite-Core) | `0.1.0-alpha.1` |
+| `red_plus_extended_species_core` | [Red-Plus-Extended-Species-Core](https://github.com/inmento/Red-Plus-Extended-Species-Core) | `0.1.0-alpha.1` |
+| `red_plus_evolution_obtainability_core` | [Red-Plus-Evolution-Obtainability-Core](https://github.com/inmento/Red-Plus-Evolution-Obtainability-Core) | `0.1.0-alpha.1` |
+| `red_plus_held_item_core` | [Red-Plus-Held-Item-Core](https://github.com/inmento/Red-Plus-Held-Item-Core) | `0.1.0-alpha.1` |
+| `red_plus_follower_core` | [Red-Plus-Follower-Core](https://github.com/inmento/Red-Plus-Follower-Core) | `0.1.0-alpha.1` |
+| `red_plus_scaling_core` | [Red-Plus-Scaling-Core](https://github.com/inmento/Red-Plus-Scaling-Core) | `0.1.0-alpha.1` |
+| `red_plus_randomization_core` | [Red-Plus-Randomization-Core](https://github.com/inmento/Red-Plus-Randomization-Core) | `0.1.0-alpha.2` |
+
+These are private experimental components for the separate [Red-Plus-Cart](https://github.com/inmento/Red-Plus-Cart) repository. They are intentionally labeled prerelease and Red-only.
