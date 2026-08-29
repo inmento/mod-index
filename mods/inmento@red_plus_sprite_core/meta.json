@@ -1,0 +1,29 @@
+{
+  "id": "red_plus_sprite_core",
+  "title": "Red+ Sprite Core",
+  "author": "inmento",
+  "summary": "Experimental Red species front/back battle-art mapping for the private Red+ stack.",
+  "version": "0.1.0-alpha.1",
+  "categories": [
+    "ART"
+  ],
+  "tags": [
+    "red",
+    "red-plus",
+    "private",
+    "experimental"
+  ],
+  "repo": "https://github.com/inmento/Red-Plus-Sprite-Core",
+  "github": "inmento/Red-Plus-Sprite-Core",
+  "automatic_version_check": true,
+  "api": 2,
+  "game_version": ">=0.2.25 <1.0.0",
+  "games": [
+    "red"
+  ],
+  "profile": "content",
+  "affects_link": true,
+  "permissions": [
+    "engine_internals"
+  ]
+}

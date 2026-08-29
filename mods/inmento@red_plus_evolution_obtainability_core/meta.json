@@ -1,0 +1,29 @@
+{
+  "id": "red_plus_evolution_obtainability_core",
+  "title": "Red+ Evolution & Obtainability Core",
+  "author": "inmento",
+  "summary": "Red evolution alternatives, trade alternatives, exclusives, and obtainability policy.",
+  "version": "0.1.0-alpha.1",
+  "categories": [
+    "GAMEPLAY"
+  ],
+  "tags": [
+    "red",
+    "red-plus",
+    "private",
+    "experimental"
+  ],
+  "repo": "https://github.com/inmento/Red-Plus-Evolution-Obtainability-Core",
+  "github": "inmento/Red-Plus-Evolution-Obtainability-Core",
+  "automatic_version_check": true,
+  "api": 2,
+  "game_version": ">=0.2.25 <1.0.0",
+  "games": [
+    "red"
+  ],
+  "profile": "content",
+  "affects_link": false,
+  "permissions": [
+    "engine_internals"
+  ]
+}

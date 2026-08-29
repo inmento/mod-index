@@ -1,0 +1,29 @@
+{
+  "id": "red_plus_battle_core",
+  "title": "Red+ Battle Core",
+  "author": "inmento",
+  "summary": "Red battle integration and battle-facing interfaces for the private Red+ stack.",
+  "version": "0.1.0-alpha.1",
+  "categories": [
+    "GAMEPLAY"
+  ],
+  "tags": [
+    "red",
+    "red-plus",
+    "private",
+    "experimental"
+  ],
+  "repo": "https://github.com/inmento/Red-Plus-Battle-Core",
+  "github": "inmento/Red-Plus-Battle-Core",
+  "automatic_version_check": true,
+  "api": 2,
+  "game_version": ">=0.2.25 <1.0.0",
+  "games": [
+    "red"
+  ],
+  "profile": "overhaul",
+  "affects_link": true,
+  "permissions": [
+    "engine_internals"
+  ]
+}

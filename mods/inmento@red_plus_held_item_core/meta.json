@@ -1,0 +1,29 @@
+{
+  "id": "red_plus_held_item_core",
+  "title": "Red+ Held Item Core",
+  "author": "inmento",
+  "summary": "Experimental Red held-item state and battle interaction layer.",
+  "version": "0.1.0-alpha.1",
+  "categories": [
+    "GAMEPLAY"
+  ],
+  "tags": [
+    "red",
+    "red-plus",
+    "private",
+    "experimental"
+  ],
+  "repo": "https://github.com/inmento/Red-Plus-Held-Item-Core",
+  "github": "inmento/Red-Plus-Held-Item-Core",
+  "automatic_version_check": true,
+  "api": 2,
+  "game_version": ">=0.2.25 <1.0.0",
+  "games": [
+    "red"
+  ],
+  "profile": "overhaul",
+  "affects_link": true,
+  "permissions": [
+    "engine_internals"
+  ]
+}

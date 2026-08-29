@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-26T05:53:47.097Z",
-  "count": 17,
+  "generated_at": "2026-08-29T16:44:41.013Z",
+  "count": 27,
   "categories": [
     "GAMEPLAY",
     "CONTENT",
@@ -55,8 +55,26 @@
       ],
       "thumbnail": null,
       "description_url": "data/mods/inmento@FIRERED_BATTLE_SPRITES/description.md",
-      "latest": null,
-      "update_check": "no installable release"
+      "latest": {
+        "version": "0.1.0-rc.3",
+        "tag": "v0.1.0-rc.3",
+        "name": "v0.1.0-rc.3 — Gen1Recomp 0.2.18 compatibility",
+        "prerelease": true,
+        "published_at": "2026-08-25T04:30:45Z",
+        "published": "2026-08-25",
+        "downloads": 0,
+        "zip": {
+          "name": "FIRERED_BATTLE_SPRITES-0.1.0-rc.3.zip",
+          "url": "https://github.com/inmento/FireRed-Battle-Sprite-Importer/releases/download/v0.1.0-rc.3/FIRERED_BATTLE_SPRITES-0.1.0-rc.3.zip",
+          "size": 20065,
+          "downloadCount": 0
+        }
+      },
+      "update_check": "ok",
+      "downloads": 1,
+      "first_release": "2026-08-23",
+      "last_release": "2026-08-25",
+      "downloadURL": "https://github.com/inmento/FireRed-Battle-Sprite-Importer/releases/download/v0.1.0-rc.3/FIRERED_BATTLE_SPRITES-0.1.0-rc.3.zip"
     },
     {
       "folder": "inmento@FIRERED_BROAD_OVERWORLD",
@@ -97,8 +115,26 @@
       ],
       "thumbnail": null,
       "description_url": "data/mods/inmento@FIRERED_BROAD_OVERWORLD/description.md",
-      "latest": null,
-      "update_check": "no installable release"
+      "latest": {
+        "version": "0.1.0-rc.2",
+        "tag": "v0.1.0-rc.2",
+        "name": "v0.1.0-rc.2 — Gen1Recomp 0.2.18 compatibility",
+        "prerelease": true,
+        "published_at": "2026-08-25T04:30:47Z",
+        "published": "2026-08-25",
+        "downloads": 0,
+        "zip": {
+          "name": "FIRERED_BROAD_OVERWORLD-0.1.0-rc.2.zip",
+          "url": "https://github.com/inmento/FireRed-Broad-Overworld-Importer/releases/download/v0.1.0-rc.2/FIRERED_BROAD_OVERWORLD-0.1.0-rc.2.zip",
+          "size": 13017,
+          "downloadCount": 0
+        }
+      },
+      "update_check": "ok",
+      "downloads": 1,
+      "first_release": "2026-08-23",
+      "last_release": "2026-08-25",
+      "downloadURL": "https://github.com/inmento/FireRed-Broad-Overworld-Importer/releases/download/v0.1.0-rc.2/FIRERED_BROAD_OVERWORLD-0.1.0-rc.2.zip"
     },
     {
       "folder": "inmento@FIRERED_FOLIAGE",
@@ -138,8 +174,26 @@
       ],
       "thumbnail": null,
       "description_url": "data/mods/inmento@FIRERED_FOLIAGE/description.md",
-      "latest": null,
-      "update_check": "no installable release"
+      "latest": {
+        "version": "0.1.0-rc.2",
+        "tag": "v0.1.0-rc.2",
+        "name": "v0.1.0-rc.2 — Gen1Recomp 0.2.18 compatibility",
+        "prerelease": true,
+        "published_at": "2026-08-25T04:30:49Z",
+        "published": "2026-08-25",
+        "downloads": 0,
+        "zip": {
+          "name": "FIRERED_FOLIAGE-0.1.0-rc.2.zip",
+          "url": "https://github.com/inmento/FireRed-Foliage-Importer/releases/download/v0.1.0-rc.2/FIRERED_FOLIAGE-0.1.0-rc.2.zip",
+          "size": 14572,
+          "downloadCount": 0
+        }
+      },
+      "update_check": "ok",
+      "downloads": 1,
+      "first_release": "2026-08-23",
+      "last_release": "2026-08-25",
+      "downloadURL": "https://github.com/inmento/FireRed-Foliage-Importer/releases/download/v0.1.0-rc.2/FIRERED_FOLIAGE-0.1.0-rc.2.zip"
     },
     {
       "folder": "inmento@FIRERED_KANTO_VISUALS",
@@ -184,16 +238,16 @@
         "prerelease": false,
         "published_at": "2026-08-25T03:39:09Z",
         "published": "2026-08-25",
-        "downloads": 2,
+        "downloads": 5,
         "zip": {
           "name": "FIRERED_KANTO_VISUALS-0.2.5.zip",
           "url": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.2.5/FIRERED_KANTO_VISUALS-0.2.5.zip",
           "size": 28419,
-          "downloadCount": 2
+          "downloadCount": 5
         }
       },
       "update_check": "ok",
-      "downloads": 14,
+      "downloads": 17,
       "first_release": "2026-08-20",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.2.5/FIRERED_KANTO_VISUALS-0.2.5.zip"
@@ -245,16 +299,16 @@
         "prerelease": true,
         "published_at": "2026-08-25T03:41:20Z",
         "published": "2026-08-25",
-        "downloads": 0,
+        "downloads": 1,
         "zip": {
           "name": "FIRERED_TILESET_SHEET_PROTOTYPE-0.1.0-prototype.4.zip",
           "url": "https://github.com/inmento/FireRed-Tilesheet-Importer/releases/download/v0.1.0-prototype.4/FIRERED_TILESET_SHEET_PROTOTYPE-0.1.0-prototype.4.zip",
           "size": 20383,
-          "downloadCount": 0
+          "downloadCount": 1
         }
       },
       "update_check": "ok",
-      "downloads": 3,
+      "downloads": 4,
       "first_release": "2026-08-24",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/FireRed-Tilesheet-Importer/releases/download/v0.1.0-prototype.4/FIRERED_TILESET_SHEET_PROTOTYPE-0.1.0-prototype.4.zip"
@@ -301,16 +355,16 @@
         "prerelease": false,
         "published_at": "2026-08-25T03:39:11Z",
         "published": "2026-08-25",
-        "downloads": 1,
+        "downloads": 4,
         "zip": {
           "name": "Gold-Silver-Case-Style-0.2.1.zip",
           "url": "https://github.com/inmento/Gold-Silver-Case-Style/releases/download/v0.2.1/Gold-Silver-Case-Style-0.2.1.zip",
           "size": 10030,
-          "downloadCount": 1
+          "downloadCount": 4
         }
       },
       "update_check": "ok",
-      "downloads": 8,
+      "downloads": 11,
       "first_release": "2026-08-22",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Gold-Silver-Case-Style/releases/download/v0.2.1/Gold-Silver-Case-Style-0.2.1.zip"
@@ -354,16 +408,16 @@
         "prerelease": false,
         "published_at": "2026-08-25T03:39:12Z",
         "published": "2026-08-25",
-        "downloads": 10,
+        "downloads": 29,
         "zip": {
           "name": "gym_leader_shuffle-1.0.10.zip",
           "url": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.10/gym_leader_shuffle-1.0.10.zip",
           "size": 18446,
-          "downloadCount": 10
+          "downloadCount": 29
         }
       },
       "update_check": "ok",
-      "downloads": 150,
+      "downloads": 181,
       "first_release": "2026-08-14",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.10/gym_leader_shuffle-1.0.10.zip"
@@ -412,16 +466,16 @@
         "prerelease": false,
         "published_at": "2026-08-25T03:39:14Z",
         "published": "2026-08-25",
-        "downloads": 0,
+        "downloads": 2,
         "zip": {
           "name": "inventory_qol-0.2.1.zip",
           "url": "https://github.com/inmento/Inventory-QoL/releases/download/v0.2.1/inventory_qol-0.2.1.zip",
           "size": 25951,
-          "downloadCount": 0
+          "downloadCount": 2
         }
       },
       "update_check": "ok",
-      "downloads": 7,
+      "downloads": 9,
       "first_release": "2026-08-21",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Inventory-QoL/releases/download/v0.2.1/inventory_qol-0.2.1.zip"
@@ -468,16 +522,16 @@
         "prerelease": false,
         "published_at": "2026-08-25T03:39:16Z",
         "published": "2026-08-25",
-        "downloads": 15,
+        "downloads": 25,
         "zip": {
           "name": "item_randomizer-1.1.1.zip",
           "url": "https://github.com/inmento/Item-Randomizer/releases/download/1.1.1/item_randomizer-1.1.1.zip",
           "size": 19276,
-          "downloadCount": 15
+          "downloadCount": 25
         }
       },
       "update_check": "ok",
-      "downloads": 130,
+      "downloads": 147,
       "first_release": "2026-08-14",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Item-Randomizer/releases/download/1.1.1/item_randomizer-1.1.1.zip"
@@ -527,16 +581,16 @@
         "prerelease": false,
         "published_at": "2026-08-25T03:39:18Z",
         "published": "2026-08-25",
-        "downloads": 10,
+        "downloads": 23,
         "zip": {
           "name": "randomized_gym_challenge-1.1.11.zip",
           "url": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/v1.1.11/randomized_gym_challenge-1.1.11.zip",
           "size": 46892,
-          "downloadCount": 10
+          "downloadCount": 23
         }
       },
       "update_check": "ok",
-      "downloads": 60,
+      "downloads": 74,
       "first_release": "2026-08-16",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/v1.1.11/randomized_gym_challenge-1.1.11.zip"
@@ -585,19 +639,539 @@
         "prerelease": false,
         "published_at": "2026-08-25T03:39:20Z",
         "published": "2026-08-25",
-        "downloads": 4,
+        "downloads": 13,
         "zip": {
           "name": "Red-Centered-Layout-0.1.3.zip",
           "url": "https://github.com/inmento/Red-Centered-Layout/releases/download/v0.1.3/Red-Centered-Layout-0.1.3.zip",
           "size": 5904,
-          "downloadCount": 4
+          "downloadCount": 13
         }
       },
       "update_check": "ok",
-      "downloads": 18,
+      "downloads": 27,
       "first_release": "2026-08-22",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Red-Centered-Layout/releases/download/v0.1.3/Red-Centered-Layout-0.1.3.zip"
+    },
+    {
+      "folder": "inmento@red_plus_ability_core",
+      "id": "red_plus_ability_core",
+      "title": "Red+ Ability Core",
+      "author": "inmento",
+      "summary": "Experimental Red battle ability framework for the private Red+ stack.",
+      "version": "0.1.0-alpha.1",
+      "categories": [
+        "GAMEPLAY"
+      ],
+      "tags": [
+        "red",
+        "red-plus",
+        "private",
+        "experimental"
+      ],
+      "repo": "https://github.com/inmento/Red-Plus-Ability-Core",
+      "github": "inmento/Red-Plus-Ability-Core",
+      "automatic_version_check": true,
+      "api": 2,
+      "game_version": ">=0.2.25 <1.0.0",
+      "games": [
+        "red"
+      ],
+      "profile": "overhaul",
+      "affects_link": true,
+      "permissions": [
+        "engine_internals"
+      ],
+      "thumbnail": null,
+      "description_url": "data/mods/inmento@red_plus_ability_core/description.md",
+      "latest": {
+        "version": "0.1.0-alpha.1",
+        "tag": "v0.1.0-alpha.1",
+        "name": "Red+ ability-core 0.1.0-alpha.1",
+        "prerelease": true,
+        "published_at": "2026-08-29T16:44:05Z",
+        "published": "2026-08-29",
+        "downloads": 0,
+        "zip": {
+          "name": "red-plus-ability-core_0.1.0-alpha.1.zip",
+          "url": "https://github.com/inmento/Red-Plus-Ability-Core/releases/download/v0.1.0-alpha.1/red-plus-ability-core_0.1.0-alpha.1.zip",
+          "size": 739614,
+          "downloadCount": 0
+        }
+      },
+      "update_check": "ok",
+      "downloads": 0,
+      "first_release": "2026-08-29",
+      "last_release": "2026-08-29",
+      "downloadURL": "https://github.com/inmento/Red-Plus-Ability-Core/releases/download/v0.1.0-alpha.1/red-plus-ability-core_0.1.0-alpha.1.zip"
+    },
+    {
+      "folder": "inmento@red_plus_battle_core",
+      "id": "red_plus_battle_core",
+      "title": "Red+ Battle Core",
+      "author": "inmento",
+      "summary": "Red battle integration and battle-facing interfaces for the private Red+ stack.",
+      "version": "0.1.0-alpha.1",
+      "categories": [
+        "GAMEPLAY"
+      ],
+      "tags": [
+        "red",
+        "red-plus",
+        "private",
+        "experimental"
+      ],
+      "repo": "https://github.com/inmento/Red-Plus-Battle-Core",
+      "github": "inmento/Red-Plus-Battle-Core",
+      "automatic_version_check": true,
+      "api": 2,
+      "game_version": ">=0.2.25 <1.0.0",
+      "games": [
+        "red"
+      ],
+      "profile": "overhaul",
+      "affects_link": true,
+      "permissions": [
+        "engine_internals"
+      ],
+      "thumbnail": null,
+      "description_url": "data/mods/inmento@red_plus_battle_core/description.md",
+      "latest": {
+        "version": "0.1.0-alpha.1",
+        "tag": "v0.1.0-alpha.1",
+        "name": "Red+ Battle Core 0.1.0-alpha.1",
+        "prerelease": true,
+        "published_at": "2026-08-25T20:44:37Z",
+        "published": "2026-08-25",
+        "downloads": 0,
+        "zip": {
+          "name": "red_plus_battle_core-0.1.0-alpha.1.zip",
+          "url": "https://github.com/inmento/Red-Plus-Battle-Core/releases/download/v0.1.0-alpha.1/red_plus_battle_core-0.1.0-alpha.1.zip",
+          "size": 11869,
+          "downloadCount": 0
+        }
+      },
+      "update_check": "ok",
+      "downloads": 0,
+      "first_release": "2026-08-25",
+      "last_release": "2026-08-25",
+      "downloadURL": "https://github.com/inmento/Red-Plus-Battle-Core/releases/download/v0.1.0-alpha.1/red_plus_battle_core-0.1.0-alpha.1.zip"
+    },
+    {
+      "folder": "inmento@red_plus_evolution_obtainability_core",
+      "id": "red_plus_evolution_obtainability_core",
+      "title": "Red+ Evolution & Obtainability Core",
+      "author": "inmento",
+      "summary": "Red evolution alternatives, trade alternatives, exclusives, and obtainability policy.",
+      "version": "0.1.0-alpha.1",
+      "categories": [
+        "GAMEPLAY"
+      ],
+      "tags": [
+        "red",
+        "red-plus",
+        "private",
+        "experimental"
+      ],
+      "repo": "https://github.com/inmento/Red-Plus-Evolution-Obtainability-Core",
+      "github": "inmento/Red-Plus-Evolution-Obtainability-Core",
+      "automatic_version_check": true,
+      "api": 2,
+      "game_version": ">=0.2.25 <1.0.0",
+      "games": [
+        "red"
+      ],
+      "profile": "content",
+      "affects_link": false,
+      "permissions": [
+        "engine_internals"
+      ],
+      "thumbnail": null,
+      "description_url": "data/mods/inmento@red_plus_evolution_obtainability_core/description.md",
+      "latest": {
+        "version": "0.1.0-alpha.1",
+        "tag": "v0.1.0-alpha.1",
+        "name": "Red+ evolution-obtainability-core 0.1.0-alpha.1",
+        "prerelease": true,
+        "published_at": "2026-08-29T16:44:11Z",
+        "published": "2026-08-29",
+        "downloads": 0,
+        "zip": {
+          "name": "red-plus-evolution-obtainability-core_0.1.0-alpha.1.zip",
+          "url": "https://github.com/inmento/Red-Plus-Evolution-Obtainability-Core/releases/download/v0.1.0-alpha.1/red-plus-evolution-obtainability-core_0.1.0-alpha.1.zip",
+          "size": 96150,
+          "downloadCount": 0
+        }
+      },
+      "update_check": "ok",
+      "downloads": 0,
+      "first_release": "2026-08-29",
+      "last_release": "2026-08-29",
+      "downloadURL": "https://github.com/inmento/Red-Plus-Evolution-Obtainability-Core/releases/download/v0.1.0-alpha.1/red-plus-evolution-obtainability-core_0.1.0-alpha.1.zip"
+    },
+    {
+      "folder": "inmento@red_plus_extended_species_core",
+      "id": "red_plus_extended_species_core",
+      "title": "Red+ Extended Species Core",
+      "author": "inmento",
+      "summary": "Experimental Red registration of the additional species layer for the private Red+ stack.",
+      "version": "0.1.0-alpha.1",
+      "categories": [
+        "GAMEPLAY"
+      ],
+      "tags": [
+        "red",
+        "red-plus",
+        "private",
+        "experimental"
+      ],
+      "repo": "https://github.com/inmento/Red-Plus-Extended-Species-Core",
+      "github": "inmento/Red-Plus-Extended-Species-Core",
+      "automatic_version_check": true,
+      "api": 2,
+      "game_version": ">=0.2.25 <1.0.0",
+      "games": [
+        "red"
+      ],
+      "profile": "overhaul",
+      "affects_link": true,
+      "permissions": [
+        "engine_internals"
+      ],
+      "thumbnail": null,
+      "description_url": "data/mods/inmento@red_plus_extended_species_core/description.md",
+      "latest": {
+        "version": "0.1.0-alpha.1",
+        "tag": "v0.1.0-alpha.1",
+        "name": "Red+ extended-species-core 0.1.0-alpha.1",
+        "prerelease": true,
+        "published_at": "2026-08-29T16:44:09Z",
+        "published": "2026-08-29",
+        "downloads": 0,
+        "zip": {
+          "name": "red-plus-extended-species-core_0.1.0-alpha.1.zip",
+          "url": "https://github.com/inmento/Red-Plus-Extended-Species-Core/releases/download/v0.1.0-alpha.1/red-plus-extended-species-core_0.1.0-alpha.1.zip",
+          "size": 81973,
+          "downloadCount": 0
+        }
+      },
+      "update_check": "ok",
+      "downloads": 0,
+      "first_release": "2026-08-29",
+      "last_release": "2026-08-29",
+      "downloadURL": "https://github.com/inmento/Red-Plus-Extended-Species-Core/releases/download/v0.1.0-alpha.1/red-plus-extended-species-core_0.1.0-alpha.1.zip"
+    },
+    {
+      "folder": "inmento@red_plus_follower_core",
+      "id": "red_plus_follower_core",
+      "title": "Red+ Follower Core",
+      "author": "inmento",
+      "summary": "Experimental Red follower Pokémon behavior layer.",
+      "version": "0.1.0-alpha.1",
+      "categories": [
+        "GAMEPLAY"
+      ],
+      "tags": [
+        "red",
+        "red-plus",
+        "private",
+        "experimental"
+      ],
+      "repo": "https://github.com/inmento/Red-Plus-Follower-Core",
+      "github": "inmento/Red-Plus-Follower-Core",
+      "automatic_version_check": true,
+      "api": 2,
+      "game_version": ">=0.2.25 <1.0.0",
+      "games": [
+        "red"
+      ],
+      "profile": "overhaul",
+      "affects_link": false,
+      "permissions": [
+        "engine_internals"
+      ],
+      "thumbnail": null,
+      "description_url": "data/mods/inmento@red_plus_follower_core/description.md",
+      "latest": {
+        "version": "0.1.0-alpha.1",
+        "tag": "v0.1.0-alpha.1",
+        "name": "Red+ follower-core 0.1.0-alpha.1",
+        "prerelease": true,
+        "published_at": "2026-08-29T16:44:16Z",
+        "published": "2026-08-29",
+        "downloads": 0,
+        "zip": {
+          "name": "red-plus-follower-core_0.1.0-alpha.1.zip",
+          "url": "https://github.com/inmento/Red-Plus-Follower-Core/releases/download/v0.1.0-alpha.1/red-plus-follower-core_0.1.0-alpha.1.zip",
+          "size": 26053,
+          "downloadCount": 0
+        }
+      },
+      "update_check": "ok",
+      "downloads": 0,
+      "first_release": "2026-08-29",
+      "last_release": "2026-08-29",
+      "downloadURL": "https://github.com/inmento/Red-Plus-Follower-Core/releases/download/v0.1.0-alpha.1/red-plus-follower-core_0.1.0-alpha.1.zip"
+    },
+    {
+      "folder": "inmento@red_plus_foundation",
+      "id": "red_plus_foundation",
+      "title": "Red+ Foundation",
+      "author": "inmento",
+      "summary": "Shared deterministic streams, save state, and provider contracts for the private Red+ stack.",
+      "version": "0.1.0-alpha.1",
+      "categories": [
+        "LIBRARY"
+      ],
+      "tags": [
+        "red",
+        "red-plus",
+        "private",
+        "experimental"
+      ],
+      "repo": "https://github.com/inmento/Red-Plus-Foundation",
+      "github": "inmento/Red-Plus-Foundation",
+      "automatic_version_check": true,
+      "api": 2,
+      "game_version": ">=0.2.25 <1.0.0",
+      "games": [
+        "red"
+      ],
+      "profile": "content",
+      "affects_link": true,
+      "permissions": [
+        "engine_internals"
+      ],
+      "thumbnail": null,
+      "description_url": "data/mods/inmento@red_plus_foundation/description.md",
+      "latest": {
+        "version": "0.1.0-alpha.1",
+        "tag": "v0.1.0-alpha.1",
+        "name": "Red+ Foundation 0.1.0-alpha.1",
+        "prerelease": true,
+        "published_at": "2026-08-25T20:23:24Z",
+        "published": "2026-08-25",
+        "downloads": 0,
+        "zip": {
+          "name": "red_plus_foundation-0.1.0-alpha.1.zip",
+          "url": "https://github.com/inmento/Red-Plus-Foundation/releases/download/v0.1.0-alpha.1/red_plus_foundation-0.1.0-alpha.1.zip",
+          "size": 8018,
+          "downloadCount": 0
+        }
+      },
+      "update_check": "ok",
+      "downloads": 0,
+      "first_release": "2026-08-25",
+      "last_release": "2026-08-25",
+      "downloadURL": "https://github.com/inmento/Red-Plus-Foundation/releases/download/v0.1.0-alpha.1/red_plus_foundation-0.1.0-alpha.1.zip"
+    },
+    {
+      "folder": "inmento@red_plus_held_item_core",
+      "id": "red_plus_held_item_core",
+      "title": "Red+ Held Item Core",
+      "author": "inmento",
+      "summary": "Experimental Red held-item state and battle interaction layer.",
+      "version": "0.1.0-alpha.1",
+      "categories": [
+        "GAMEPLAY"
+      ],
+      "tags": [
+        "red",
+        "red-plus",
+        "private",
+        "experimental"
+      ],
+      "repo": "https://github.com/inmento/Red-Plus-Held-Item-Core",
+      "github": "inmento/Red-Plus-Held-Item-Core",
+      "automatic_version_check": true,
+      "api": 2,
+      "game_version": ">=0.2.25 <1.0.0",
+      "games": [
+        "red"
+      ],
+      "profile": "overhaul",
+      "affects_link": true,
+      "permissions": [
+        "engine_internals"
+      ],
+      "thumbnail": null,
+      "description_url": "data/mods/inmento@red_plus_held_item_core/description.md",
+      "latest": {
+        "version": "0.1.0-alpha.1",
+        "tag": "v0.1.0-alpha.1",
+        "name": "Red+ held-item-core 0.1.0-alpha.1",
+        "prerelease": true,
+        "published_at": "2026-08-29T16:44:14Z",
+        "published": "2026-08-29",
+        "downloads": 0,
+        "zip": {
+          "name": "red-plus-held-item-core_0.1.0-alpha.1.zip",
+          "url": "https://github.com/inmento/Red-Plus-Held-Item-Core/releases/download/v0.1.0-alpha.1/red-plus-held-item-core_0.1.0-alpha.1.zip",
+          "size": 24939,
+          "downloadCount": 0
+        }
+      },
+      "update_check": "ok",
+      "downloads": 0,
+      "first_release": "2026-08-29",
+      "last_release": "2026-08-29",
+      "downloadURL": "https://github.com/inmento/Red-Plus-Held-Item-Core/releases/download/v0.1.0-alpha.1/red-plus-held-item-core_0.1.0-alpha.1.zip"
+    },
+    {
+      "folder": "inmento@red_plus_randomization_core",
+      "id": "red_plus_randomization_core",
+      "title": "Red+ Randomization Core",
+      "author": "inmento",
+      "summary": "Experimental Red randomization baseline with deterministic battle/world projections and fail-closed progression gates.",
+      "version": "0.1.0-alpha.2",
+      "categories": [
+        "GAMEPLAY"
+      ],
+      "tags": [
+        "red",
+        "red-plus",
+        "private",
+        "experimental"
+      ],
+      "repo": "https://github.com/inmento/Red-Plus-Randomization-Core",
+      "github": "inmento/Red-Plus-Randomization-Core",
+      "automatic_version_check": true,
+      "api": 2,
+      "game_version": ">=0.2.25 <1.0.0",
+      "games": [
+        "red"
+      ],
+      "profile": "overhaul",
+      "affects_link": false,
+      "permissions": [
+        "engine_internals"
+      ],
+      "thumbnail": null,
+      "description_url": "data/mods/inmento@red_plus_randomization_core/description.md",
+      "latest": {
+        "version": "0.1.0-alpha.2",
+        "tag": "v0.1.0-alpha.2",
+        "name": "Red+ randomization-core 0.1.0-alpha.2",
+        "prerelease": true,
+        "published_at": "2026-08-29T16:44:20Z",
+        "published": "2026-08-29",
+        "downloads": 0,
+        "zip": {
+          "name": "red-plus-randomization-core_0.1.0-alpha.2.zip",
+          "url": "https://github.com/inmento/Red-Plus-Randomization-Core/releases/download/v0.1.0-alpha.2/red-plus-randomization-core_0.1.0-alpha.2.zip",
+          "size": 180288,
+          "downloadCount": 0
+        }
+      },
+      "update_check": "ok",
+      "downloads": 0,
+      "first_release": "2026-08-29",
+      "last_release": "2026-08-29",
+      "downloadURL": "https://github.com/inmento/Red-Plus-Randomization-Core/releases/download/v0.1.0-alpha.2/red-plus-randomization-core_0.1.0-alpha.2.zip"
+    },
+    {
+      "folder": "inmento@red_plus_scaling_core",
+      "id": "red_plus_scaling_core",
+      "title": "Red+ Scaling Core",
+      "author": "inmento",
+      "summary": "Deterministic battle-local trainer and ordinary wild level scaling for Red.",
+      "version": "0.1.0-alpha.1",
+      "categories": [
+        "GAMEPLAY"
+      ],
+      "tags": [
+        "red",
+        "red-plus",
+        "private",
+        "experimental"
+      ],
+      "repo": "https://github.com/inmento/Red-Plus-Scaling-Core",
+      "github": "inmento/Red-Plus-Scaling-Core",
+      "automatic_version_check": true,
+      "api": 2,
+      "game_version": ">=0.2.25 <1.0.0",
+      "games": [
+        "red"
+      ],
+      "profile": "overhaul",
+      "affects_link": false,
+      "permissions": [
+        "engine_internals"
+      ],
+      "thumbnail": null,
+      "description_url": "data/mods/inmento@red_plus_scaling_core/description.md",
+      "latest": {
+        "version": "0.1.0-alpha.1",
+        "tag": "v0.1.0-alpha.1",
+        "name": "Red+ scaling-core 0.1.0-alpha.1",
+        "prerelease": true,
+        "published_at": "2026-08-29T16:44:18Z",
+        "published": "2026-08-29",
+        "downloads": 0,
+        "zip": {
+          "name": "red-plus-scaling-core_0.1.0-alpha.1.zip",
+          "url": "https://github.com/inmento/Red-Plus-Scaling-Core/releases/download/v0.1.0-alpha.1/red-plus-scaling-core_0.1.0-alpha.1.zip",
+          "size": 25544,
+          "downloadCount": 0
+        }
+      },
+      "update_check": "ok",
+      "downloads": 0,
+      "first_release": "2026-08-29",
+      "last_release": "2026-08-29",
+      "downloadURL": "https://github.com/inmento/Red-Plus-Scaling-Core/releases/download/v0.1.0-alpha.1/red-plus-scaling-core_0.1.0-alpha.1.zip"
+    },
+    {
+      "folder": "inmento@red_plus_sprite_core",
+      "id": "red_plus_sprite_core",
+      "title": "Red+ Sprite Core",
+      "author": "inmento",
+      "summary": "Experimental Red species front/back battle-art mapping for the private Red+ stack.",
+      "version": "0.1.0-alpha.1",
+      "categories": [
+        "ART"
+      ],
+      "tags": [
+        "red",
+        "red-plus",
+        "private",
+        "experimental"
+      ],
+      "repo": "https://github.com/inmento/Red-Plus-Sprite-Core",
+      "github": "inmento/Red-Plus-Sprite-Core",
+      "automatic_version_check": true,
+      "api": 2,
+      "game_version": ">=0.2.25 <1.0.0",
+      "games": [
+        "red"
+      ],
+      "profile": "content",
+      "affects_link": true,
+      "permissions": [
+        "engine_internals"
+      ],
+      "thumbnail": null,
+      "description_url": "data/mods/inmento@red_plus_sprite_core/description.md",
+      "latest": {
+        "version": "0.1.0-alpha.1",
+        "tag": "v0.1.0-alpha.1",
+        "name": "Red+ sprite-core 0.1.0-alpha.1",
+        "prerelease": true,
+        "published_at": "2026-08-29T16:44:07Z",
+        "published": "2026-08-29",
+        "downloads": 0,
+        "zip": {
+          "name": "red-plus-sprite-core_0.1.0-alpha.1.zip",
+          "url": "https://github.com/inmento/Red-Plus-Sprite-Core/releases/download/v0.1.0-alpha.1/red-plus-sprite-core_0.1.0-alpha.1.zip",
+          "size": 295415,
+          "downloadCount": 0
+        }
+      },
+      "update_check": "ok",
+      "downloads": 0,
+      "first_release": "2026-08-29",
+      "last_release": "2026-08-29",
+      "downloadURL": "https://github.com/inmento/Red-Plus-Sprite-Core/releases/download/v0.1.0-alpha.1/red-plus-sprite-core_0.1.0-alpha.1.zip"
     },
     {
       "folder": "inmento@shedinja",
@@ -641,16 +1215,16 @@
         "prerelease": false,
         "published_at": "2026-08-25T03:39:23Z",
         "published": "2026-08-25",
-        "downloads": 12,
+        "downloads": 27,
         "zip": {
           "name": "shedinja-0.4.1.zip",
           "url": "https://github.com/inmento/Shedinja/releases/download/v0.4.1/shedinja-0.4.1.zip",
           "size": 83513,
-          "downloadCount": 12
+          "downloadCount": 27
         }
       },
       "update_check": "ok",
-      "downloads": 100,
+      "downloads": 120,
       "first_release": "2026-08-18",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Shedinja/releases/download/v0.4.1/shedinja-0.4.1.zip"
@@ -701,16 +1275,16 @@
         "prerelease": false,
         "published_at": "2026-08-25T03:39:21Z",
         "published": "2026-08-25",
-        "downloads": 11,
+        "downloads": 23,
         "zip": {
           "name": "shedinja-compatibility-bridge-0.2.1.zip",
           "url": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.2.1/shedinja-compatibility-bridge-0.2.1.zip",
           "size": 6908,
-          "downloadCount": 11
+          "downloadCount": 23
         }
       },
       "update_check": "ok",
-      "downloads": 54,
+      "downloads": 66,
       "first_release": "2026-08-19",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.2.1/shedinja-compatibility-bridge-0.2.1.zip"
@@ -758,16 +1332,16 @@
         "prerelease": false,
         "published_at": "2026-08-25T03:39:25Z",
         "published": "2026-08-25",
-        "downloads": 14,
+        "downloads": 26,
         "zip": {
           "name": "sound_effect_replacer-0.5.1.zip",
           "url": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/v0.5.1/sound_effect_replacer-0.5.1.zip",
           "size": 765921,
-          "downloadCount": 14
+          "downloadCount": 26
         }
       },
       "update_check": "ok",
-      "downloads": 70,
+      "downloads": 83,
       "first_release": "2026-08-18",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/v0.5.1/sound_effect_replacer-0.5.1.zip"
@@ -815,16 +1389,16 @@
         "prerelease": false,
         "published_at": "2026-08-25T09:36:56Z",
         "published": "2026-08-25",
-        "downloads": 28,
+        "downloads": 80,
         "zip": {
           "name": "starter_picker-1.1.2.zip",
           "url": "https://github.com/inmento/Starter-Picker/releases/download/1.1.2/starter_picker-1.1.2.zip",
           "size": 22023,
-          "downloadCount": 28
+          "downloadCount": 80
         }
       },
       "update_check": "ok",
-      "downloads": 363,
+      "downloads": 425,
       "first_release": "2026-08-14",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.1.2/starter_picker-1.1.2.zip"
@@ -869,16 +1443,16 @@
         "prerelease": false,
         "published_at": "2026-08-25T03:42:07Z",
         "published": "2026-08-25",
-        "downloads": 0,
+        "downloads": 2,
         "zip": {
           "name": "blue-texture-pack-template-0.2.0.zip",
           "url": "https://github.com/inmento/Texture-Pack-Templates/releases/download/v0.2.0/blue-texture-pack-template-0.2.0.zip",
           "size": 4384,
-          "downloadCount": 0
+          "downloadCount": 2
         }
       },
       "update_check": "ok",
-      "downloads": 0,
+      "downloads": 2,
       "first_release": "2026-08-25",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Texture-Pack-Templates/releases/download/v0.2.0/blue-texture-pack-template-0.2.0.zip"
@@ -928,16 +1502,16 @@
         "prerelease": false,
         "published_at": "2026-08-25T03:39:28Z",
         "published": "2026-08-25",
-        "downloads": 1,
+        "downloads": 4,
         "zip": {
           "name": "Typed-Metronomes-v0.2.1.zip",
           "url": "https://github.com/inmento/Typed-Metronomes/releases/download/v0.2.1/Typed-Metronomes-v0.2.1.zip",
           "size": 11021,
-          "downloadCount": 1
+          "downloadCount": 4
         }
       },
       "update_check": "ok",
-      "downloads": 5,
+      "downloads": 8,
       "first_release": "2026-08-22",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Typed-Metronomes/releases/download/v0.2.1/Typed-Metronomes-v0.2.1.zip"

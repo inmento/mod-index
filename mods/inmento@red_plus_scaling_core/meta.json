@@ -1,0 +1,29 @@
+{
+  "id": "red_plus_scaling_core",
+  "title": "Red+ Scaling Core",
+  "author": "inmento",
+  "summary": "Deterministic battle-local trainer and ordinary wild level scaling for Red.",
+  "version": "0.1.0-alpha.1",
+  "categories": [
+    "GAMEPLAY"
+  ],
+  "tags": [
+    "red",
+    "red-plus",
+    "private",
+    "experimental"
+  ],
+  "repo": "https://github.com/inmento/Red-Plus-Scaling-Core",
+  "github": "inmento/Red-Plus-Scaling-Core",
+  "automatic_version_check": true,
+  "api": 2,
+  "game_version": ">=0.2.25 <1.0.0",
+  "games": [
+    "red"
+  ],
+  "profile": "overhaul",
+  "affects_link": false,
+  "permissions": [
+    "engine_internals"
+  ]
+}

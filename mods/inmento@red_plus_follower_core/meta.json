@@ -1,0 +1,29 @@
+{
+  "id": "red_plus_follower_core",
+  "title": "Red+ Follower Core",
+  "author": "inmento",
+  "summary": "Experimental Red follower Pokémon behavior layer.",
+  "version": "0.1.0-alpha.1",
+  "categories": [
+    "GAMEPLAY"
+  ],
+  "tags": [
+    "red",
+    "red-plus",
+    "private",
+    "experimental"
+  ],
+  "repo": "https://github.com/inmento/Red-Plus-Follower-Core",
+  "github": "inmento/Red-Plus-Follower-Core",
+  "automatic_version_check": true,
+  "api": 2,
+  "game_version": ">=0.2.25 <1.0.0",
+  "games": [
+    "red"
+  ],
+  "profile": "overhaul",
+  "affects_link": false,
+  "permissions": [
+    "engine_internals"
+  ]
+}

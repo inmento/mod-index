@@ -1,0 +1,29 @@
+{
+  "id": "red_plus_randomization_core",
+  "title": "Red+ Randomization Core",
+  "author": "inmento",
+  "summary": "Experimental Red randomization baseline with deterministic battle/world projections and fail-closed progression gates.",
+  "version": "0.1.0-alpha.2",
+  "categories": [
+    "GAMEPLAY"
+  ],
+  "tags": [
+    "red",
+    "red-plus",
+    "private",
+    "experimental"
+  ],
+  "repo": "https://github.com/inmento/Red-Plus-Randomization-Core",
+  "github": "inmento/Red-Plus-Randomization-Core",
+  "automatic_version_check": true,
+  "api": 2,
+  "game_version": ">=0.2.25 <1.0.0",
+  "games": [
+    "red"
+  ],
+  "profile": "overhaul",
+  "affects_link": false,
+  "permissions": [
+    "engine_internals"
+  ]
+}
