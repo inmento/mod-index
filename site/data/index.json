@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-29T16:49:08.154Z",
+  "generated_at": "2026-08-29T17:19:10.672Z",
   "count": 27,
   "categories": [
     "GAMEPLAY",
@@ -531,7 +531,7 @@
         }
       },
       "update_check": "ok",
-      "downloads": 147,
+      "downloads": 148,
       "first_release": "2026-08-14",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Item-Randomizer/releases/download/1.1.1/item_randomizer-1.1.1.zip"
@@ -745,16 +745,16 @@
         "prerelease": true,
         "published_at": "2026-08-25T20:44:37Z",
         "published": "2026-08-25",
-        "downloads": 0,
+        "downloads": 1,
         "zip": {
           "name": "red_plus_battle_core-0.1.0-alpha.1.zip",
           "url": "https://github.com/inmento/Red-Plus-Battle-Core/releases/download/v0.1.0-alpha.1/red_plus_battle_core-0.1.0-alpha.1.zip",
           "size": 11869,
-          "downloadCount": 0
+          "downloadCount": 1
         }
       },
       "update_check": "ok",
-      "downloads": 0,
+      "downloads": 1,
       "first_release": "2026-08-25",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Red-Plus-Battle-Core/releases/download/v0.1.0-alpha.1/red_plus_battle_core-0.1.0-alpha.1.zip"
@@ -765,7 +765,7 @@
       "title": "Red+ Evolution & Obtainability Core",
       "author": "inmento",
       "summary": "Red evolution alternatives, trade alternatives, exclusives, and obtainability policy.",
-      "version": "0.1.0-alpha.1",
+      "version": "0.1.0-alpha.2",
       "categories": [
         "GAMEPLAY"
       ],
@@ -788,21 +788,21 @@
       "permissions": [
         "engine_internals"
       ],
-      "fixed_release_tag": "v0.1.0-alpha.1",
+      "fixed_release_tag": "v0.1.0-alpha.2",
       "thumbnail": null,
       "description_url": "data/mods/inmento@red_plus_evolution_obtainability_core/description.md",
       "latest": {
-        "version": "0.1.0-alpha.1",
-        "tag": "v0.1.0-alpha.1",
-        "name": "Red+ evolution-obtainability-core 0.1.0-alpha.1",
+        "version": "0.1.0-alpha.2",
+        "tag": "v0.1.0-alpha.2",
+        "name": "Red+ Evolution & Obtainability Core 0.1.0-alpha.2",
         "prerelease": true,
-        "published_at": "2026-08-29T16:44:11Z",
+        "published_at": "2026-08-29T17:18:14Z",
         "published": "2026-08-29",
         "downloads": 0,
         "zip": {
-          "name": "red-plus-evolution-obtainability-core_0.1.0-alpha.1.zip",
-          "url": "https://github.com/inmento/Red-Plus-Evolution-Obtainability-Core/releases/download/v0.1.0-alpha.1/red-plus-evolution-obtainability-core_0.1.0-alpha.1.zip",
-          "size": 96150,
+          "name": "red-plus-evolution-obtainability-core_0.1.0-alpha.2.zip",
+          "url": "https://github.com/inmento/Red-Plus-Evolution-Obtainability-Core/releases/download/v0.1.0-alpha.2/red-plus-evolution-obtainability-core_0.1.0-alpha.2.zip",
+          "size": 96154,
           "downloadCount": 0
         }
       },
@@ -810,7 +810,7 @@
       "downloads": 0,
       "first_release": "2026-08-29",
       "last_release": "2026-08-29",
-      "downloadURL": "https://github.com/inmento/Red-Plus-Evolution-Obtainability-Core/releases/download/v0.1.0-alpha.1/red-plus-evolution-obtainability-core_0.1.0-alpha.1.zip"
+      "downloadURL": "https://github.com/inmento/Red-Plus-Evolution-Obtainability-Core/releases/download/v0.1.0-alpha.2/red-plus-evolution-obtainability-core_0.1.0-alpha.2.zip"
     },
     {
       "folder": "inmento@red_plus_extended_species_core",
@@ -957,16 +957,16 @@
         "prerelease": true,
         "published_at": "2026-08-25T20:23:24Z",
         "published": "2026-08-25",
-        "downloads": 0,
+        "downloads": 1,
         "zip": {
           "name": "red_plus_foundation-0.1.0-alpha.1.zip",
           "url": "https://github.com/inmento/Red-Plus-Foundation/releases/download/v0.1.0-alpha.1/red_plus_foundation-0.1.0-alpha.1.zip",
           "size": 8018,
-          "downloadCount": 0
+          "downloadCount": 1
         }
       },
       "update_check": "ok",
-      "downloads": 0,
+      "downloads": 1,
       "first_release": "2026-08-25",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Red-Plus-Foundation/releases/download/v0.1.0-alpha.1/red_plus_foundation-0.1.0-alpha.1.zip"
@@ -1285,16 +1285,16 @@
         "prerelease": false,
         "published_at": "2026-08-25T03:39:21Z",
         "published": "2026-08-25",
-        "downloads": 23,
+        "downloads": 24,
         "zip": {
           "name": "shedinja-compatibility-bridge-0.2.1.zip",
           "url": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.2.1/shedinja-compatibility-bridge-0.2.1.zip",
           "size": 6908,
-          "downloadCount": 23
+          "downloadCount": 24
         }
       },
       "update_check": "ok",
-      "downloads": 66,
+      "downloads": 67,
       "first_release": "2026-08-19",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.2.1/shedinja-compatibility-bridge-0.2.1.zip"
@@ -1408,7 +1408,7 @@
         }
       },
       "update_check": "ok",
-      "downloads": 425,
+      "downloads": 426,
       "first_release": "2026-08-14",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.1.2/starter_picker-1.1.2.zip"
