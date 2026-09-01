@@ -3,7 +3,7 @@
   "title": "Red+ Randomization Core",
   "author": "inmento",
   "summary": "Experimental Red randomization baseline with deterministic battle/world projections and fail-closed progression gates.",
-  "version": "0.1.0-alpha.2",
+  "version": "0.1.0-alpha.3",
   "categories": [
     "GAMEPLAY"
   ],
@@ -26,5 +26,5 @@
   "permissions": [
     "engine_internals"
   ],
-  "fixed_release_tag": "v0.1.0-alpha.2"
+  "fixed_release_tag": "v0.1.0-alpha.3"
 }
