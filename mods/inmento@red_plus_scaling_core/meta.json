@@ -3,7 +3,7 @@
   "title": "Red+ Scaling Core",
   "author": "inmento",
   "summary": "Deterministic battle-local trainer and ordinary wild level scaling for Red.",
-  "version": "0.1.0-alpha.1",
+  "version": "0.1.0-alpha.2",
   "categories": [
     "GAMEPLAY"
   ],
@@ -26,5 +26,5 @@
   "permissions": [
     "engine_internals"
   ],
-  "fixed_release_tag": "v0.1.0-alpha.1"
+  "fixed_release_tag": "v0.1.0-alpha.2"
 }
