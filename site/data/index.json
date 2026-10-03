@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-03T10:27:45.800Z",
+  "generated_at": "2026-10-03T07:42:32.409Z",
   "count": 28,
   "categories": [
     "GAMEPLAY",
@@ -265,7 +265,7 @@
       "title": "Gen 1 & Gen 2 Definitive Mod Suite",
       "author": "inmento",
       "summary": "Save-locked random starters, typed Metronomes, EXP overlay, permanent badge bonuses, no-trade evolutions, perfect player DVs, difficulty modes, and Gen 2 shiny progression.",
-      "version": "0.1.0-alpha.1",
+      "version": "0.1.0-alpha.2",
       "categories": [
         "GAMEPLAY",
         "QOL",
@@ -394,16 +394,16 @@
         "prerelease": false,
         "published_at": "2026-08-25T03:39:12Z",
         "published": "2026-08-25",
-        "downloads": 158,
+        "downloads": 157,
         "zip": {
           "name": "gym_leader_shuffle-1.0.10.zip",
           "url": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.10/gym_leader_shuffle-1.0.10.zip",
           "size": 18446,
-          "downloadCount": 158
+          "downloadCount": 157
         }
       },
       "update_check": "ok",
-      "downloads": 352,
+      "downloads": 351,
       "first_release": "2026-08-14",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.10/gym_leader_shuffle-1.0.10.zip"
@@ -508,16 +508,16 @@
         "prerelease": false,
         "published_at": "2026-08-25T03:39:16Z",
         "published": "2026-08-25",
-        "downloads": 152,
+        "downloads": 151,
         "zip": {
           "name": "item_randomizer-1.1.1.zip",
           "url": "https://github.com/inmento/Item-Randomizer/releases/download/1.1.1/item_randomizer-1.1.1.zip",
           "size": 19276,
-          "downloadCount": 152
+          "downloadCount": 151
         }
       },
       "update_check": "ok",
-      "downloads": 313,
+      "downloads": 312,
       "first_release": "2026-08-14",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Item-Randomizer/releases/download/1.1.1/item_randomizer-1.1.1.zip"
@@ -1031,16 +1031,16 @@
         "prerelease": false,
         "published_at": "2026-08-25T03:39:23Z",
         "published": "2026-08-25",
-        "downloads": 153,
+        "downloads": 152,
         "zip": {
           "name": "shedinja-0.4.1.zip",
           "url": "https://github.com/inmento/Shedinja/releases/download/v0.4.1/shedinja-0.4.1.zip",
           "size": 83513,
-          "downloadCount": 153
+          "downloadCount": 152
         }
       },
       "update_check": "ok",
-      "downloads": 271,
+      "downloads": 270,
       "first_release": "2026-08-18",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Shedinja/releases/download/v0.4.1/shedinja-0.4.1.zip"
@@ -1091,16 +1091,16 @@
         "prerelease": false,
         "published_at": "2026-08-25T03:39:21Z",
         "published": "2026-08-25",
-        "downloads": 132,
+        "downloads": 131,
         "zip": {
           "name": "shedinja-compatibility-bridge-0.2.1.zip",
           "url": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.2.1/shedinja-compatibility-bridge-0.2.1.zip",
           "size": 6908,
-          "downloadCount": 132
+          "downloadCount": 131
         }
       },
       "update_check": "ok",
-      "downloads": 184,
+      "downloads": 183,
       "first_release": "2026-08-19",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.2.1/shedinja-compatibility-bridge-0.2.1.zip"
@@ -1205,16 +1205,16 @@
         "prerelease": false,
         "published_at": "2026-08-25T09:36:56Z",
         "published": "2026-08-25",
-        "downloads": 441,
+        "downloads": 439,
         "zip": {
           "name": "starter_picker-1.1.2.zip",
           "url": "https://github.com/inmento/Starter-Picker/releases/download/1.1.2/starter_picker-1.1.2.zip",
           "size": 22023,
-          "downloadCount": 441
+          "downloadCount": 439
         }
       },
       "update_check": "ok",
-      "downloads": 869,
+      "downloads": 867,
       "first_release": "2026-08-14",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.1.2/starter_picker-1.1.2.zip"

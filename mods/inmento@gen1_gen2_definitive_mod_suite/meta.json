@@ -3,7 +3,7 @@
   "title": "Gen 1 & Gen 2 Definitive Mod Suite",
   "author": "inmento",
   "summary": "Save-locked random starters, typed Metronomes, EXP overlay, permanent badge bonuses, no-trade evolutions, perfect player DVs, difficulty modes, and Gen 2 shiny progression.",
-  "version": "0.1.0-alpha.1",
+  "version": "0.1.0-alpha.2",
   "categories": ["GAMEPLAY", "QOL", "BALANCE"],
   "tags": ["gen1", "gen2", "random starters", "typed metronomes", "difficulty", "badge boosts", "exp bar", "crystal"],
   "repo": "https://github.com/inmento/Gen1-Gen2-Definitive-Mod-Suite",
