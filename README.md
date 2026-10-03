@@ -8,6 +8,7 @@ The layout, entry schema, generated feed, and release selection rules are compat
 
 | Mod | Current release | Source and downloads |
 |---|---:|---|
+| Gen 1 & Gen 2 Definitive Mod Suite | 0.1.0-alpha.1 | [Release page](https://github.com/inmento/Gen1-Gen2-Definitive-Mod-Suite/releases) |
 | FireRed Kanto Visual Importer | 0.1.5 | [Release page](https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases) |
 | Gym Leader Shuffle | 1.0.9 | [Release page](https://github.com/inmento/Gym-Leader-Shuffle/releases) |
 | Item Randomizer | 1.0.13 | [Release page](https://github.com/inmento/Item-Randomizer/releases) |
