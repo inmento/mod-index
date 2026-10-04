@@ -22,7 +22,7 @@
   "github": "inmento/Red-Centered-Layout",
   "automatic_version_check": true,
   "api": 2,
-  "game_version": ">=0.2.18",
+  "game_version": ">=0.3.51",
   "games": [
     "red",
     "yellow"

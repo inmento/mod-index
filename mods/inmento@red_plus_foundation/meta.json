@@ -17,7 +17,7 @@
   "github": "inmento/Red-Plus-Foundation",
   "automatic_version_check": true,
   "api": 2,
-  "game_version": ">=0.2.25 <1.0.0",
+  "game_version": ">=0.3.51 <1.0.0",
   "games": [
     "red"
   ],
