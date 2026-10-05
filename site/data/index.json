@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-05T09:35:01.804Z",
+  "generated_at": "2026-10-05T12:21:49.264Z",
   "count": 29,
   "categories": [
     "GAMEPLAY",
@@ -1073,16 +1073,16 @@
         "prerelease": false,
         "published_at": "2026-08-25T03:39:23Z",
         "published": "2026-08-25",
-        "downloads": 179,
+        "downloads": 180,
         "zip": {
           "name": "shedinja-0.4.1.zip",
           "url": "https://github.com/inmento/Shedinja/releases/download/v0.4.1/shedinja-0.4.1.zip",
           "size": 83513,
-          "downloadCount": 179
+          "downloadCount": 180
         }
       },
       "update_check": "ok",
-      "downloads": 297,
+      "downloads": 298,
       "first_release": "2026-08-18",
       "last_release": "2026-08-25",
       "downloadURL": "https://github.com/inmento/Shedinja/releases/download/v0.4.1/shedinja-0.4.1.zip"
