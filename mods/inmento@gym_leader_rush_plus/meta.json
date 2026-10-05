@@ -1,0 +1,37 @@
+{
+  "id": "gym_leader_rush_plus",
+  "title": "Gym Leader Rush+",
+  "author": "inmento",
+  "summary": "Sequential Gen 1 and Gen 2 Gym Leader Rush with persistent shuffle, destination-level scaling, native rewards, optional moves and held items, Rush shop, and Johto-to-Kanto continuation.",
+  "version": "0.3.1",
+  "categories": [
+    "GAMEPLAY",
+    "BALANCE"
+  ],
+  "tags": [
+    "gym leaders",
+    "gym rush",
+    "shuffle",
+    "scaling",
+    "kanto",
+    "johto"
+  ],
+  "repo": "https://github.com/inmento/Gym-Leader-Rush-Plus",
+  "github": "inmento/Gym-Leader-Rush-Plus",
+  "automatic_version_check": false,
+  "api": 2,
+  "game_version": ">=0.3.51",
+  "games": [
+    "gen1",
+    "gen2"
+  ],
+  "profile": "content",
+  "affects_link": false,
+  "permissions": [
+    "engine_internals"
+  ],
+  "conflicts": [
+    "gym_leader_shuffle",
+    "randomized_gym_challenge"
+  ]
+}
