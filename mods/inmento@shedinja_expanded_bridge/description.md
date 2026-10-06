@@ -17,3 +17,5 @@ The bridge contains no art files. Core Shedinja retains responsibility for sprit
 ## Crystal runtime support
 
 Version 0.2.0 validates the native Crystal Expanded Species route while preserving the separate Gen 1-only Crystal 251 configuration. It does not treat Pokémon Crystal as the Crystal 251 framework.
+
+[View the source repository](https://github.com/inmento/Shedinja-Expanded-Bridge) or [download the latest release](https://github.com/inmento/Shedinja-Expanded-Bridge/releases/latest).

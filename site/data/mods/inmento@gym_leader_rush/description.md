@@ -5,3 +5,5 @@ Gym Leader Rush+ combines a sequential Gym Leader Rush with persistent per-save 
 The mod supports Red, Blue, Yellow, Gold, Silver, and Crystal. It offers an initial Rush prompt followed by an optional shuffle prompt, direct routing after successful gym completion, a progression shop through the native Gym Guide path, optional leader moveset and held-item randomization, EXP scaling during the Rush, Victory Road handoff, and the Gen 2 Johto-to-Kanto continuation.
 
 This release is compatible with Gen1Recomp **0.3.51 or newer**. It should not be installed alongside **Gym Leader Shuffle** or **Randomized Gym Challenge**, because those mods also alter gym leader battle resolution. The source and release contain no ROM-derived assets.
+
+[View the source repository](https://github.com/inmento/Gym-Leader-Rush-Plus) or [download the latest release](https://github.com/inmento/Gym-Leader-Rush-Plus/releases/latest).

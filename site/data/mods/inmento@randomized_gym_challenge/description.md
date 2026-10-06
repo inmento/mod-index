@@ -15,3 +15,5 @@ During an active Gym Challenge, each physical gym offers one extra weighted enco
 Do not enable this alongside **Gym Leader Shuffle**. Both mods alter gym-leader battle behavior, and the package declares a conflict to prevent the combination.
 
 The source and release ZIP contain no ROM content, extracted game data, or game assets.
+
+[View the source repository](https://github.com/inmento/Randomized-Gym-Challenge) or [download the latest release](https://github.com/inmento/Randomized-Gym-Challenge/releases/latest).

@@ -5,22 +5,22 @@ This is the personal release index for **Inmento’s Gen 1 Recomp mods**. It lis
 The layout, entry schema, generated feed, and release selection rules are compatible with the public [Gen 1 Recomp Mod Index](https://github.com/bryanthaboi/gen1recomp-mod-index). This repository is a personal catalogue, not a replacement for Bryan’s community index.
 
 ## Current mods
-
 | Mod | Current release | Source and downloads |
 |---|---:|---|
-| Gen 1 & Gen 2 Definitive Mod Suite | 0.1.0-alpha.1 | [Release page](https://github.com/inmento/Gen1-Gen2-Definitive-Mod-Suite/releases) |
-| FireRed Kanto Visual Importer | 0.1.5 | [Release page](https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases) |
-| Gym Leader Shuffle | 1.0.9 | [Release page](https://github.com/inmento/Gym-Leader-Shuffle/releases) |
-| Item Randomizer | 1.0.13 | [Release page](https://github.com/inmento/Item-Randomizer/releases) |
-| Inventory QoL | 0.1.3 | [Release page](https://github.com/inmento/Inventory-QoL/releases) |
-| Randomized Gym Challenge | 1.1.10 | [Release page](https://github.com/inmento/Randomized-Gym-Challenge/releases) |
-| Red & Yellow Centered Layout | 0.1.2 | [Release page](https://github.com/inmento/Red-Centered-Layout/releases) |
-| Shedinja | 0.3.6 | [Release page](https://github.com/inmento/Shedinja/releases) |
-| Shedinja Compatibility Bridge | 0.1.5 | [Release page](https://github.com/inmento/Shedinja-Expanded-Bridge/releases) |
-| Sound Effect Replacer | 0.3.4 | [Release page](https://github.com/inmento/Sound-Effect-Replacer/releases) |
-| Starter Picker | 1.0.14 | [Release page](https://github.com/inmento/Starter-Picker/releases) |
-| Typed Metronomes | 0.1.0 | [Release page](https://github.com/inmento/Typed-Metronomes/releases) |
-
+| Gen 1 & Gen 2 Definitive Mod Suite | 0.1.0-alpha.2 | [Release page](https://github.com/inmento/Gen1-Gen2-Definitive-Mod-Suite/releases) |
+| Gold/Silver Case Style | 0.2.1 | [Release page](https://github.com/inmento/Gold-Silver-Case-Style/releases) |
+| Gym Leader Rush+ | 0.3.2 | [Release page](https://github.com/inmento/Gym-Leader-Rush-Plus/releases) |
+| Gym Leader Shuffle | 1.0.10 | [Release page](https://github.com/inmento/Gym-Leader-Shuffle/releases) |
+| Inventory QoL | 0.2.1 | [Release page](https://github.com/inmento/Inventory-QoL/releases) |
+| Item Randomizer | 1.1.1 | [Release page](https://github.com/inmento/Item-Randomizer/releases) |
+| Randomized Gym Challenge | 1.1.11 | [Release page](https://github.com/inmento/Randomized-Gym-Challenge/releases) |
+| Red & Yellow Centered Layout | 0.1.3 | [Release page](https://github.com/inmento/Red-Centered-Layout/releases) |
+| Shedinja | 0.4.1 | [Release page](https://github.com/inmento/Shedinja/releases) |
+| Shedinja Compatibility Bridge | 0.2.1 | [Release page](https://github.com/inmento/Shedinja-Expanded-Bridge/releases) |
+| Sound Effect Replacer | 0.5.1 | [Release page](https://github.com/inmento/Sound-Effect-Replacer/releases) |
+| Starter Picker | 1.1.2 | [Release page](https://github.com/inmento/Starter-Picker/releases) |
+| Texture Pack Templates | 0.2.0 | [Release page](https://github.com/inmento/Texture-Pack-Templates/releases) |
+| Typed Metronomes | 0.2.1 | [Release page](https://github.com/inmento/Typed-Metronomes/releases) |
 ## Machine-readable feed
 
 The generated catalogue is available at [`site/data/index.json`](site/data/index.json). Each entry carries its source repository, supported games, API information, and the latest installable release ZIP selected from GitHub Releases.

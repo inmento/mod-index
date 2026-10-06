@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-06T12:05:04.907Z",
-  "count": 19,
+  "generated_at": "2026-10-06T21:28:20.332Z",
+  "count": 14,
   "categories": [
     "GAMEPLAY",
     "CONTENT",
@@ -17,248 +17,6 @@
     "OTHER"
   ],
   "mods": [
-    {
-      "folder": "inmento@FIRERED_BATTLE_SPRITES",
-      "id": "FIRERED_BATTLE_SPRITES",
-      "title": "FireRed Battle Sprite Importer",
-      "author": "inmento",
-      "summary": "Experimental player-local FireRed v1.0 battle, title, Oak, portrait, Pokédex, and player-visual importer for Pokémon Red.",
-      "version": "0.1.0-rc.3",
-      "categories": [
-        "ART",
-        "TOOL"
-      ],
-      "tags": [
-        "firered",
-        "battle sprites",
-        "portraits",
-        "title",
-        "red",
-        "experimental"
-      ],
-      "repo": "https://github.com/inmento/FireRed-Battle-Sprite-Importer",
-      "github": "inmento/FireRed-Battle-Sprite-Importer",
-      "automatic_version_check": true,
-      "api": 2,
-      "game_version": ">=0.3.51 <1.0.0",
-      "games": [
-        "red"
-      ],
-      "profile": "overhaul",
-      "affects_link": false,
-      "experimental": true,
-      "permissions": [
-        "engine_internals"
-      ],
-      "conflicts": [
-        "FIRERED_KANTO_VISUALS"
-      ],
-      "thumbnail": null,
-      "description_url": "data/mods/inmento@FIRERED_BATTLE_SPRITES/description.md",
-      "latest": null,
-      "update_check": "no installable release"
-    },
-    {
-      "folder": "inmento@FIRERED_BROAD_OVERWORLD",
-      "id": "FIRERED_BROAD_OVERWORLD",
-      "title": "FireRed Broad Overworld Importer",
-      "author": "inmento",
-      "summary": "Experimental player-local FireRed v1.0 broad-overworld visual projection for Pokémon Red that preserves native map and gameplay semantics.",
-      "version": "0.1.0-rc.2",
-      "categories": [
-        "ART",
-        "TOOL"
-      ],
-      "tags": [
-        "firered",
-        "overworld",
-        "tilesets",
-        "red",
-        "experimental",
-        "player local"
-      ],
-      "repo": "https://github.com/inmento/FireRed-Broad-Overworld-Importer",
-      "github": "inmento/FireRed-Broad-Overworld-Importer",
-      "automatic_version_check": true,
-      "api": 2,
-      "game_version": ">=0.3.51 <1.0.0",
-      "games": [
-        "red"
-      ],
-      "profile": "overhaul",
-      "affects_link": false,
-      "experimental": true,
-      "permissions": [
-        "engine_internals"
-      ],
-      "conflicts": [
-        "FIRERED_KANTO_VISUALS",
-        "FIRERED_FOLIAGE"
-      ],
-      "thumbnail": null,
-      "description_url": "data/mods/inmento@FIRERED_BROAD_OVERWORLD/description.md",
-      "latest": null,
-      "update_check": "no installable release"
-    },
-    {
-      "folder": "inmento@FIRERED_FOLIAGE",
-      "id": "FIRERED_FOLIAGE",
-      "title": "FireRed Foliage Importer",
-      "author": "inmento",
-      "summary": "Experimental player-local FireRed v1.0 foliage visual importer for audited Red trees and encounter grass while leaving maps and gameplay unchanged.",
-      "version": "0.1.0-rc.2",
-      "categories": [
-        "ART",
-        "TOOL"
-      ],
-      "tags": [
-        "firered",
-        "foliage",
-        "trees",
-        "grass",
-        "red",
-        "experimental"
-      ],
-      "repo": "https://github.com/inmento/FireRed-Foliage-Importer",
-      "github": "inmento/FireRed-Foliage-Importer",
-      "automatic_version_check": true,
-      "api": 2,
-      "game_version": ">=0.3.51 <1.0.0",
-      "games": [
-        "red"
-      ],
-      "profile": "overhaul",
-      "affects_link": false,
-      "experimental": true,
-      "permissions": [
-        "engine_internals"
-      ],
-      "conflicts": [
-        "FIRERED_KANTO_VISUALS"
-      ],
-      "thumbnail": null,
-      "description_url": "data/mods/inmento@FIRERED_FOLIAGE/description.md",
-      "latest": null,
-      "update_check": "no installable release"
-    },
-    {
-      "folder": "inmento@FIRERED_KANTO_VISUALS",
-      "id": "FIRERED_KANTO_VISUALS",
-      "title": "FireRed Kanto Visual Importer",
-      "author": "inmento",
-      "summary": "Player-local FireRed v1.0 visual importer with isolated generated profile atlases and four-cell collision/warp preservation for Pallet Town and Red’s House 1F.",
-      "version": "0.2.5",
-      "categories": [
-        "ART",
-        "CONTENT"
-      ],
-      "tags": [
-        "firered",
-        "visual importer",
-        "map-aware",
-        "semantic tiles",
-        "collision-preserving",
-        "pallet town",
-        "sprites",
-        "trainer portraits"
-      ],
-      "repo": "https://github.com/inmento/FireRed-Kanto-Visual-Importer",
-      "github": "inmento/FireRed-Kanto-Visual-Importer",
-      "automatic_version_check": true,
-      "api": 2,
-      "game_version": ">=0.3.51 <1.0.0",
-      "games": [
-        "gen1"
-      ],
-      "profile": "overhaul",
-      "affects_link": false,
-      "permissions": [
-        "engine_internals"
-      ],
-      "thumbnail": null,
-      "description_url": "data/mods/inmento@FIRERED_KANTO_VISUALS/description.md",
-      "latest": {
-        "version": "0.2.5",
-        "tag": "v0.2.5",
-        "name": "v0.2.5 — Gen1Recomp 0.2.18 compatibility",
-        "prerelease": false,
-        "published_at": "2026-08-25T03:39:09Z",
-        "published": "2026-08-25",
-        "downloads": 9,
-        "zip": {
-          "name": "FIRERED_KANTO_VISUALS-0.2.5.zip",
-          "url": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.2.5/FIRERED_KANTO_VISUALS-0.2.5.zip",
-          "size": 28419,
-          "downloadCount": 9
-        }
-      },
-      "update_check": "ok",
-      "downloads": 31,
-      "first_release": "2026-08-20",
-      "last_release": "2026-08-25",
-      "downloadURL": "https://github.com/inmento/FireRed-Kanto-Visual-Importer/releases/download/v0.2.5/FIRERED_KANTO_VISUALS-0.2.5.zip"
-    },
-    {
-      "folder": "inmento@FIRERED_TILESET_SHEET_PROTOTYPE",
-      "id": "FIRERED_TILESET_SHEET_PROTOTYPE",
-      "title": "FireRed Tilesheet Importer Prototype",
-      "author": "inmento",
-      "summary": "Experimental, player-local FireRed v1.0 sheet importer with an enforced evidence-backed 8×8 target-slot ledger; it activates only verified Red grass and compatible Red’s House floor slots.",
-      "version": "0.1.0-prototype.4",
-      "categories": [
-        "ART",
-        "TOOL"
-      ],
-      "tags": [
-        "firered",
-        "tilesheet",
-        "visual importer",
-        "red",
-        "experimental",
-        "player local"
-      ],
-      "repo": "https://github.com/inmento/FireRed-Tilesheet-Importer",
-      "github": "inmento/FireRed-Tilesheet-Importer",
-      "automatic_version_check": true,
-      "api": 2,
-      "game_version": ">=0.3.51",
-      "games": [
-        "red"
-      ],
-      "profile": "content",
-      "affects_link": false,
-      "experimental": true,
-      "permissions": [
-        "engine_internals"
-      ],
-      "conflicts": [
-        "FIRERED_KANTO_VISUALS",
-        "FIRERED_BROAD_OVERWORLD",
-        "FIRERED_FOLIAGE"
-      ],
-      "thumbnail": null,
-      "description_url": "data/mods/inmento@FIRERED_TILESET_SHEET_PROTOTYPE/description.md",
-      "latest": {
-        "version": "0.1.0-prototype.4",
-        "tag": "v0.1.0-prototype.4",
-        "name": "v0.1.0-prototype.4 — compatible-only tilesheet proof",
-        "prerelease": true,
-        "published_at": "2026-08-25T03:41:20Z",
-        "published": "2026-08-25",
-        "downloads": 4,
-        "zip": {
-          "name": "FIRERED_TILESET_SHEET_PROTOTYPE-0.1.0-prototype.4.zip",
-          "url": "https://github.com/inmento/FireRed-Tilesheet-Importer/releases/download/v0.1.0-prototype.4/FIRERED_TILESET_SHEET_PROTOTYPE-0.1.0-prototype.4.zip",
-          "size": 20383,
-          "downloadCount": 4
-        }
-      },
-      "update_check": "ok",
-      "downloads": 7,
-      "first_release": "2026-08-24",
-      "last_release": "2026-08-25",
-      "downloadURL": "https://github.com/inmento/FireRed-Tilesheet-Importer/releases/download/v0.1.0-prototype.4/FIRERED_TILESET_SHEET_PROTOTYPE-0.1.0-prototype.4.zip"
-    },
     {
       "folder": "inmento@gen1_gen2_definitive_mod_suite",
       "id": "gen1_gen2_definitive_mod_suite",
@@ -285,7 +43,7 @@
       "github": "inmento/Gen1-Gen2-Definitive-Mod-Suite",
       "automatic_version_check": false,
       "api": 2,
-      "game_version": ">=0.3.51 <1.0.0",
+      "game_version": ">=0.3.57 <1.0.0",
       "games": [
         "gen1",
         "gen2"
@@ -323,7 +81,7 @@
       "github": "inmento/Gold-Silver-Case-Style",
       "automatic_version_check": true,
       "api": 2,
-      "game_version": ">=0.3.51",
+      "game_version": ">=0.3.57",
       "games": [
         "gen2"
       ],
@@ -334,26 +92,8 @@
       ],
       "thumbnail": null,
       "description_url": "data/mods/inmento@gold_silver_case_style/description.md",
-      "latest": {
-        "version": "0.2.1",
-        "tag": "v0.2.1",
-        "name": "v0.2.1 — Gen1Recomp 0.2.18 compatibility",
-        "prerelease": false,
-        "published_at": "2026-08-25T03:39:11Z",
-        "published": "2026-08-25",
-        "downloads": 5,
-        "zip": {
-          "name": "Gold-Silver-Case-Style-0.2.1.zip",
-          "url": "https://github.com/inmento/Gold-Silver-Case-Style/releases/download/v0.2.1/Gold-Silver-Case-Style-0.2.1.zip",
-          "size": 10030,
-          "downloadCount": 5
-        }
-      },
-      "update_check": "ok",
-      "downloads": 12,
-      "first_release": "2026-08-22",
-      "last_release": "2026-08-25",
-      "downloadURL": "https://github.com/inmento/Gold-Silver-Case-Style/releases/download/v0.2.1/Gold-Silver-Case-Style-0.2.1.zip"
+      "latest": null,
+      "update_check": "pending"
     },
     {
       "folder": "inmento@gym_leader_rush",
@@ -378,7 +118,7 @@
       "github": "inmento/Gym-Leader-Rush-Plus",
       "automatic_version_check": false,
       "api": 2,
-      "game_version": ">=0.3.51",
+      "game_version": ">=0.3.57",
       "games": [
         "gen1",
         "gen2"
@@ -417,7 +157,7 @@
       "github": "inmento/Gym-Leader-Shuffle",
       "automatic_version_check": true,
       "api": 2,
-      "game_version": ">=0.3.51",
+      "game_version": ">=0.3.57",
       "games": [
         "gen1",
         "gen2"
@@ -429,26 +169,8 @@
       ],
       "thumbnail": null,
       "description_url": "data/mods/inmento@gym_leader_shuffle/description.md",
-      "latest": {
-        "version": "1.0.10",
-        "tag": "1.0.10",
-        "name": "1.0.10 — Gen1Recomp 0.2.18 compatibility",
-        "prerelease": false,
-        "published_at": "2026-08-25T03:39:12Z",
-        "published": "2026-08-25",
-        "downloads": 186,
-        "zip": {
-          "name": "gym_leader_shuffle-1.0.10.zip",
-          "url": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.10/gym_leader_shuffle-1.0.10.zip",
-          "size": 18446,
-          "downloadCount": 186
-        }
-      },
-      "update_check": "ok",
-      "downloads": 380,
-      "first_release": "2026-08-14",
-      "last_release": "2026-08-25",
-      "downloadURL": "https://github.com/inmento/Gym-Leader-Shuffle/releases/download/1.0.10/gym_leader_shuffle-1.0.10.zip"
+      "latest": null,
+      "update_check": "pending"
     },
     {
       "folder": "inmento@inventory_qol",
@@ -475,7 +197,7 @@
       "github": "inmento/Inventory-QoL",
       "automatic_version_check": true,
       "api": 2,
-      "game_version": ">=0.3.51",
+      "game_version": ">=0.3.57",
       "games": [
         "gen1",
         "gen2"
@@ -487,26 +209,8 @@
       ],
       "thumbnail": null,
       "description_url": "data/mods/inmento@inventory_qol/description.md",
-      "latest": {
-        "version": "0.2.1",
-        "tag": "v0.2.1",
-        "name": "v0.2.1 — Gen1Recomp 0.2.18 compatibility",
-        "prerelease": false,
-        "published_at": "2026-08-25T03:39:14Z",
-        "published": "2026-08-25",
-        "downloads": 3,
-        "zip": {
-          "name": "inventory_qol-0.2.1.zip",
-          "url": "https://github.com/inmento/Inventory-QoL/releases/download/v0.2.1/inventory_qol-0.2.1.zip",
-          "size": 25951,
-          "downloadCount": 3
-        }
-      },
-      "update_check": "ok",
-      "downloads": 10,
-      "first_release": "2026-08-21",
-      "last_release": "2026-08-25",
-      "downloadURL": "https://github.com/inmento/Inventory-QoL/releases/download/v0.2.1/inventory_qol-0.2.1.zip"
+      "latest": null,
+      "update_check": "pending"
     },
     {
       "folder": "inmento@item_randomizer",
@@ -531,7 +235,7 @@
       "github": "inmento/Item-Randomizer",
       "automatic_version_check": true,
       "api": 2,
-      "game_version": ">=0.3.51 <2.0.0",
+      "game_version": ">=0.3.57 <2.0.0",
       "games": [
         "gen1",
         "gen2"
@@ -543,26 +247,8 @@
       ],
       "thumbnail": null,
       "description_url": "data/mods/inmento@item_randomizer/description.md",
-      "latest": {
-        "version": "1.1.1",
-        "tag": "1.1.1",
-        "name": "1.1.1 — Gen1Recomp 0.2.18 compatibility",
-        "prerelease": false,
-        "published_at": "2026-08-25T03:39:16Z",
-        "published": "2026-08-25",
-        "downloads": 181,
-        "zip": {
-          "name": "item_randomizer-1.1.1.zip",
-          "url": "https://github.com/inmento/Item-Randomizer/releases/download/1.1.1/item_randomizer-1.1.1.zip",
-          "size": 19276,
-          "downloadCount": 181
-        }
-      },
-      "update_check": "ok",
-      "downloads": 342,
-      "first_release": "2026-08-14",
-      "last_release": "2026-08-25",
-      "downloadURL": "https://github.com/inmento/Item-Randomizer/releases/download/1.1.1/item_randomizer-1.1.1.zip"
+      "latest": null,
+      "update_check": "pending"
     },
     {
       "folder": "inmento@randomized_gym_challenge",
@@ -587,7 +273,7 @@
       "github": "inmento/Randomized-Gym-Challenge",
       "automatic_version_check": true,
       "api": 2,
-      "game_version": ">=0.3.51",
+      "game_version": ">=0.3.57",
       "games": [
         "gen1",
         "gen2"
@@ -602,26 +288,8 @@
       ],
       "thumbnail": null,
       "description_url": "data/mods/inmento@randomized_gym_challenge/description.md",
-      "latest": {
-        "version": "1.1.11",
-        "tag": "v1.1.11",
-        "name": "v1.1.11 — Gen1Recomp 0.2.18 compatibility",
-        "prerelease": false,
-        "published_at": "2026-08-25T03:39:18Z",
-        "published": "2026-08-25",
-        "downloads": 156,
-        "zip": {
-          "name": "randomized_gym_challenge-1.1.11.zip",
-          "url": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/v1.1.11/randomized_gym_challenge-1.1.11.zip",
-          "size": 46892,
-          "downloadCount": 156
-        }
-      },
-      "update_check": "ok",
-      "downloads": 220,
-      "first_release": "2026-08-16",
-      "last_release": "2026-08-25",
-      "downloadURL": "https://github.com/inmento/Randomized-Gym-Challenge/releases/download/v1.1.11/randomized_gym_challenge-1.1.11.zip"
+      "latest": null,
+      "update_check": "pending"
     },
     {
       "folder": "inmento@red_centered_layout",
@@ -648,7 +316,7 @@
       "github": "inmento/Red-Centered-Layout",
       "automatic_version_check": true,
       "api": 2,
-      "game_version": ">=0.3.51",
+      "game_version": ">=0.3.57",
       "games": [
         "red",
         "yellow"
@@ -660,26 +328,8 @@
       ],
       "thumbnail": null,
       "description_url": "data/mods/inmento@red_centered_layout/description.md",
-      "latest": {
-        "version": "0.1.3",
-        "tag": "v0.1.3",
-        "name": "v0.1.3 — Gen1Recomp 0.2.18 compatibility",
-        "prerelease": false,
-        "published_at": "2026-08-25T03:39:20Z",
-        "published": "2026-08-25",
-        "downloads": 21,
-        "zip": {
-          "name": "Red-Centered-Layout-0.1.3.zip",
-          "url": "https://github.com/inmento/Red-Centered-Layout/releases/download/v0.1.3/Red-Centered-Layout-0.1.3.zip",
-          "size": 5904,
-          "downloadCount": 21
-        }
-      },
-      "update_check": "ok",
-      "downloads": 35,
-      "first_release": "2026-08-22",
-      "last_release": "2026-08-25",
-      "downloadURL": "https://github.com/inmento/Red-Centered-Layout/releases/download/v0.1.3/Red-Centered-Layout-0.1.3.zip"
+      "latest": null,
+      "update_check": "pending"
     },
     {
       "folder": "inmento@shedinja",
@@ -704,7 +354,7 @@
       "github": "inmento/Shedinja",
       "automatic_version_check": true,
       "api": 2,
-      "game_version": ">=0.3.51 <1.0.0",
+      "game_version": ">=0.3.57 <1.0.0",
       "games": [
         "gen1",
         "gen2"
@@ -716,26 +366,8 @@
       ],
       "thumbnail": null,
       "description_url": "data/mods/inmento@shedinja/description.md",
-      "latest": {
-        "version": "0.4.1",
-        "tag": "v0.4.1",
-        "name": "v0.4.1 — Gen1Recomp 0.2.18 compatibility",
-        "prerelease": false,
-        "published_at": "2026-08-25T03:39:23Z",
-        "published": "2026-08-25",
-        "downloads": 188,
-        "zip": {
-          "name": "shedinja-0.4.1.zip",
-          "url": "https://github.com/inmento/Shedinja/releases/download/v0.4.1/shedinja-0.4.1.zip",
-          "size": 83513,
-          "downloadCount": 188
-        }
-      },
-      "update_check": "ok",
-      "downloads": 306,
-      "first_release": "2026-08-18",
-      "last_release": "2026-08-25",
-      "downloadURL": "https://github.com/inmento/Shedinja/releases/download/v0.4.1/shedinja-0.4.1.zip"
+      "latest": null,
+      "update_check": "pending"
     },
     {
       "folder": "inmento@shedinja_expanded_bridge",
@@ -761,7 +393,7 @@
       "github": "inmento/Shedinja-Expanded-Bridge",
       "automatic_version_check": true,
       "api": 2,
-      "game_version": ">=0.3.51 <1.0.0",
+      "game_version": ">=0.3.57 <1.0.0",
       "games": [
         "gen1",
         "gen2"
@@ -776,26 +408,8 @@
       ],
       "thumbnail": null,
       "description_url": "data/mods/inmento@shedinja_expanded_bridge/description.md",
-      "latest": {
-        "version": "0.2.1",
-        "tag": "0.2.1",
-        "name": "0.2.1 — Gen1Recomp 0.2.18 compatibility",
-        "prerelease": false,
-        "published_at": "2026-08-25T03:39:21Z",
-        "published": "2026-08-25",
-        "downloads": 155,
-        "zip": {
-          "name": "shedinja-compatibility-bridge-0.2.1.zip",
-          "url": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.2.1/shedinja-compatibility-bridge-0.2.1.zip",
-          "size": 6908,
-          "downloadCount": 155
-        }
-      },
-      "update_check": "ok",
-      "downloads": 207,
-      "first_release": "2026-08-19",
-      "last_release": "2026-08-25",
-      "downloadURL": "https://github.com/inmento/Shedinja-Expanded-Bridge/releases/download/0.2.1/shedinja-compatibility-bridge-0.2.1.zip"
+      "latest": null,
+      "update_check": "pending"
     },
     {
       "folder": "inmento@sound_effect_replacer",
@@ -821,7 +435,7 @@
       "github": "inmento/Sound-Effect-Replacer",
       "automatic_version_check": true,
       "api": 2,
-      "game_version": ">=0.3.51",
+      "game_version": ">=0.3.57",
       "games": [
         "gen1",
         "gen2"
@@ -833,26 +447,8 @@
       ],
       "thumbnail": null,
       "description_url": "data/mods/inmento@sound_effect_replacer/description.md",
-      "latest": {
-        "version": "0.5.1",
-        "tag": "v0.5.1",
-        "name": "v0.5.1 — Gen1Recomp 0.2.18 compatibility",
-        "prerelease": false,
-        "published_at": "2026-08-25T03:39:25Z",
-        "published": "2026-08-25",
-        "downloads": 225,
-        "zip": {
-          "name": "sound_effect_replacer-0.5.1.zip",
-          "url": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/v0.5.1/sound_effect_replacer-0.5.1.zip",
-          "size": 765921,
-          "downloadCount": 225
-        }
-      },
-      "update_check": "ok",
-      "downloads": 297,
-      "first_release": "2026-08-18",
-      "last_release": "2026-08-25",
-      "downloadURL": "https://github.com/inmento/Sound-Effect-Replacer/releases/download/v0.5.1/sound_effect_replacer-0.5.1.zip"
+      "latest": null,
+      "update_check": "pending"
     },
     {
       "folder": "inmento@starter_picker",
@@ -878,7 +474,7 @@
       "github": "inmento/Starter-Picker",
       "automatic_version_check": true,
       "api": 2,
-      "game_version": ">=0.3.51",
+      "game_version": ">=0.3.57",
       "games": [
         "gen1",
         "gen2"
@@ -890,26 +486,8 @@
       ],
       "thumbnail": null,
       "description_url": "data/mods/inmento@starter_picker/description.md",
-      "latest": {
-        "version": "1.1.2",
-        "tag": "1.1.2",
-        "name": "Starter Picker 1.1.2 — Better Menus options compatibility",
-        "prerelease": false,
-        "published_at": "2026-08-25T09:36:56Z",
-        "published": "2026-08-25",
-        "downloads": 492,
-        "zip": {
-          "name": "starter_picker-1.1.2.zip",
-          "url": "https://github.com/inmento/Starter-Picker/releases/download/1.1.2/starter_picker-1.1.2.zip",
-          "size": 22023,
-          "downloadCount": 492
-        }
-      },
-      "update_check": "ok",
-      "downloads": 920,
-      "first_release": "2026-08-14",
-      "last_release": "2026-08-25",
-      "downloadURL": "https://github.com/inmento/Starter-Picker/releases/download/1.1.2/starter_picker-1.1.2.zip"
+      "latest": null,
+      "update_check": "pending"
     },
     {
       "folder": "inmento@texture_pack_templates",
@@ -936,7 +514,7 @@
       "github": "inmento/Texture-Pack-Templates",
       "automatic_version_check": true,
       "api": 2,
-      "game_version": ">=0.3.51",
+      "game_version": ">=0.3.57",
       "games": [
         "all"
       ],
@@ -944,26 +522,8 @@
       "affects_link": false,
       "thumbnail": null,
       "description_url": "data/mods/inmento@texture_pack_templates/description.md",
-      "latest": {
-        "version": "0.2.0",
-        "tag": "v0.2.0",
-        "name": "v0.2.0 — complete visual override templates",
-        "prerelease": false,
-        "published_at": "2026-08-25T03:42:07Z",
-        "published": "2026-08-25",
-        "downloads": 2,
-        "zip": {
-          "name": "blue-texture-pack-template-0.2.0.zip",
-          "url": "https://github.com/inmento/Texture-Pack-Templates/releases/download/v0.2.0/blue-texture-pack-template-0.2.0.zip",
-          "size": 4384,
-          "downloadCount": 2
-        }
-      },
-      "update_check": "ok",
-      "downloads": 2,
-      "first_release": "2026-08-25",
-      "last_release": "2026-08-25",
-      "downloadURL": "https://github.com/inmento/Texture-Pack-Templates/releases/download/v0.2.0/blue-texture-pack-template-0.2.0.zip"
+      "latest": null,
+      "update_check": "pending"
     },
     {
       "folder": "inmento@typed_metronomes",
@@ -990,7 +550,7 @@
       "github": "inmento/Typed-Metronomes",
       "automatic_version_check": true,
       "api": 2,
-      "game_version": ">=0.3.51 <2.0.0",
+      "game_version": ">=0.3.57 <2.0.0",
       "games": [
         "gen1",
         "gen2"
@@ -1003,26 +563,8 @@
       "license": "MIT",
       "thumbnail": null,
       "description_url": "data/mods/inmento@typed_metronomes/description.md",
-      "latest": {
-        "version": "0.2.1",
-        "tag": "v0.2.1",
-        "name": "v0.2.1 — Gen1Recomp 0.2.18 compatibility",
-        "prerelease": false,
-        "published_at": "2026-08-25T03:39:28Z",
-        "published": "2026-08-25",
-        "downloads": 4,
-        "zip": {
-          "name": "Typed-Metronomes-v0.2.1.zip",
-          "url": "https://github.com/inmento/Typed-Metronomes/releases/download/v0.2.1/Typed-Metronomes-v0.2.1.zip",
-          "size": 11021,
-          "downloadCount": 4
-        }
-      },
-      "update_check": "ok",
-      "downloads": 8,
-      "first_release": "2026-08-22",
-      "last_release": "2026-08-25",
-      "downloadURL": "https://github.com/inmento/Typed-Metronomes/releases/download/v0.2.1/Typed-Metronomes-v0.2.1.zip"
+      "latest": null,
+      "update_check": "pending"
     }
   ]
 }

@@ -18,3 +18,5 @@ The Crystal template includes a path-reference document for battle art, tilesets
 > **Do not package ROM files, extracted game assets, cache folders, game Lua/data, or derived recolors.** Texture packs may include artwork their creator made or is licensed to distribute. A recolor or edit derived from a player’s imported game art must use the engine’s asset-transform route rather than shipping the pixels.
 
 The repository and its release assets are public. The templates remain asset-free.
+
+[View the source repository](https://github.com/inmento/Texture-Pack-Templates) or [download the latest release](https://github.com/inmento/Texture-Pack-Templates/releases/latest).
